@@ -1,0 +1,36 @@
+Stats for dataset BS_Oil_NRet:
+	Accuracy of model Linear SVC with data BS_Oil_NRet: 0.477987421384
+	Accuracy of model MultinomialNB with data BS_Oil_NRet: 0.308176100629
+	Accuracy of model LogisticRegression with data BS_Oil_NRet: 0.427672955975
+	Accuracy of model RandomForestClassifier with data BS_Oil_NRet: 0.383647798742
+
+Stats for dataset BS_Oil_Ret:
+	Accuracy of model Linear SVC with data BS_Oil_Ret: 0.675862068966
+	Accuracy of model MultinomialNB with data BS_Oil_Ret: 0.455172413793
+	Accuracy of model LogisticRegression with data BS_Oil_Ret: 0.606896551724
+	Accuracy of model RandomForestClassifier with data BS_Oil_Ret: 0.620689655172
+
+Stats for dataset BS_RM_NRet:
+	Accuracy of model Linear SVC with data BS_RM_NRet: 0.668711656442
+	Accuracy of model MultinomialNB with data BS_RM_NRet: 0.453987730061
+	Accuracy of model LogisticRegression with data BS_RM_NRet: 0.564417177914
+	Accuracy of model RandomForestClassifier with data BS_RM_NRet: 0.564417177914
+
+Stats for dataset Core_Oil_NRet:
+	Accuracy of model Linear SVC with data Core_Oil_NRet: 0.47572815534
+	Accuracy of model MultinomialNB with data Core_Oil_NRet: 0.320388349515
+	Accuracy of model LogisticRegression with data Core_Oil_NRet: 0.398058252427
+	Accuracy of model RandomForestClassifier with data Core_Oil_NRet: 0.388349514563
+
+Stats for dataset Core_Oil_Ret:
+	Accuracy of model Linear SVC with data Core_Oil_Ret: 0.666666666667
+	Accuracy of model MultinomialNB with data Core_Oil_Ret: 0.581920903955
+	Accuracy of model LogisticRegression with data Core_Oil_Ret: 0.64406779661
+	Accuracy of model RandomForestClassifier with data Core_Oil_Ret: 0.649717514124
+
+Stats for dataset Core_RM_NRet:
+	Accuracy of model Linear SVC with data Core_RM_NRet: 0.637931034483
+	Accuracy of model MultinomialNB with data Core_RM_NRet: 0.370689655172
+	Accuracy of model LogisticRegression with data Core_RM_NRet: 0.465517241379
+	Accuracy of model RandomForestClassifier with data Core_RM_NRet: 0.508620689655
+

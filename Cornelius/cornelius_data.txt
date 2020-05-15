@@ -1,0 +1,24 @@
+Accuracy for LSVC:
+	test partition 0.1 yields 0.255555555556 accuracy
+	test partition 0.15 yields 0.185185185185 accuracy
+	test partition 0.2 yields 0.195530726257 accuracy
+	test partition 0.25 yields 0.290178571429 accuracy
+
+Accuracy for MNB:
+	test partition 0.1 yields 0.233333333333 accuracy
+	test partition 0.15 yields 0.259259259259 accuracy
+	test partition 0.2 yields 0.245810055866 accuracy
+	test partition 0.25 yields 0.272321428571 accuracy
+
+Accuracy for LR:
+	test partition 0.1 yields 0.255555555556 accuracy
+	test partition 0.15 yields 0.237037037037 accuracy
+	test partition 0.2 yields 0.206703910615 accuracy
+	test partition 0.25 yields 0.227678571429 accuracy
+
+Accuracy for MLPC:
+	test partition 0.1 yields 0.233333333333 accuracy
+	test partition 0.15 yields 0.244444444444 accuracy
+	test partition 0.2 yields 0.245810055866 accuracy
+	test partition 0.25 yields 0.267857142857 accuracy
+

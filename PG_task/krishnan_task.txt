@@ -1,0 +1,7 @@
+Specifications:
+
+ - For a valid given report type and date, write a function to check if all the reports are present(i.e check if all reports yield an HTTP ok status code (200)). Do this by 
+ 	using the Python requests library and doing requests.get on the urls. Then check the status code of the request on the url, and make sure it matches 200. Return a 
+	boolean flag delineating if all the reports are present, and a list of non-present (HTTP status code != ok) url links.
+
+ - If the command line arguments are invalid (date and/or report type), throw an error (read up on error handling in Python)

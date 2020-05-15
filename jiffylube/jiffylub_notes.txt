@@ -1,0 +1,3 @@
+1) look for labels unprofessional or professional
+2) go to the sentence, figure out correct classification or not
+3) if it's an incorrect classification, seperate and send it.

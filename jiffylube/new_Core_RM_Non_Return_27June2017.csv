@@ -1,0 +1,572 @@
+,review,review header,sentiments,sentiment label
+0,The man was a liar and he was rude ,Untrustworthy\Mistrust,-0.743,Very Negative
+1,They were not able to accept my coupon from off line,Discount/coupon issue,-0.2924,Negative
+2,This Jiffy Lube always tries to upsell especially to women,Overselling-Pressure to buy,0.0,Neutral
+3,"I was sent a 15% off coupon and the store I visited gave me a hard time using it, stating it doesn't accept when the email had the stores address on it to use it",Discount/coupon issue,-0.3786,Negative
+4,Don't like the feeling of being push to add other services to my oil change by keep asking the same questions after I have already said No,Overselling-Pressure to buy,-0.569,Very Negative
+5,"My brother-in-law is a Jeep mechanic, I own a Jeep",Other issues,0.0,Neutral
+6,Too expensive,Price too high,0.0,Neutral
+7,I can't prove it but I do not believe the fuel injection services I paid for was performed,Untrustworthy\Mistrust,0.0,Neutral
+8,"the guys broke a piece off my oil filter & never told me & my oil light would'nt go off, they just rushed me out the door",Interior/Exterior car damage,-0.4215,Negative
+9,The prices were ridiculous and the people that work there are very ghetto,Price too high,-0.3612,Negative
+10,"My coupons were not used, was told i could use them before services work done to my car however the manager said that I couldn't use them after the service was done and I was expecting to have a 19.99 dollar oil change",Discount/coupon issue,0.0,Neutral
+11,It took to long,Service took too long,0.0,Neutral
+12,"On sat morning, the mecanic broke a part in my car while doing my oil change ",Interior/Exterior car damage,-0.4215,Negative
+13,I had 4 dollars in quarters in my console to wash my clothes and when I got in my car they were all gone,Item missing/stolen,0.0,Neutral
+14,"They charged me $66 for an oil change!  Told me if I didn't get the synthetic blend, ny engine could fail!  My Hoonda Pilot gets its oil changed by Homda, but I thought I'd save time and try JL",Price too high,0.4997,Positive
+15,Very expensive,Price too high,0.0,Neutral
+16,The price your company charges for an oil change is ridiculous,Price too high,-0.5574,Very Negative
+17,I broke down due to their negligence while changing the oil in my car,Interior/Exterior car damage,-0.4215,Negative
+18,First oil change the left my oil drain bolt loose and I was leaking oil for a week before noticing,Interior/Exterior car damage,-0.3182,Negative
+19,The price of the oil change,Price too high,0.0,Neutral
+20,For a simple oil change and tire rotation I paid $95 with a military discount! I have never in all my years paid anywhere close to that,Price too high,0.0,Neutral
+21,It seems as if they rather you pay full price then to use a coupon,Discount/coupon issue,-0.1027,Negative
+22,Manger there did not feel trustworthy,Untrustworthy\Mistrust,-0.4449,Negative
+23,"Poor customer service, poor vacuuming",Poor customer service,-0.7351,Very Negative
+24,Lacks customer service,Poor customer service,0.0,Neutral
+25,Although the guy greeted me and the staff was cordial the atmosphere was not friendly and willing to assist,Unprofessional employees,-0.1351,Negative
+26,I found it ironic that the manager's name is Sunny because his disposition is anything but,Unprofessional employees,0.1655,Positive
+27,Drivers side floor mat had grease marks all over it,Interior/Exterior car damage,0.0,Neutral
+28,I have a regular service shop for mechanical work,Competition-prefer local mechanic,0.0,Neutral
+29,They told me my signal was working when it wasn't,Misinformation about car/service needs given to customer,0.0,Neutral
+30,Price point is higher than competition  and one hour to change oil with only three vehicles is too long definitely not jiffy by definition,Price too high,0.4019,Positive
+31,My wife was charged twice for a tire rotation -- the $21.99 charge appears twice on our invoice,Female felt taken advantage of,-0.2023,Negative
+32,Use services at dealer,Competition-prefer dealer,0.0,Neutral
+33,I waited an hour and a half,Service took too long,0.0,Neutral
+34,Took over an hour for service and they wrote the wrong mileage down for when I need to come back,Service took too long,-0.4767,Negative
+35,"this particular location was very slow, and they had  left the oil filter off",Service took too long,0.0,Neutral
+36,I was the first customer and I always thought that it was first come first serve but the guy was working on my car and the second customer,Later-arriving customers served ahead of me,0.0,Neutral
+37,Not to the one I went to in Downey California service was not good it was not crowded and it took almost 2 hours the staff was small and sloppy one of the workers said they got a new manager about 2 weeks ago and they're trying to work The Kinks out,Service took too long,-0.3412,Negative
+38,"Cause when I went there they said they will not refill my  fluids  With in 3,000 miles your  policy states u do","Fluids not topped off (ie engine coolant, washer fluid)",0.0,Neutral
+39,The service was poor the said if my fluids need to be refilled they wouldn't refill them then they charges my 8 for 2 quarts of anti  freeze,Poor customer service,-0.743,Very Negative
+40,Left oil pan screw loose and spilled oil every where,Drain plug-pan issues,-0.4019,Negative
+41,"The service was terrible, I was told one total and when I cashed out it was a different amount",Poor customer service,-0.4767,Negative
+42,Took more than 45 mins,Service took too long,0.0,Neutral
+43,"They handled the oil aspect of the signature service well, but forgot to clean the exterior windows as promised",Vacuuming not done propertly,0.81,Very Positive
+44,The price $50 for F150 03 too much,Price too high,0.0,Neutral
+45,The service worker overcharged me with both adding on services and by not adding a 15 dollar coupon I had,Overcharged - charged more than was agreed on,0.0,Neutral
+46,Number of things I noticed from my visit,Poor customer service,0.0772,Positive
+47,"I like their convenience, but if I have my vehicle in to our mechanic at the time an oil",Competition-prefer local mechanic,0.1901,Positive
+48,Never had an issue with my car when I get an oil change there I don't come here often because it's more expensive but I like jiffy lube,Price too high,0.564,Very Positive
+49,They failed to check my turn signal indicator,Oil service light not reset ,-0.5106,Very Negative
+50,Oil change over price,Price too high,0.0,Neutral
+51,Warranty with manufacturer,Competition-prefer dealer,0.0,Neutral
+52,Wanted to do tire rotation along wit oil change,Tire rotation service issue,0.0,Neutral
+53,I arrived at 1134 for an oil change only and I left at 145 the car before me needed a part from auto zone so I had to wait for that and wait until they put the part on also I didn't get air in my tires and the windows were smeared,Poor customer service,0.0,Neutral
+54,"The person who waited on me, Dave was very rude and unfriendly",Unprofessional employees,-0.7233,Very Negative
+55,Services paid for were not completed,Other issues,0.0,Neutral
+56,The men working on my cat killed my battery,Interior/Exterior car damage,-0.6705,Very Negative
+57,Have own mechanic,Competition-prefer local mechanic,0.0,Neutral
+58,Very expensive,Price too high,0.0,Neutral
+59,"The $4.99 charge to ""top off"" radiator fluid",Price too high,0.2023,Positive
+60,I had to return because my car was leaking oil,Oil cap issue,0.0,Neutral
+61,Bad service,Poor customer service,-0.5423,Very Negative
+62,I have a regular mechanic for other maintence issues,Competition-prefer local mechanic,0.0,Neutral
+63,I had my oil changed there and the very next day I began to have an oil leak,Interior/Exterior car damage,-0.34,Negative
+64,They claimed my tires were guaged and inside vacuumed,Tire rotation service issue,0.0,Neutral
+65,The verbal promise and written check list did not meet up with the actual facts,Overcharged - charged more than was agreed on,0.3182,Positive
+66,"Because I am a young white college female, they took advantage and tried to sell me oil that I have never used in my truck and scam me for more money",Female felt taken advantage of,-0.4019,Negative
+67,Management team is very unprofessional,Unprofessional employees,-0.5563,Very Negative
+68,they charge me too much for an oil change,Price too high,0.0,Neutral
+69,Prefer to go to other shops when service includes more than just an oil change,Competition-prefer other car care chain,0.0,Neutral
+70,"I went to jiffy lube because the lines everywhere else were long, but I found out why",Poor customer service,0.0,Neutral
+71,My filter was put in upside down and was not filtering properly,Fuel filter replacement,0.0,Neutral
+72,"The service is overpriced, the work was sloppy, and when they checked my tires which were fine when I came in, I know because I have a low tire light that comes on anytime the pressure drops more then a pound, they let air out of the tires which caused the light to come on the next morning, I had to refill all of my tires because all of them  were 6-7 pounds below pressure",Price too high,-0.5719,Very Negative
+73,Prices,Price too high,0.0,Neutral
+74,Service,Poor customer service,0.0,Neutral
+75,They told me they would vacuume the floors and wash the Windows they didn't vacuume the floors in the back of the car and they didn't wash the Windows on the inside,Vacuuming not done propertly,0.0,Neutral
+76,They were very busy and understaffed,Unprofessional employees,0.0,Neutral
+77,Excess oil was not cleaned up,Poor customer service,0.0,Neutral
+78,"I was talked into your high mileage, expensive oil change",Overselling-Pressure to buy,0.0,Neutral
+79,Was told something that was not true to get me to do a service that was not needed,Misinformation about car/service needs given to customer,-0.3252,Negative
+80,The technician did not put my oil cap back on and oil leaked all over my engine causing $600 worth of damage at the dealership,Oil cap issue,-0.5574,Very Negative
+81,Seems like they want to sell you everything else at inflated prices,Price too high,0.4215,Positive
+82,The service director was not knowledgeable and tried to be cute about not honoring the Labor Day discount,Employees not knowledgeable,0.0767,Positive
+83,Specifically my most recent experience with the SE Powell & Cesar Chavez location,Poor customer service,0.0,Neutral
+84,The men were rude and got upset when I corrected him on the oil that was recommended by the manufacturer,Unprofessional employees,-0.5859,Very Negative
+85,The person that checked me in was fucking rude and condescending,Unprofessional employees,-0.5095,Very Negative
+86,I can do most maintanence by myself,Other issues,0.0,Neutral
+87,"All the additional fee and playing woman with this need to be fix that need to be fix, you want to be able to trust the people working on your car at Nifty lube you cant",Untrustworthy\Mistrust,0.7964,Very Positive
+88,The cost of your regular oil change is almost 100% more than other local competitors,Price too high,0.0,Neutral
+89,Staff seemed very young and didn't seem to know what was going on,Unprofessional employees,0.0,Neutral
+90,took too long,Service took too long,0.0,Neutral
+91,My visit was quoted to take 30-45 minutes by the employee who took my keys,Service took too long,0.0,Neutral
+92,"Poor service, long wait for easy jobs",Poor customer service,-0.0516,Negative
+93,Several things ,Poor customer service,0.0,Neutral
+94,Rather not say,Poor customer service,0.0,Neutral
+95,"Was asked if I wanted tires rotated, a service I receive for free elsewhere",Overcharged - charged more than was agreed on,0.5106,Very Positive
+96,"I was charge regular price, even after showing a $15 off coupon",Discount/coupon issue,0.0,Neutral
+97,"With oil change service, there is a list of other things to check, wash, fill, maintain and these things were not done",Poor customer service,0.0,Neutral
+98,price,Price too high,0.0,Neutral
+99,Too much pressure to buy extra items/repairs,Overselling-Pressure to buy,-0.296,Negative
+100,"I received the signature service oil change; however, they did not vacuum the floors or wash the windows",Vacuuming not done propertly,0.0,Neutral
+101,"The service was very slow, started working on another car before finishing with my",Service took too long,0.0,Neutral
+102,I was waiting for forty minutes (ten minutes longer than the estimated wait time given to me) and had to bug a technician to get my car moved,Service took too long,0.0,Neutral
+103,"Oil change was over price, request to have the passanger side bulb to replace was unable to do so",Price too high,0.0,Neutral
+104,"do a lot of my own work, so likely do other things myself",Other issues,0.0,Neutral
+105,Tech was trying not to my coupon by pretending it does not have a code,Discount/coupon issue,0.1027,Positive
+106,Poor service,Poor customer service,-0.4767,Negative
+107,Services were poor,Poor customer service,-0.4767,Negative
+108,"Pushing product, but mainly price",Overselling-Pressure to buy,0.0,Neutral
+109,A greasy/oily scuff mark was left on my beige carpeting,Poor customer service,0.0,Neutral
+110,24 hours after the oil change I was driving my car to work and it shut down,Poor customer service,0.0,Neutral
+111,The amount of time it took to services my vehicle,Service took too long,0.0,Neutral
+112,I feel I am overcharged for items that do not need to be replaced,Overcharged - charged more than was agreed on,0.0,Neutral
+113,"Looked on line, oil change was supposed to be about, $45, but with one upgrade in oil it became, $75",Overcharged - charged more than was agreed on,0.0,Neutral
+114,"My 2016 Honda CRV required 0W-50 oil which cost, apparently 50% more than conventional oil, at $53.99 for an oil change! ",Overcharged - charged more than was agreed on,0.0,Neutral
+115,"We had two cars oil changed, one we are selling and the warning light was not reset",Oil service light not reset ,-0.34,Negative
+116,They put a head light bulb on a BURNING pig tail,Interior/Exterior car damage,0.0,Neutral
+117,Price,Price too high,0.0,Neutral
+118,Oil was stained on my seat from the workers pants and was not cleaned after being told so,Interior/Exterior car damage,0.0,Neutral
+119,The girl was rude when I didn't get one of the upgrades she offered,Unprofessional employees,-0.4588,Negative
+120,Oil hand prints on my truck,Interior/Exterior car damage,0.4939,Positive
+121,Technician did not completely replace oil dipstick causing oil to spill out on engine exhaust manifold,Oil or filter not actually replaced,-0.296,Negative
+122,This is the third time I have gotten my oil changed there where my check engine light has come on in the hours following my visit,Oil service light not reset ,0.0,Neutral
+123,Some of the workers don't seem pleasant or approachable,Unprofessional employees,-0.4023,Negative
+124,"The team didnt seem like they want to be there, from the greet and the goodbye it was rushed",Unprofessional employees,0.1255,Positive
+125,I felt it was very pricey even after purchasing a groupon,Price too high,0.0,Neutral
+126,Didn't perform all service requested,Poor customer service,0.0,Neutral
+127,Extremely slow service for just oil change,Service took too long,0.0,Neutral
+128,Quick service but costly compared with local competition,Price too high,-0.1531,Negative
+129,"nothing, i get my oil changed elsewhere",Competition-prefer other car care chain,0.0,Neutral
+130,Not to the particular location,Poor customer service,0.0,Neutral
+131,Not as fast as I had hoped,Service took too long,0.3818,Positive
+132,"When I received my key fob back to my vehicle, the key insert which allows me to open my doors was gone",Item missing/stolen,0.0,Neutral
+133,They were inattentive and did not do the entire service but indicated on the service sheet they did,Poor customer service,0.0,Neutral
+134,"I was told I needed first brakes, radiator top off, wipers and rear differential service",Misinformation about car/service needs given to customer,0.2023,Positive
+135,"They did not perform certain checks that were part of the service, e",Poor customer service,-0.2057,Negative
+136,My car overheated on the drive home,Poor customer service,0.0,Neutral
+137,"The service was very good, the price was very high",Price too high,0.4927,Positive
+138,was over charged on last oil change,Overcharged - charged more than was agreed on,-0.2023,Negative
+139,"Lazy, untrained, less than mediocre staff",Unprofessional employees,-0.3612,Negative
+140,Not helpful at all,Poor customer service,-0.3252,Negative
+141,You are getting what too expensive  $47,Price too high,0.0,Neutral
+142,Pricing,Price too high,0.0,Neutral
+143,"The staff was very rude, and did not explain to me until I sign that I was fully aware that a car part of mine was mysteriously broken",Unprofessional employees,-0.7501,Very Negative
+144,"Had to ask them to replace cover for cabin air filter, and grease mark left on driver side",Air filter ,0.0,Neutral
+145,Tech spilled a considerable amount of oil down over the engine,Interior/Exterior car damage,0.0,Neutral
+146,Cost of service is 2xs what I have found locally,Price too high,0.0,Neutral
+147,i feel more comfortable bringing my vehicle to Honda,Competition-prefer dealer,0.5563,Very Positive
+148,The guy vacuuming the car got an oilyleg print from his pants on my leather seat,Vacuuming not done propertly,0.0,Neutral
+149,"I will not return to this particular location, which is on Reserve Street in Missoula, Montana",Poor customer service,0.0,Neutral
+150,Your prices are far too high,Price too high,0.0,Neutral
+151,Prices are crazy high,Price too high,-0.34,Negative
+152,Smog equipment kept going down- internet- tech was short with me,Poor customer service,-0.296,Negative
+153,The skid plate was not connected properly and it almost caused me to have an accident,Poor customer service,-0.4767,Negative
+154,"They are an oil change company so I will go there for that service, but the price seems to be pretty high",Price too high,0.6486,Very Positive
+155,Coupon,Discount/coupon issue,0.0,Neutral
+156,I had a bad experience with a person by the name of Daven or dave,Poor customer service,-0.5423,Very Negative
+157,It took over an 1hr to do a simple oil change,Service took too long,0.0,Neutral
+158,Your prices are outrageous! The dealership is even way more cheaper than you,Price too high,-0.5093,Very Negative
+159,"They were out of anti freeze, which was the main purpose for my visit",Item out of stock,-0.2732,Negative
+160,The brakes weren't bled and the brake lines have air in them,Brakes services,0.0,Neutral
+161,To expensive for oil change,Price too high,0.0,Neutral
+162,Ok I just wanted an oil change and it was as bad as being at a dealership just tying to constantly up sale me ,Overselling-Pressure to buy,-0.3182,Negative
+163,They scammed me out of my money for a part that did not need to be replaced,Overcharged - charged more than was agreed on,0.0,Neutral
+164,I brought my car for a routine oil change and when I left my car was sounding noisy and the alignment was off,Poor customer service,-0.1779,Negative
+165,The cost of services compared to other companies,Price too high,0.0,Neutral
+166,I was on my lunch break and told it would be about 45 minutes,Service took too long,0.0,Neutral
+167,The price is high comparing to others,Price too high,0.0,Neutral
+168,They acted confused when I showed them my Groupon and they put someone else's mileage sticker on my car (for next oil change),Discount/coupon issue,-0.3182,Negative
+169,I had money taken from my center console,Item missing/stolen,0.0,Neutral
+170,loyalty to my mechanic,Competition-prefer local mechanic,0.5423,Very Positive
+171,I had a coupon and the computer wouldn't honor it,Discount/coupon issue,-0.3875,Negative
+172,Attitude,Unprofessional employees,0.0,Neutral
+173,People were rude,Unprofessional employees,-0.4588,Negative
+174,The cost of a basic oil change went up approximately 20.00 since last time I had it done,Price too high,0.0,Neutral
+175,I came in for service towards the end of the workday and the tech refused to vacuum my vehicle saying that I got there too late in the day for him to do that,Vacuuming not done propertly,-0.296,Negative
+176,The staff just seems really rough and strung out on drugs,Unprofessional employees,0.0,Neutral
+177,I am unsure that my dealership will honor warranties if I do not use their service dept,Competition-prefer dealer,0.296,Positive
+178,I have a mechanic I trust in my neighborhood who owns the garage,Competition-prefer local mechanic,0.5106,Very Positive
+179,"While the service rep (Erik) was very helpful and nice, the location did not have an oil filter for my car",Item out of stock,0.7316,Very Positive
+180,I went for an oil change and left with ZERO transmission fluid,"Fluids not topped off (ie engine coolant, washer fluid)",0.0,Neutral
+181,I paid 99.00 for an oil change for my bmw,Price too high,0.0,Neutral
+182,"The service was bad, I left the walnut creek jiffy lube with the engine check light on",Poor customer service,-0.5423,Very Negative
+183,The wait was over an hour with one car in front of mine on the lane,Service took too long,0.0,Neutral
+184,They added too much oil,Other issues,0.0,Neutral
+185,Everyone came in late and it took over 50 min for just a oil change,Service took too long,0.0,Neutral
+186,"The garage staff did not screw the engine oil cap on properly, I had oil splatter under the hood while driving home",Oil cap issue,0.0762,Positive
+187,Horrible customer service,Poor customer service,-0.5423,Very Negative
+188,I had to wait so long,Service took too long,0.0,Neutral
+189,Pricing,Price too high,0.0,Neutral
+190,"Even though I enjoyed the customer service while getting my oil change done, something ended up being wrong with my car when I left",Poor customer service,0.0516,Positive
+191,Always hard selling everything besides oil change,Overselling-Pressure to buy,-0.1027,Negative
+192,They charged me $115!!!!!!! I've never paid over $40,Price too high,-0.453,Negative
+193,There were two technicians and no other customers,Service took too long,-0.296,Negative
+194,Got a tire rotation and they only did one side of the car had to go back and tell them the didnt rotate the passenger side,Tire rotation service issue,0.0,Neutral
+195,Great service-exorbitant price,Price too high,0.6249,Very Positive
+196,Expensive,Price too high,0.0,Neutral
+197,Air filter wasn't installed right and had to go back the next day to get it fixed and it cost me $82,Air filter ,0.0,Neutral
+198,It took 90 minutes,Service took too long,0.0,Neutral
+199,It is by far the most expensive oil change option out there,Price too high,0.0,Neutral
+200,Service time was longer than I was used to and they tried to get me to buy unnecessary things,Service took too long,0.0,Neutral
+201,"First person to ""greet"" me needs to go back to customer service school !!",Poor customer service,0.0,Neutral
+202,Price,Price too high,0.0,Neutral
+203,"Had my oil changed, and among other items had the air pressure checked and when I drove away my low tire pressure alarm went off on all four tires",Tire rotation service issue,-0.7845,Very Negative
+204,Overpriced and long wait for being called jiffy lube,Price too high,0.0,Neutral
+205,"For a $70 oil change this location NEVER cleans the windshield, vacuum or place sticker on windshield",Vacuuming not done propertly,0.0,Neutral
+206,Went there with working air conditioning ,Air condition service,0.0,Neutral
+207,Your employees are too aggressive with selling the products literally forcing people to but what they don't even need and if the don't they have an attitude also they lie directly in you face telling you Oh your car useso this oil and I have to make a note about to cover our self incase something happens which made me feel uncomfortable thinking that they would damage my my cat purposely because I didn't want to buy expensive oil,Overselling-Pressure to buy,-0.8531,Very Negative
+208,"Over priced, hidden charges",Price too high,-0.2732,Negative
+209,Pricing,Price too high,0.0,Neutral
+210,I paid for the service the night before i went to jiffy lube and still had to pay more money for something they said they did  but they didn't do it,Overcharged - charged more than was agreed on,-0.0516,Negative
+211,Way to expensive 81.00 for a synthetic oil change- said my car registered  with no oil on the receipt and I had just checked it 2 days earlier and it did- got scammed and didn't know til I looked at my receipt5,Price too high,-0.296,Negative
+212,We bought a new car that has a warranty that covers oil changes,Competition-prefer dealer,0.0,Neutral
+213,I have been to this jiffy lube location twice now and the customer service is horrible,Poor customer service,-0.5423,Very Negative
+214,Service was not completed properly,Poor customer service,0.0,Neutral
+215,Price was way more than I've paid in the past,Price too high,0.0,Neutral
+216,Because the employee from your company mistreat to me,Unprofessional employees,0.0,Neutral
+217,"nothing special, except the discount",Discount/coupon issue,-0.3089,Negative
+218,This is the 2nd time your personnel failed to reset the oil change indicator,Oil service light not reset ,-0.5106,Very Negative
+219,Seemingly lack of experience in the bays,Employees not knowledgeable,-0.3182,Negative
+220,Because your people are idiots!!! I know more about cars than they do!!,Employees not knowledgeable,0.0,Neutral
+221,They left the cr with grease finger prints on door also hood and grease make on body,Interior/Exterior car damage,0.0,Neutral
+222,"washer fluid was checked filled,never touched,when I upgraded to under carriage,wax,tire shine,paid for it,never got it","Fluids not topped off (ie engine coolant, washer fluid)",0.0,Neutral
+223,i have a mechanic who does the other things,Competition-prefer local mechanic,0.0,Neutral
+224,I went for an oil change and I felt like I was being hustled for things I did not ask them to look into,Overcharged - charged more than was agreed on,0.3612,Positive
+225,Your military discount was a flat rate of $7 unless I got my tires rotated,Discount/coupon issue,0.0,Neutral
+226,I get that done with my dealership,Competition-prefer dealer,0.0,Neutral
+227,Lack of knowledge of what the services the shop provides,Employees not knowledgeable,-0.3182,Negative
+228,Did not correctly put caps back on vehicle,Oil cap issue,0.0,Neutral
+229,Unhelpful staff,Unprofessional employees,0.0,Neutral
+230,Prices on the high side,Price too high,0.0,Neutral
+231,The price for an oil change has gotten way too high,Price too high,0.0,Neutral
+232,"Didn't top off fluids like they said, didn't clean my windows made them look worst","Fluids not topped off (ie engine coolant, washer fluid)",-0.6652,Very Negative
+233,I do all my other maintenence through another place,Competition-prefer other car care chain,0.0,Neutral
+234,"Every time I go in for an oil change there is always 2/3 other things the tech ""advises"" me to have repaired - becomes annoying/expensive",Overselling-Pressure to buy,0.0,Neutral
+235,I brought my car to D'Ella because the coolant was so low car was overheating,Other issues,-0.4101,Negative
+236,It's just getting too expensive,Price too high,0.0,Neutral
+237,They did not do everything they said they would,Misinformation about car/service needs given to customer,0.0,Neutral
+238,I had items missing from my vehicle after the service,Item missing/stolen,-0.296,Negative
+239,"They left grease on my passenger seat, grease on the dash above the glove box, grease finger prints on both doors",Interior/Exterior car damage,0.0,Neutral
+240,Already have a mechanic,Competition-prefer local mechanic,0.0,Neutral
+241,There are several places to get a car's oil changed within a mile or two of Jiffy Lube that are cheaper,Price too high,0.0,Neutral
+242,"The workers didn't seem very confident in working on my newer vehicle, which made me nervous",Employees not knowledgeable,-0.6053,Very Negative
+243,I had my cooling system and transmission fluid changed and a plug in to a computer module that controls the shift and the speeder gear was damaged by the people working on my car,Air condition service,-0.4404,Negative
+244,Service was excellent but I have a credit account at Firestone and I can get what I need done here,Competition-prefer other car care chain,0.6956,Very Positive
+245,"It's 11 ay night and my car stopped on me after this ""oil change""  I have never had this problem with the people I know and trust",Untrustworthy\Mistrust,-0.184,Negative
+246,After my oil change there was oil all over the underneath of the hood of my car,Interior/Exterior car damage,0.0,Neutral
+247,This location lacks proper customer service,Poor customer service,0.0,Neutral
+248,I have a service deal with a mechanic that works very well for me,Competition-prefer local mechanic,0.3384,Positive
+249,It took forever,Service took too long,0.0,Neutral
+250,The overall experience was negative,Poor customer service,-0.5719,Very Negative
+251,I plan on learning how to do it myself,Other issues,0.0,Neutral
+252,"Clyde, the person who waited on me was, I'd say less than honest with me",Untrustworthy\Mistrust,0.4627,Positive
+253,"When I left, I had a flat tire which I was told was not due to my services",Interior/Exterior car damage,0.0,Neutral
+254,horrible experience regarding my Freon/Refrigerant refill-  line was not done properly and had to come back a couple of different times,Poor customer service,-0.5423,Very Negative
+255,I asked to have my tires rotated,Tire rotation service issue,0.0,Neutral
+256,2 hour wait,Service took too long,0.0,Neutral
+257,$50 is a lot to pay for an oil change and then to have them try to upsell me,Price too high,-0.1027,Negative
+258,"When they brought my car out and opened the door, there was a lot of ink on the drivers seat",Interior/Exterior car damage,0.0,Neutral
+259,because I use other places for repairs that are set up to conduct repair services,Competition-prefer local mechanic,0.0,Neutral
+260,90 minutes,Service took too long,0.0,Neutral
+261,"I liked Jiffy Lube because their service, though much more expensive then other places I have been, is very, very fast",Price too high,0.4215,Positive
+262,"Was recommended to change trans fluid, yet all that got done was a flush which can do more harm than good, seeing as how the dirty trans filter stays in the vehicle","Fluids not topped off (ie engine coolant, washer fluid)",-0.4077,Negative
+263,Very expensive,Price too high,0.0,Neutral
+264,Too damn expensive,Price too high,-0.4019,Negative
+265,"Went to there for a synthetic oil change, the found out it was $96 for just a oil change on a car",Price too high,0.0,Neutral
+266,The up-selling was very unpleasant,Overselling-Pressure to buy,-0.5256,Very Negative
+267,I was quoted $41 for an oil change on my 2014 ram 1500,Price too high,0.0,Neutral
+268,Service staff not friendly and the prices are not competitive,Price too high,-0.4847,Negative
+269,I took my car to the dealer to check on other issues the found the lip cap not replaced properly and some other stuff that should not have been there,Interior/Exterior car damage,0.0,Neutral
+270,The oil prices went up and this jiffy lube doesn't honor the ladies day,Price too high,-0.3875,Negative
+271,Items were marked complete that were not even started,Overcharged - charged more than was agreed on,0.0,Neutral
+272,They tell me one price and it's two times as much,Price too high,0.0,Neutral
+273,They rotated tires and over torqued lug nuts,Tire rotation service issue,-0.3182,Negative
+274,Took such a long time to get the oil changed,Service took too long,0.0,Neutral
+275,"I was very satisfied with the service, but it just depends on what exactly I need done and whether or not I have a coupon",Discount/coupon issue,0.2609,Positive
+276,My car is not running the same ever since Friday ,Poor customer service,0.0,Neutral
+277,Someone there broke the chair  mechanical  case in my car and when I ask what happened they said it was like that and it wasn't,Interior/Exterior car damage,-0.0772,Negative
+278,Too expensive,Price too high,0.0,Neutral
+279,Price to high,Price too high,0.0,Neutral
+280,Overpriced $10.00 plus in taxes is crazy and there was a donation added to my bill that I did not condone,Price too high,-0.34,Negative
+281,The price changes,Price too high,0.0,Neutral
+282,Efficient but expensive,Price too high,0.2263,Positive
+283,The Young lady on the counter was not interested in the customer and tended to want to get me out rather than ask if I was happy,Unprofessional employees,0.4102,Positive
+284,Never informed about the price and was given the most expensive oil without notification,Price too high,0.0,Neutral
+285,"While oil change was completed ok, the replacement of the cabin air filter was incompete",Air filter ,0.296,Positive
+286,"This is the second time at this store, I have received bad service and found things wrong after the fact",Poor customer service,-0.765,Very Negative
+287,Did not have air filter in stock ,Item out of stock,0.0,Neutral
+288,Staff is rude when I say I have my own air filters at home and don't want them to change mine,Unprofessional employees,-0.4976,Negative
+289,Expensive,Price too high,0.0,Neutral
+290,Mechanic did not verbally tell me that my oil was leaking therefore by the time I arrived home the oil was completely done and had to go to servicd center to get issue fixed,Poor customer service,0.0,Neutral
+291,The dip stick at the rear differential was pulled to check level and not replaced resulting in fluid leak in the engine compartment and on to the catalytic converter causing the fluid to burn and produce a large amount of smoking,Oil or filter not actually replaced,-0.34,Negative
+292,The customer in front of me had their car leaking oil after the oil change was done (poor quality service) and this made the customers behind that customer wait a longer time,Poor customer service,0.0,Neutral
+293,Apparently Jiffy lube is unable to add Transmisdion Fluid to my car a 2007 Chevy Cobalt and over the last 5 or more years have stated that all of my fluids were topped off,Misinformation about car/service needs given to customer,0.0,Neutral
+294,They did not hook up my air intake hose after replacing my air filter and broke the mount on the air filter cap,Interior/Exterior car damage,-0.4215,Negative
+295,I will take my car to the dealer,Competition-prefer dealer,0.0,Neutral
+296,The price,Price too high,0.0,Neutral
+297,They were pushing upgrade service other than advertised one,Overselling-Pressure to buy,0.0,Neutral
+298,Way to expensive for synthetic,Price too high,0.0,Neutral
+299,Didnt know there was a problem until I got home and read the notes on my invoice,Poor customer service,-0.4019,Negative
+300,Too expensive,Price too high,0.0,Neutral
+301,Poor customer service,Poor customer service,-0.4767,Negative
+302,oil leaking from plug and frame,Oil cap issue,0.0,Neutral
+303,"I got the wrong timing estimate from 3 different people, including the manager",Service took too long,-0.4767,Negative
+304,Wait time was longer than what is normal for competitors,Service took too long,0.0,Neutral
+305,Wrong oil type out in initially,Incorrect oil type used,-0.4767,Negative
+306,Cost,Price too high,0.0,Neutral
+307,"After leaving Jiffy Lube, neither of my headlights worked",Poor customer service,0.0,Neutral
+308,"The experience from the time I got there was unfriendly, He only vacuumed on side and then I thought oil changes were 21.99 and it was double that",Vacuuming not done propertly,-0.3612,Negative
+309,"Promised vacuuming services were not given, and I was rushed away before I could inspect the car",Vacuuming not done propertly,0.3612,Positive
+310,The jiffy lube location had dirty bathrooms,Customer lounge atmosphere,-0.4404,Negative
+311,my truck was leaking oil after service,Poor customer service,0.0,Neutral
+312,My oil change was done sloppy to quick they always give me good service but this time they didnt explain to me when is my next oil change or applied a sticker with my mileage,Window sticker -service reminder not replaced,0.2382,Positive
+313,They did not vacuum my car as they said and indicated on my work order,Vacuuming not done propertly,0.0,Neutral
+314,I have another mechanic for non-routine work that I can't do myself,Competition-prefer local mechanic,0.0,Neutral
+315,The cost of an oil change and tire rotation is more than double the price of a package my dealership service department offers,Competition-prefer dealer,0.0,Neutral
+316,Its to expensive,Price too high,0.0,Neutral
+317,"I went for Top of today, and the manager today 8/22/2016 at the New Hampshire Abe location told me that I will have to pay for the oil for Top of",Overcharged - charged more than was agreed on,0.296,Positive
+318,Terrible experience with the staff and complained to customer service which did nothing,Poor customer service,-0.7003,Very Negative
+319,Very expensive compared to other shops in the area,Price too high,0.0,Neutral
+320,Just seemed to take a really long time for an oil change,Service took too long,0.0,Neutral
+321,More expensive than other places in the area,Price too high,0.0,Neutral
+322,"The person who rotated the tires on my vehicle failed to properly tighten the lug nuts on one wheel, then the person in charge failed to check his work to make sure it was done properly before releasing my vehicle to me",Tire rotation service issue,-0.765,Very Negative
+323,"Ceiling was leaking, wait time was initially estimated at half an hour and it took over an hour for it to be completed",Service took too long,0.0,Neutral
+324,"They suggested to replace a belt which was fine with me but after a little more than 2 hours later could not put new belt on, they had to put the old one back on, they did give me the belt and discount",Employees not knowledgeable,0.1027,Positive
+325,Prices,Price too high,0.0,Neutral
+326,Because your sales person was very demanding,Overselling-Pressure to buy,-0.2944,Negative
+327,Try to sell you items you don't need before even looking at the car,Overselling-Pressure to buy,0.0,Neutral
+328,The way the employees treated me from the minute I drove up,Unprofessional employees,0.0,Neutral
+329,A somewhat poor attitude on the part of manager -,Unprofessional employees,-0.4228,Negative
+330,I had to go back after I drove all the way home because oil was leaking out of my car,Oil filter issue,0.0,Neutral
+331,I was told that I needed a new battery by the technician and I told him I'd have to do it later as I didn't have the extra money at the time,Misinformation about car/service needs given to customer,0.0,Neutral
+332,My husband services my vehicle for all other maintenance,Other issues,0.0,Neutral
+333,I am an auto mechanic and do my own repairs,Competition-prefer local mechanic,0.0,Neutral
+334,Services offered nobody clean the window no more vacuum a charge for anything extra money,Vacuuming not done propertly,0.128,Positive
+335,Awful experience,Poor customer service,-0.4588,Negative
+336,"It was expensive, the coukdnt get my filter off and only credited me $2 for no filter",Price too high,0.0772,Positive
+337,High Pressure sales of services with doubtful value,Overselling-Pressure to buy,-0.296,Negative
+338,"Our car is 11 1/2 years old and has 236,000 miles on it",Other issues,0.0,Neutral
+339,I am lucky enough to have a wonderful mechanic that I trust with my vehicle,Competition-prefer local mechanic,0.8689,Very Positive
+340,"I was told all my fluids were topped off only to find that they never checked the coolant level which I specifically asked them to check due to fact I had just gotten an ""low coolant level"" warning","Fluids not topped off (ie engine coolant, washer fluid)",-0.5423,Very Negative
+341,"The prices are getting high, I may be able to get it done for less at local shops",Price too high,0.0,Neutral
+342,They replaced a good radiator cap with cheap one that dosen't seal well,Oil cap issue,0.27,Positive
+343,"Took much longer than was told, then when the car was ready, had to wait another 10 minutes for someone to take my payment",Service took too long,0.3612,Positive
+344,windows  was not washed and they did not vaccum the car,Vacuuming not done propertly,0.0,Neutral
+345,The service was terrible,Poor customer service,-0.4767,Negative
+346,I was promised $10 off and didn't get it,Discount/coupon issue,0.3612,Positive
+347,"First of all, I was apprehensive about going to Jiffy Lube because of some experiences of family members and now me",Poor customer service,0.0,Neutral
+348,$91.00 for oil and a filter?  You got me this time but NEVER again,Price too high,0.0,Neutral
+349,They pulled a computer wire and I had to take my care to the dealer to correct the problem,Interior/Exterior car damage,0.128,Positive
+350,The bait and switch on oil change cost,Untrustworthy\Mistrust,0.0,Neutral
+351,I use the dealer,Competition-prefer dealer,0.0,Neutral
+352,They said they reset the oil change button and didn't,Oil service light not reset ,0.0,Neutral
+353,"As long as I pick a good time, they will get you in and out of there in a hurry",Other service issues,0.4404,Positive
+354,I do my own service work so that is why I won't take my car to Jiffy Lube for the next oil change or for other service,Other issues,0.0,Neutral
+355,"Was the first person in line, yet was there for about 50 minutes",Service took too long,0.0,Neutral
+356,I am student and oil change here is more expensive,Price too high,0.0,Neutral
+357,"They did not put the bolts back in the plastic cover under my car and on the way home it started dragging on the asphalt, which tore the plastic cover and I had to try to fix it myself while in dress clothes under my dirty car",Interior/Exterior car damage,-0.4404,Negative
+358,"They changed the oil however none of the ""perks"" that comes with going to jiffy lube (i",Discount/coupon issue,0.0,Neutral
+359,"When a custumer ask questions ,it is because want to know what is going on with his vehicle , Nobody wants to hear that his vehicle is too old and this the reason , I could not see any oil on the stick but the worst is to hear If I do not want to hear this I have to go to other place to do an oil change , in my place there are four vehicles ",Misinformation about car/service needs given to customer,-0.7227,Very Negative
+360,Prices are higher that the dealer,Competition-prefer dealer,0.0,Neutral
+361,"While doing a tire rotation, the technician broke my wheel lock key by using gun to unscrew the wheel lock instead of doing it manually",Interior/Exterior car damage,-0.6369,Very Negative
+362,I had to go back BC a defective part was put on my car when I had my oil changed,Interior/Exterior car damage,-0.4404,Negative
+363,Service took too long and I was not notified when my car was ready even though I was sitting in their waiting room,Service took too long,0.3612,Positive
+364,PRICE,Price too high,0.0,Neutral
+365,Was treated very poorly by your manager,Unprofessional employees,0.0,Neutral
+366,The service took entirely too long,Service took too long,0.0,Neutral
+367,Service was unacceptable,Poor customer service,-0.4588,Negative
+368,Horrible service - came in for an oil change and was ignored for 30 minutes before being addressed at all,Poor customer service,-0.7003,Very Negative
+369,At least two people in training working on my vehicle,Employees not knowledgeable,0.0,Neutral
+370,My Honda CR-V has been serviced at the dealership for nearly 6 years except for this oil change,Competition-prefer dealer,0.0,Neutral
+371,I paid about $89 for an oil change that would cost me no more than $50 at the Toyota Dealership,Competition-prefer dealer,-0.296,Negative
+372,they were unable to replace the air filter,Air filter ,0.0,Neutral
+373,Expensive considering the service provided,Price too high,0.0,Neutral
+374,"Well, you advertise tire rotation; when I showed up for service, I was told that the lift was to small",Tire rotation service issue,0.2732,Positive
+375,"easy, quick but expensive",Price too high,0.2382,Positive
+376,I didn't get an oil change but I did get a state inspection on the car and was told to the wiper blade needed replacing,Misinformation about car/service needs given to customer,0.0,Neutral
+377,A small recap of my experience,Poor customer service,0.0,Neutral
+378,"After getting my oil changed, my AC started to rattle",Air condition service,0.0,Neutral
+379,The gentlemen at the store were so unprofessional,Unprofessional employees,-0.6418,Very Negative
+380,They failed to install the oil filter correctly causing my car to leak oil on the way home,Air filter ,-0.6908,Very Negative
+381,JiffyLube is now more expensive than the dealer,Price too high,0.0,Neutral
+382,After the mechanic finished with the oil change we were called in to ask what services we wanted,Unprofessional employees,0.0,Neutral
+383,"When my car was pulled in, the owner decided to have a meeting which took some time",Service took too long,0.0,Neutral
+384,"Told me my anti freeze was low offered to ""top it off"" for 5 dollars I declined knowing I had some at home ",Overselling-Pressure to buy,-0.34,Negative
+385,90 minute wait for oil change,Service took too long,0.0,Neutral
+386,"Each time I have gone to Jiffy Lube (regardless of location) the tech's have not reset the ""Change Oil"" message, even though I ask them to remember to",Oil service light not reset ,0.0,Neutral
+387,Te manager had a horrible personality and treated me like he was doing me a favor and when I told him about his atitud he even called me a bad apple and he said he didnot need my business at all ,Poor customer service,-0.4215,Negative
+388,Very expensive compared to same service at other drive in service,Price too high,0.0,Neutral
+389,Technician diden't seem knowledgable,Employees not knowledgeable,0.0,Neutral
+390,The manager was very unfriendly,Unprofessional employees,-0.4201,Negative
+391,Out of stock of in cabin air filter,Item out of stock,0.0,Neutral
+392,Cost$,Price too high,0.0,Neutral
+393,Door handle was greasy and windshield a little streaky,Poor customer service,0.0,Neutral
+394,I will return for the convenience but unfortunately I had to wait more than an hour and a half for my van to be serviced for an oil change,Service took too long,-0.4767,Negative
+395,The price is high,Price too high,0.0,Neutral
+396,I have a service and mechanical repair warranty with Mini of Honolulu,Competition-prefer other car care chain,0.0,Neutral
+397,Just noticed that my oil cap is missing,Item missing/stolen,-0.296,Negative
+398,Prices are too high,Price too high,0.0,Neutral
+399,Car repairs are done by my car mechanic of 24 years,Competition-prefer local mechanic,0.0,Neutral
+400,I came there with lights working and left with 5 needing to be replaced ,Misinformation about car/service needs given to customer,0.0,Neutral
+401,The manager of that location has told his employees to not honor the $10 Yelp checkin promo,Discount/coupon issue,-0.3875,Negative
+402,Only if the guy at the front would get my right after telling him 3 times,Poor customer service,0.0,Neutral
+403,Was pressed for time & wast given a 20min estimate,Service took too long,0.0,Neutral
+404,They said I had a plate light out and it wasn't out,Misinformation about car/service needs given to customer,0.0,Neutral
+405,I was so disappointed with my oil change I may never go back,Poor customer service,-0.5256,Very Negative
+406,tHE COST OF THE BASIC SERVICE WAS OVER $52,Price too high,0.0,Neutral
+407,When you can't drive your car the next day because they don't fix your car properly,Poor customer service,0.0,Neutral
+408,"The staff is rude and they have bad attitude, I went there to do an oil change and told them I have a coupon and when I paid the bill they didn't put the coupon, when I compared the amount whit the regular price I noticed the coupon wasn't put in, so I came back to the store and told them and one of them said very rude ""just give him 10 dollars cash and thats all""",Unprofessional employees,-0.8591,Very Negative
+409,they lied to me two times and also lost the plug for my tire!,Untrustworthy\Mistrust,-0.636,Very Negative
+410,Lack of customer service,Poor customer service,-0.3182,Negative
+411,Usually go to the dealership for maintenance,Competition-prefer dealer,0.0,Neutral
+412,Took 45 minutes and I was the only car there,Service took too long,0.0,Neutral
+413,"They were very slow, didn't listen to me, and got engine grime on both front seats and door fabric",Service took too long,-0.3612,Negative
+414,Always trying to up sell other services,Overselling-Pressure to buy,0.0,Neutral
+415,I was appalled by the comments of your service tech who reviewed my vehicle,Unprofessional employees,-0.4588,Negative
+416,Overpriced for suggested work and also work that is sometimes suggested is not necessary,Price too high,0.0,Neutral
+417,The price of the synthetic oil change went up quite a bit and discounts are no longer offered,Price too high,-0.296,Negative
+418,Ran my battery dead and tried to tell me I needed a new one,Alignment or Battery service issues,-0.6486,Very Negative
+419,"The day after my oil change, my check engine light came on",Oil or filter not actually replaced,0.0,Neutral
+420,i was servicing  a rental car and my personal car is still under warranty and get service at the dealer,Competition-prefer dealer,0.0,Neutral
+421,The young man I spoke to was not intelligible,Employees not knowledgeable,-0.2584,Negative
+422,Customer service was poor,Poor customer service,-0.4767,Negative
+423,Even though I came in before closing it took to long to do an oil change and only one person was ahead of me,Service took too long,0.0,Neutral
+424,The tech was not upfront about my wait time,Untrustworthy\Mistrust,0.0,Neutral
+425,They don't stock the parts I need,Item out of stock,0.0,Neutral
+426,"Service was fast, convenient, and reasonably priced",Price too high,0.0,Neutral
+427,The service manger speaks pretty demeaning to women,Harrassment/discrimination ,0.4939,Positive
+428,I am disappointed now twice in a row as this is the second time they have washed my windows and left them in worse condition than when I arrived,Poor customer service,-0.7351,Very Negative
+429,This is the second time they have not turned my maintenance light off,Oil service light not reset ,0.0,Neutral
+430,I am a female who doesn't know much about cars and new to my area,Female felt taken advantage of,0.0,Neutral
+431,The service was very good and quick BUT WAY OVER PRICED,Price too high,0.2724,Positive
+432,Well over 2 hours for an oil change,Service took too long,0.2732,Positive
+433,"As I returned my daughter back to college I decited to have the oil changed as well as all the fluids topped off in her vehicle so I thought  1mile down the road the red engine coolent light came on due to low level ! Very frustrating due to the fact that I had just spent 70dollars for oil,air filter and fluid top off","Fluids not topped off (ie engine coolant, washer fluid)",-0.3989,Negative
+434,Have severe oil leak directly after the oil change,Interior/Exterior car damage,-0.6124,Very Negative
+435,They charged me $82 dollars but didn't clean the floors or Windows,Vacuuming not done propertly,-0.5085,Very Negative
+436,The fact that i had oil all over the underside of my brand new truck with rags shoved under the truck that were full of oil,Interior/Exterior car damage,0.0,Neutral
+437,Wait time,Service took too long,0.0,Neutral
+438,I always have the Jeep's differential/transfer case fluids checked and the chassis greased,Poor customer service,0.0,Neutral
+439,"I drive alot, so I use several different companies to change my oil",Competition-prefer other car care chain,0.0,Neutral
+440,The cost of your services are too high in comparison to my dealer,Price too high,0.0,Neutral
+441,Pricing is horrible,Price too high,-0.5423,Very Negative
+442,My own vehicle took a long time because the worker forgot to put the air filter back in,Air filter ,0.0,Neutral
+443,"Actually, I saw the name of the parent company in Missoula,MT and was going to contact them regarding the terrible service I received at their Bozeman facility but found this survey instead",Poor customer service,-0.2617,Negative
+444,"Slow service, smelly waiting room, no internet",Service took too long,-0.296,Negative
+445,"Long wait to get the oil changed, no real organization with the employees, and problems with the computer system which made the manager have to call in to get my payment approved",Service took too long,-0.2732,Negative
+446,The man who worked on my car was rude and condescending !  Price was outrageous !!!,Price too high,-0.8002,Very Negative
+447,Too expensive,Price too high,0.0,Neutral
+448,"The employees at this location broke an air conditioning vent in my vehicle, effictively forcing it to stay completely shut and making it useless to me",Interior/Exterior car damage,-0.6808,Very Negative
+449,I paid over 130.00 for my AC and for it not to be working again I got sent to another place far from where I went to pay another 57 to get even more bad news,Poor customer service,-0.6361,Very Negative
+450,I hate the push for extra services when clearly know what you need,Overselling-Pressure to buy,-0.25,Negative
+451,Price,Price too high,0.0,Neutral
+452,"I have family that have a car shop and usually do my work, but I have to leave the car for the day",Competition-prefer local mechanic,-0.0772,Negative
+453,Did not check or fill tire pressure,Tire rotation service issue,-0.296,Negative
+454,Your employees completely took advantage of my wife on this visit,Female felt taken advantage of,0.3134,Positive
+455,Too expensive,Price too high,0.0,Neutral
+456,"The clerk hastled me, he said my tail light was out and it wasn't, and that my coolant was low, i know it wasn't because I have no leaks and I just had work done on it",Misinformation about car/service needs given to customer,-0.0547,Negative
+457,It is way to expensive and they were just not very thorough,Price too high,0.0,Neutral
+458,I showed the guy my 10 dollar off coupon 3 times and he kept saying he would apply it and never did so i never got my 10 dollars off 46 dollars,Discount/coupon issue,0.0,Neutral
+459,My car is now having major engine issues,Interior/Exterior car damage,0.0,Neutral
+460,Cost,Price too high,0.0,Neutral
+461,I was told that I had to use synthetic oil in my 2015 Honda Fit or my warranty would be invalidated,Misinformation about car/service needs given to customer,0.3612,Positive
+462,Slow,Service took too long,0.0,Neutral
+463,Rudeness ,Unprofessional employees,-0.3612,Negative
+464,I have been with Firestone for years,Competition-prefer other car care chain,0.0,Neutral
+465,The fact that I waited for 1.5 hours for an oil change and inspection only to be told I needed new wiper blades,Service took too long,0.0,Neutral
+466,It was terrible,Poor customer service,-0.4767,Negative
+467,1) Too expensive compared to other service providers in the area,Price too high,0.0,Neutral
+468,Waited for over an hour for inspection,Service took too long,0.0,Neutral
+469,I was told I needed a new battery,Misinformation about car/service needs given to customer,0.0,Neutral
+470,Told me 30-45 min and I was there for 2 hours,Service took too long,0.0,Neutral
+471,Lines were long ,Service took too long,0.0,Neutral
+472,They did not honor all on my signature,Discount/coupon issue,-0.3875,Negative
+473,Not  fan of Pennzoil products,Other issues,-0.2411,Negative
+474,My tire pressure light was on when I went and I asked for them to check my tires,Tire rotation service issue,-0.296,Negative
+475,The price for a oil change is to high,Price too high,0.0,Neutral
+476,The 3 hours  it took them to get to my vehicle check 2 cars that came in after me went in line before me,Service took too long,0.0,Neutral
+477,I have a mechanic I use regularly,Competition-prefer local mechanic,0.0,Neutral
+478,Price,Price too high,0.0,Neutral
+479,Bad experience last time I had an oil change with JL,Poor customer service,-0.5423,Very Negative
+480,Too expensive,Price too high,0.0,Neutral
+481,"I went in with perfectly fine working wind shield wipers and suddenly as I needed an inspection, my right wiper was ripped of from end to end",Interior/Exterior car damage,0.7184,Very Positive
+482,The price and I think the man that work there got over on me,Price too high,0.0,Neutral
+483,I stopped by to get my oil changed & the service tech said that my brake light & turn signal was out & I asked him if he could replace them and he said yes and I paid for what I thought I was getting,Poor customer service,0.2023,Positive
+484,They never vacuumed the vehicle like they claimed they did and it took 50 minutes despite me being able to pull directly into the garage upon arrival,Vacuuming not done propertly,0.3612,Positive
+485,"I have an independent mechanic, near my home who performs maintenance on our vehicles",Competition-prefer local mechanic,0.0,Neutral
+486,Because of my past experience with Jiffy Lube,Poor customer service,0.0,Neutral
+487,I should clarify I will not be returning to the same location I the future and unsure about Jiffy Lube overall,Poor customer service,-0.25,Negative
+488,Possible change in ownership of this location? Decreased quality of service,Poor customer service,0.0,Neutral
+489,I was the only customer at the time I stopped,Poor customer service,-0.2263,Negative
+490,3 tires were over inflated and one was under inflated,Tire rotation service issue,0.0,Neutral
+491,Seemed rushed and a little unwelcome,Poor customer service,-0.3415,Negative
+492,Oil light was not reset as they claimed they did as well as they claimed to have vaccumed my vehicle and they did not,Oil service light not reset ,0.2732,Positive
+493,I have had both good and bad experiences at Jiffy Lube,Poor customer service,-0.1531,Negative
+494,They broke my oil dipstick and I found out they never did the radiator flush that I paid for last year,Interior/Exterior car damage,-0.4215,Negative
+495,It's slow as fuck the one on northlake omg ,Service took too long,-0.5423,Very Negative
+496,Oil Change is very high in price compared to other facilities,Price too high,0.0,Neutral
+497,They didn't/don't vacuum cars anymore,Vacuuming not done propertly,0.0,Neutral
+498,Only because of the coupon,Discount/coupon issue,0.0,Neutral
+499,"I had and horrible experience pushy service ,over priced employee doesn't listen to well check engine light and Maintainece light came on after the oil change I would like a refund",Price too high,-0.6012,Very Negative
+500,"Oil change yes, but high pressure sales techniques for add on services  (albeit extremely professional and highly competent), were a real turn off",Overselling-Pressure to buy,-0.2382,Negative
+501,"I was told that I needed a million things done among them, i was told that i had two lights that was blown in the back or the car, and a dead battery",Poor customer service,-0.6486,Very Negative
+502,My check engine light was on before I arrived and they told me that it was not on when they did my rundown at checkout,Poor customer service,0.0,Neutral
+503,The cost of an oil change is ridiculous - $82,Price too high,-0.3612,Negative
+504,Excellent service and no pressure to buy anything,Tire rotation service issue,0.0772,Positive
+505,Had tire rotation done - but experiencing vibrations after tire rotation,Tire rotation service issue,0.0,Neutral
+506,The lid to the compartment for the cabin air filter came loose and jammed my glove compartment so I couldn't close it,Air filter ,-0.3182,Negative
+507,I felt the man who talked to me was condescending and rude,Unprofessional employees,-0.4588,Negative
+508,"Man at the oil service tried telling me I had a spare tire, which I don't and that why my tire light was on",Misinformation about car/service needs given to customer,0.0,Neutral
+509,"I am undecided about returning, because with only two other vehicles in front of me to be serviced and the station having three working stations",Service took too long,-0.2263,Negative
+510,I perform most of my own work,Other issues,0.0,Neutral
+511,I had the cabin filter changed in my 2013 Tacoma and the following happened; The day after I had the work done I opened my glove box and everything fell out on the floor board including the shock absorber that lowers the glove box,Air filter ,-0.4767,Negative
+512,I had just bought my car a month ago and the guy that goes under my hood breaks my air filter for my AC when he tries to take it out and tells me it was already broken,Air filter ,-0.4767,Negative
+513,Didn't like the service and too pricey for the little they did,Price too high,-0.2755,Negative
+514,Green caps on the tire stems means nitrogen and the guy starts putting air in my tires,Tire rotation service issue,0.0,Neutral
+515,My car sat in the bay for about 10 minutes and they said it was done,Poor customer service,0.0,Neutral
+516,"Depends on timing, where I am, and at Sears I get free tire rotation which I do every other oil change",Competition-prefer other car care chain,0.5106,Very Positive
+517,Our company car broke down less than 24 hours after getting the oil change,Poor customer service,-0.4215,Negative
+518,"One they were finished and I left they called me and asked me to return, as they forgot to put the air filter on my car",Air filter ,0.0,Neutral
+519,Invoice claimed airfilter was inspected and found to be good,Air filter ,0.4404,Positive
+520,"I made a specific request for them to check my air conditioning and the rest of my car because I was taking a long trip to Tucson, Arizona, and was charged for freon and something else, yet during my trip the car got really hot",Overcharged - charged more than was agreed on,-0.2023,Negative
+521,Cost,Price too high,0.0,Neutral
+522,I will not return to this Centreville location,Poor customer service,0.0,Neutral
+523,All other maintenance on my car is handled by a local mechanic,Competition-prefer local mechanic,0.0,Neutral
+524,They forgot to check me out and tell me my car was ready,Poor customer service,0.3612,Positive
+525,Adding services I asked to NOT be done to the vehicle to my bill,Didn't get customer prior approval to authorize work/expense,0.0,Neutral
+526,Got a tire rotation and now my car shakes going 50 mph and over,Tire rotation service issue,0.0,Neutral
+527,Service at this location used to be top notch but has declined quite a bit,Poor customer service,0.1027,Positive
+528,Sorry but the cost of the oil and filter change is far too much,Price too high,-0.0387,Negative
+529,prices too high,Price too high,0.0,Neutral
+530,Filter seal failed allowing oil on our brick driveway&  garage floor,Oil cap issue,-0.5106,Very Negative
+531,Cost to much,Price too high,0.0,Neutral
+532,I waited for an hour and a half to get a routine oil change,Service took too long,0.0,Neutral
+533,I have a trusted mechanic for major vehicle repairs,Competition-prefer local mechanic,0.4767,Positive
+534,The oil pan shield was not properly screwed back in after the oil change,Drain plug-pan issues,0.3875,Positive
+535,Too expensive,Price too high,0.0,Neutral
+536,Staff did not know what they were doing,Employees not knowledgeable,0.0,Neutral
+537,I wasn't greeted upon arrival,Poor customer service,-0.2057,Negative
+538,"I asked for a basic oil change and was charged the most expensive, was told to take my car in for an engine and transmission leak-- which I then did and was told there is nothing wrong with either, and even in dropping off my car had to wait 30 minutes just to drop off my car!",Price too high,-0.1625,Negative
+539,Poor service during last visit,Poor customer service,-0.4767,Negative
+540,To much hard selling items you don't need or want,Overselling-Pressure to buy,-0.1586,Negative
+541,No detail on work performed ,Poor customer service,-0.296,Negative
+542,"Techs said they cleaned vehicle, it wasn't cleaned",Vacuuming not done propertly,0.0,Neutral
+543,Did not do what i asked for,Poor customer service,0.0,Neutral
+544,Too expensive,Price too high,0.0,Neutral
+545,The technician blocked me from getting out of my car I think he was trying to be funny but I didn't find it that funny,Unprofessional employees,0.6428,Very Positive
+546,"After I got my oil changed, my car started leaking oil",Poor customer service,0.0,Neutral
+547,Regular maintenance done at Jud Kuhn,Competition-prefer other car care chain,0.0,Neutral
+548,My dad is a mechanic,Competition-prefer local mechanic,0.0,Neutral
+549,I had paid for the lifetime lens cleaning on the headlights and I asked them to clean it and they didn't,Poor customer service,0.4019,Positive
+550,"The service from the staff was good, but the manager  not Miguel was rude",Unprofessional employees,0.6334,Very Positive
+551,I have a mechanic who takes care of my care,Competition-prefer local mechanic,0.7506,Very Positive
+552,Too expensive,Price too high,0.0,Neutral
+553,Price is higher than everyone else,Price too high,0.0,Neutral
+554,"I've already sent in my complaint to the corporate office, but I will summarize what happened here",Poor customer service,-0.1531,Negative
+555,"When I arrived, the employees were inside fighting, I stood there for 5-7 mins watching before getting out of my car",Poor customer service,-0.3612,Negative
+556,I have a dealership prepaid maintenance plan and my vehicles are under warranty,Competition-prefer dealer,0.0,Neutral
+557,Supervisor/manager didn't supervise his new employee ,Unprofessional employees,0.0,Neutral
+558,"I was charged more for my oil change, even with a 20% off coupon than what I'm normally charged elsewhere",Discount/coupon issue,-0.3818,Negative
+559,My fitbit was stolen out of my vehicle,Item missing/stolen,-0.4939,Negative
+560,Because I have never paid over $50 for a standard oil change never in my life and I had to pay $75 I think that price is sky-high and I and we searching for an oil change shop that I can pay the amount that I used to pay which is $45,Price too high,-0.296,Negative
+561,This is the second time I am not please with the services on my truck,Poor customer service,-0.2411,Negative
+562,Overpriced; Would like more personalized service,Price too high,0.3612,Positive
+563,Too much of a sales pitch,Overselling-Pressure to buy,0.0,Neutral
+564,I will for oil change but not for other routine service,Other issues,0.0,Neutral
+565,"Did not have my filter in stock  2015 f150, the most popular vehicle sold",Item out of stock,0.4754,Positive
+566,the cost of the oil change was very expensive  $164,Price too high,0.0,Neutral
+567,"To many price adjustments, that didn't help",Price too high,-0.3089,Negative
+568,Felt a bit too much pressure to choose services,Overselling-Pressure to buy,-0.296,Negative
+569,"I felt like I got ripped off, employee was pushy and didn't explain why I needed all these repairs",Overselling-Pressure to buy,0.1027,Positive
+570,too much money,Price too high,0.0,Neutral

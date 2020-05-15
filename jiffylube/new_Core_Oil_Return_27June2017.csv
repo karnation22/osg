@@ -1,0 +1,699 @@
+,review,review header,sentiments,sentiment label
+0,Good service for years,Good customer service,0.4404,Positive
+1,All the staff were very responsive to meetig the needs I addressed,Responsible,0.4201,Positive
+2,it was very fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+3,"Quick, friendly great vacume job!!",Friendly,0.8353,Very Positive
+4,They were extremely friendlu and efficient,Friendly,0.4703,Positive
+5,I love the quick service and complimentary vacuum,Fast/Quick/Speedy/Timely,0.7964,Very Positive
+6,"The friendly, fast, and efficient service!",Friendly,0.7424,Very Positive
+7,"The guys at the Woodlawn location are always nice, fast, and don't try to sell me extra services",Good customer service,0.4215,Positive
+8,"close by work, prior experience with the jiffy lube I took the car to,  have been using this jiffy lube for several years",Convenient,0.0,Neutral
+9,friendly quick efficient service!,Friendly,0.7424,Very Positive
+10,"I have used this location for more than 15 years, and experienced the change in management",Convenient,0.0,Neutral
+11,good service and good exam of my car,Good customer service,0.7003,Very Positive
+12,Staff was friendly and provided prompt service,Friendly,0.4939,Positive
+13,Fast and great customer service,Good customer service,0.6249,Very Positive
+14,"Great job by workers, great communication, in and out quick!",Good customer service,0.8588,Very Positive
+15,Done very fast but professional,Professional,0.0,Neutral
+16,The quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+17,"They were coutious, friendly, knowledgeable and fast",Good customer service,0.4939,Positive
+18,The service was good,Good customer service,0.4404,Positive
+19,Love me some D$ and crew!,Good customer service,0.6696,Very Positive
+20,The experience with them has always been great! They expain everything about what you need and what they recommend,Knowledgeable employees,0.784,Very Positive
+21,Courtesy of the staff,Friendly,0.3612,Positive
+22,I know what to expect and the cost for service,Cost,0.0,Neutral
+23,Fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+24,Quick close and pleasant people,Friendly,0.5106,Very Positive
+25,polite people and good service,Friendly,0.4404,Positive
+26,quick fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+27,"the time, in and out I like that",Fast/Quick/Speedy/Timely,0.3612,Positive
+28,"Prompt, friendly service",Fast/Quick/Speedy/Timely,0.4939,Positive
+29,Quick and fair,Good customer service,0.3182,Positive
+30,Location,Convenient,0.0,Neutral
+31,Great staff! Super helpful and friendly very knowledgable and trustworthy I had a five star experience with this location and will definitely be back,Friendly,0.9677,Very Positive
+32,speed,Fast/Quick/Speedy/Timely,0.0,Neutral
+33,them manager went over and above  to help me with my AC,Good customer service,0.4019,Positive
+34,Very good service everything was great,Good customer service,0.807,Very Positive
+35,The fast service the nice And efficient workers,Good customer service,0.6808,Very Positive
+36,"There was a routine service that wasn't completed, my windows were cleaned",Good customer service,0.0,Neutral
+37,It's a convenient location,Convenient,0.0,Neutral
+38,Great service and good recommendations,Good customer service,0.7906,Very Positive
+39,I trust that they will be quick and do the job right,Responsible,0.5106,Very Positive
+40,Was able to be seen quickly and car was finished very quickly as well however i am not sure what other types of vehicle maintence services are offered at your facility,Fast/Quick/Speedy/Timely,0.1032,Positive
+41,I like going to the same place,Convenient,0.3612,Positive
+42,The service is great,Good customer service,0.6249,Very Positive
+43,Yes,Good customer service,0.4019,Positive
+44,They take care of my car each time,Good customer service,0.4939,Positive
+45,The speed in which the job is done,Fast/Quick/Speedy/Timely,0.0,Neutral
+46,It's convienant and affordable,Convenient,0.0,Neutral
+47,Easy and fast service,Fast/Quick/Speedy/Timely,0.4404,Positive
+48,"The oil change technicians are very friendly, knowledgeable, and  they get you out in a ""jiffy""",Knowledgeable employees,0.5413,Very Positive
+49,Good service and friendly people,Good customer service,0.7269,Very Positive
+50,I was satisfied overall,Good customer service,0.4215,Positive
+51,The way the employee treatment ,Good customer service,0.0,Neutral
+52,Excellent,Good customer service,0.5719,Very Positive
+53,Courteous informative,Good customer service,0.5106,Very Positive
+54,Quick & professional service,Professional,0.0,Neutral
+55,The service was just what I expected,Good customer service,0.0,Neutral
+56,Yes,Good customer service,0.4019,Positive
+57,liked the service I have been given,Good customer service,0.4215,Positive
+58,fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+59,Quick fast and easy very comforting experience,Fast/Quick/Speedy/Timely,0.7089,Very Positive
+60,The service is amazing and the best customer service,Good customer service,0.8402,Very Positive
+61,All the employees were very helpful,Professional,0.4754,Positive
+62,Fast and good service,Fast/Quick/Speedy/Timely,0.4404,Positive
+63,Speedy service,Fast/Quick/Speedy/Timely,0.0,Neutral
+64,"convenience, continuity",Convenient,0.0,Neutral
+65,Quick and efficient and friendly plus they give you some useful tips on how to maintain your vehicle,Fast/Quick/Speedy/Timely,0.836,Very Positive
+66,That was right on point very generous and very knowledgeable,Knowledgeable employees,0.5563,Very Positive
+67,"I go to this store, they listen, once I tell them I don't want any recommendations , they leave me alone",Responsible,-0.3447,Negative
+68,The Staff Was Friendly And Knowledgeable!!,Friendly,0.5837,Very Positive
+69,I always have received prompt and courteous service from Jiffy Lube,Good customer service,0.5106,Very Positive
+70,Quick and thorough service,Good customer service,0.0,Neutral
+71,They always give me great service,Good customer service,0.6249,Very Positive
+72,"I love the techicians they are nice, friendly and knowledgable",Friendly,0.8807,Very Positive
+73,I like that it's quick and easy but I prefer a shop down the street,Convenient,0.4019,Positive
+74,"Dwayne and the team were professional and pleasant, Great customer service, though the wait was 45 mins",Good customer service,0.8126,Very Positive
+75,The manager Brian is so professional and personal with your needs,Professional,0.0,Neutral
+76,Service people are great and service is honest and fast,Good customer service,0.8126,Very Positive
+77,I always have a great experience at that location,Good customer service,0.6249,Very Positive
+78,Brian and his team always provide top-notch service and go the second mile to assure complete satisfaction,Good customer service,0.6486,Very Positive
+79,Everyone was friendly and informative and helpful,Friendly,0.7184,Very Positive
+80,Customer service was great,Good customer service,0.6249,Very Positive
+81,"Quick,friendly, understanding",Friendly,0.0,Neutral
+82,Just for the fact that I didn't need a appt and my car was taken care of in a good amount of time,Good customer service,0.7269,Very Positive
+83,Quick-service along with knowledgeable technicians,Fast/Quick/Speedy/Timely,0.0,Neutral
+84,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+85,Been going there for years,Convenient,0.0,Neutral
+86,Thoroughness and speed of service,Fast/Quick/Speedy/Timely,0.0,Neutral
+87,Quick and reasonable service,Good customer service,0.0,Neutral
+88,It wad very good,Good customer service,0.4927,Positive
+89,good service,Good customer service,0.4404,Positive
+90,"Organize, Precise and Efficient",Fast/Quick/Speedy/Timely,0.4215,Positive
+91,I've been a regular customer for all my cars at the Jiffy Lube on Rt,Good customer service,0.0,Neutral
+92,Staff seen Knowledgeable and courteous,Knowledgeable employees,0.5106,Very Positive
+93,Super quick service,Fast/Quick/Speedy/Timely,0.5994,Very Positive
+94,The staff at the shop was very helpful to me and my car was checked out very quickly and In a very safe way,Friendly,0.742,Very Positive
+95,Customer for over 5 years,Convenient,0.0,Neutral
+96,"Being a senior woman, I believe that I was treated fairly, not taken advantage of",Good customer service,-0.1877,Negative
+97,"The young man that helped me couldn't have been nicer, faster or more helpful!  Great customer service!!!",Friendly,0.8038,Very Positive
+98,Great! Fast!,Fast/Quick/Speedy/Timely,0.6892,Very Positive
+99,Angel provided great customer service,Good customer service,0.6249,Very Positive
+100,Great staff Angel and the team are awesome!,Good customer service,0.8588,Very Positive
+101,Angel and the other tech were extremely polite and took care of all my requests!,Friendly,0.5411,Very Positive
+102,No wait time,Fast/Quick/Speedy/Timely,-0.296,Negative
+103,"kindness, courtesy and good service",Good customer service,0.8126,Very Positive
+104,They were really fast and nice to deal with,Fast/Quick/Speedy/Timely,0.4703,Positive
+105,"Have been a customer for about 10 years and equally happy with the service, especially my location!",Good customer service,0.6114,Very Positive
+106,Satisfaction with outcome,Good customer service,0.4404,Positive
+107,Very polite employees,Friendly,0.0,Neutral
+108,"The staff was prompt, courteous, and professional",Friendly,0.5106,Very Positive
+109,I was in and out quickly and the repair job was good,Fast/Quick/Speedy/Timely,0.4404,Positive
+110,VERY GOOD SERVICE,Good customer service,0.4927,Positive
+111,"Everyone very courteous and friendly, very good experience",Friendly,0.882,Very Positive
+112,Customer service by the staff,Good customer service,0.0,Neutral
+113,FAST PROMPT SERVICE,Fast/Quick/Speedy/Timely,0.0,Neutral
+114,Everyone was helpful and nice,Friendly,0.6808,Very Positive
+115,Everyone there is s niceo,Friendly,0.0,Neutral
+116,Friendly professional,Friendly,0.4939,Positive
+117,Convenient quality service,Convenient,0.0,Neutral
+118,"The men at the store on Seminole Blvd, are great",Good customer service,0.6249,Very Positive
+119,"Jiffy lube is in my neighborhood, which is convenient",Convenient,0.0,Neutral
+120,Fast and good service,Fast/Quick/Speedy/Timely,0.4404,Positive
+121,Friendly servicemen,Friendly,0.4939,Positive
+122,It was fast and efficient service,Fast/Quick/Speedy/Timely,0.4215,Positive
+123,I trust them,Other,0.5106,Very Positive
+124,Very good service and polite employees,Good customer service,0.4927,Positive
+125,Fast service and excellent staff,Fast/Quick/Speedy/Timely,0.5719,Very Positive
+126,You have the oil that my car requires,Have equipment needed,0.0,Neutral
+127,Because of the extras they do to your car,Value,0.0,Neutral
+128,Friendly people  and knowledgeable,Friendly,0.4939,Positive
+129,Not a long wait,Fast/Quick/Speedy/Timely,0.0,Neutral
+130,Good service,Good customer service,0.4404,Positive
+131,Fast and honest,Fast/Quick/Speedy/Timely,0.5106,Very Positive
+132,quality service,Good customer service,0.0,Neutral
+133,Professional friendly service,Professional,0.4939,Positive
+134,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+135,Quick and courteous service,Friendly,0.5106,Very Positive
+136,Very friendly and fast!,Fast/Quick/Speedy/Timely,0.5838,Very Positive
+137,We like to be consistent and going to Jiffy Lube helps with that ,Convenient,0.6249,Very Positive
+138,"Very good service, and happy workers",Good customer service,0.7841,Very Positive
+139,I have been going there for 35 years,Good customer service,0.0,Neutral
+140,The staff was excellent,Knowledgeable employees,0.5719,Very Positive
+141,They were very courteous,Friendly,0.5563,Very Positive
+142,I know what kind of service to expect from them,Good customer service,0.0,Neutral
+143,Good communication,Good customer service,0.4404,Positive
+144,The service gentleman was very polite and helpful when it came to my oil change and other recommended services,Friendly,0.5945,Very Positive
+145,In depth explanation and speed of service,Knowledgeable employees,0.0,Neutral
+146,Fast service and they are always friendly,Fast/Quick/Speedy/Timely,0.4939,Positive
+147,"Fast service, great customer service",Fast/Quick/Speedy/Timely,0.6249,Very Positive
+148,The staff was so courteous and friendly!,Friendly,0.84,Very Positive
+149,The quality and care of service provided by the staff,Friendly,0.4939,Positive
+150,Quick and high quality service,Fast/Quick/Speedy/Timely,0.0,Neutral
+151,Courtesy,Friendly,0.3612,Positive
+152,Promptness in service,Fast/Quick/Speedy/Timely,0.0,Neutral
+153,Courteous and efficient service every time!,Friendly,0.75,Very Positive
+154,Fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+155,The manager and lead tech went above and beyond to make sure I was fully informed with regards to suggested vehicle maintenance and pricing,Knowledgeable employees,0.3182,Positive
+156,"The service was quick, complete and the service staff were polite and explained everything to me",Fast/Quick/Speedy/Timely,0.0,Neutral
+157,Friendly and professional,Friendly,0.4939,Positive
+158,Great and fast,Fast/Quick/Speedy/Timely,0.6249,Very Positive
+159,Love the employees,Knowledgeable employees,0.6369,Very Positive
+160,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+161,Very pro and quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+162,Personnel was terrific,Knowledgeable employees,0.4767,Positive
+163,I love the great customer service jiffy lube promotes,Good customer service,0.8934,Very Positive
+164,Great customer service,Good customer service,0.6249,Very Positive
+165,Depends on whether I am in a location where one is conveniently located,Convenient,0.0,Neutral
+166,Prompt courteous service,Friendly,0.5106,Very Positive
+167,Excellent service very knowledgeable of their trade,Good customer service,0.5719,Very Positive
+168,"Consistency in returning, no problems any time I have gone",Good customer service,-0.5994,Very Negative
+169,This location in particular was so quick and polite,Friendly,0.0,Neutral
+170,Efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+171,Efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+172,"Fast, excellent customer service",Fast/Quick/Speedy/Timely,0.5719,Very Positive
+173,"Fast, friendly, professional",Professional,0.4939,Positive
+174,The employees at Jiffy Lube know my car and are quite good at their job!,Fast/Quick/Speedy/Timely,0.54,Very Positive
+175,The men there were so kind and more than eager to,Professional,0.7989,Very Positive
+176,"THEY TELL ME EVERYTHING i NEED TO KNOW, SERVICE IS QUICK AND CONVENIENT TO MY HOUSE",Knowledgeable employees,0.0,Neutral
+177,very courteous had oil changed in a timely manner   also advised me of engine filter that needed to be replaced,Friendly,0.5563,Very Positive
+178,Good work done quickly and at a reasonable price,Good customer service,0.4404,Positive
+179,Easy,Convenient,0.4404,Positive
+180,Savings,Fair price,0.0,Neutral
+181,They were fast and friendly,Friendly,0.4939,Positive
+182,Was in and out in about 20 minutes on a weekend,Fast/Quick/Speedy/Timely,0.0,Neutral
+183,Quick service in and out no problems,Fast/Quick/Speedy/Timely,-0.5994,Very Negative
+184,Quick in and out,Fast/Quick/Speedy/Timely,0.0,Neutral
+185,Quick and easy,Fast/Quick/Speedy/Timely,0.4404,Positive
+186,The service is quick and the staff was efficient and very attentive!,Fast/Quick/Speedy/Timely,0.4753,Positive
+187,Good job,Good customer service,0.4404,Positive
+188,"Easy drive in, pay, drive out",Convenient,0.3612,Positive
+189,The staff there is extremely friendly and courteous,Friendly,0.7939,Very Positive
+190,The customer service was excellent! Knowledge and efficiency,Good customer service,0.7574,Very Positive
+191,I may go to the Lexus dealer for my routine maintenance,Good customer service,0.0,Neutral
+192,I have been coming to Jiffy Lube for years,Good customer service,0.0,Neutral
+193,Because of the excellent service the staff provided very professional and friendly,Friendly,0.8,Very Positive
+194,quick & easy,Convenient,0.4404,Positive
+195,Great staff! They were incredibly knowledgeable and friendly,Knowledgeable employees,0.8341,Very Positive
+196,"Easy, perfect location, very efficient",Convenient,0.8655,Very Positive
+197,Great service,Good customer service,0.6249,Very Positive
+198,"Everyone was welcoming, polite and professional",Friendly,0.4404,Positive
+199,Wonderful customer service and finished in no time,Good customer service,0.3612,Positive
+200,The staff at the Audubon Jiffy Lube are the best!,Friendly,0.6696,Very Positive
+201,I can always show up without an appointment and be assisted (car serviced) within minutes of my arrival,Good customer service,0.0,Neutral
+202,The guys there are so nice and honest with their feedback ! I've always received great service at any jiffy lube I've been to,Knowledgeable employees,0.9113,Very Positive
+203,excellent customer service!,Good customer service,0.6114,Very Positive
+204,manager was excellent,Friendly,0.5719,Very Positive
+205,"Very fast ,clean , and efficient",Fast/Quick/Speedy/Timely,0.6983,Very Positive
+206,"They are respectful, fast, and honest",Responsible,0.743,Very Positive
+207,Quick service,Good customer service,0.0,Neutral
+208,"Friendly , Fast service",Friendly,0.4939,Positive
+209,Great people,Friendly,0.6249,Very Positive
+210,"Good, fast swrvice",Good customer service,0.4404,Positive
+211,It's convenient and they have my records of oil changes,Convenient,0.0,Neutral
+212,"Fast, friendly service!",Fast/Quick/Speedy/Timely,0.5411,Very Positive
+213,Top services,Good customer service,0.2023,Positive
+214,"Time, no apt",Fast/Quick/Speedy/Timely,-0.296,Negative
+215,I Have Been Going There Since I Got My Car!!! Love The Service,Good customer service,0.7249,Very Positive
+216,The job less then 30 min: and the inside of the car was cleaned,Fast/Quick/Speedy/Timely,0.0,Neutral
+217,Quick and professional,Fast/Quick/Speedy/Timely,0.0,Neutral
+218,"It's just very convenient ,",Convenient,0.0,Neutral
+219,Consistent friendly service,Friendly,0.4939,Positive
+220,Courteous and prompt service,Friendly,0.5106,Very Positive
+221,Very nice also seemed very knowledgeable,Knowledgeable employees,0.4754,Positive
+222,fast good work,Fast/Quick/Speedy/Timely,0.4404,Positive
+223,Fast and efficient!,Fast/Quick/Speedy/Timely,0.4753,Positive
+224,"All staff members were courteous, professional and informative",Friendly,0.5106,Very Positive
+225,Wonderful service,Good customer service,0.5719,Very Positive
+226,I have been a loyal Jiffy Lube customer for over 20 yrs,Good customer service,0.4767,Positive
+227,"Speed, efficiency, and great customer service",Fast/Quick/Speedy/Timely,0.765,Very Positive
+228,"Quick, Pleasant service",Good customer service,0.5106,Very Positive
+229,I can always count on quick service that doesn't take up half my day,Fast/Quick/Speedy/Timely,0.0,Neutral
+230,Quick and friendly service,Fast/Quick/Speedy/Timely,0.4939,Positive
+231,love how friendly the staff was,Friendly,0.8126,Very Positive
+232,It's convenient and you keep a profile of the work done on the car,Convenient,0.0,Neutral
+233,The location manager (I think his name is Albert) is always very nice and keeps the conversation going to make the wait time go by more quickly,Friendly,0.4754,Positive
+234,Good fast service,Good customer service,0.4404,Positive
+235,They always make me and my car feel special,Good customer service,0.4019,Positive
+236,Quick and seamless service,Good customer service,0.0,Neutral
+237,I can rely on friendly service and its quick,Friendly,0.4939,Positive
+238,Immediately welcomed when I pulled up,Friendly,0.34,Positive
+239,Fast and easy,Fast/Quick/Speedy/Timely,0.4404,Positive
+240,"Everyone is friendly, courteous and do not pressure you into purchasing repairs they may have mentioned needed",Friendly,0.812,Very Positive
+241,People very nice and work done quickly and right,Friendly,0.4754,Positive
+242,It was great - I will recommend you and also bring my other car,Good customer service,0.765,Very Positive
+243,They were very informative and went above and beyond for my oil change!,Knowledgeable employees,0.0,Neutral
+244,Great service!  John was awesome!,Good customer service,0.8684,Very Positive
+245,Fast friendly service techs,Friendly,0.4939,Positive
+246,Professionalism shown by everyone on the Team at my location,Professional,0.0,Neutral
+247,"Everything can be checked, rotates or replaced at one place",Have equipment needed,0.0,Neutral
+248,price,Fair price,0.0,Neutral
+249,Great customer service,Good customer service,0.6249,Very Positive
+250,Staff was very friendly and courteous throughout the time of having my oil changed,Friendly,0.7939,Very Positive
+251,"quick, friendly, thorough",Friendly,0.4939,Positive
+252,for the convenience  and appreciate that the service tech didn't press for the upsell,Convenient,0.4019,Positive
+253,Excellent service,Good customer service,0.5719,Very Positive
+254,They were so quick to get the job done,Fast/Quick/Speedy/Timely,0.0,Neutral
+255,The workers were friendly and helpful from the moment I pulled around back to begin my Oil Change,Friendly,0.7184,Very Positive
+256,Quick and easy service,Fast/Quick/Speedy/Timely,0.4404,Positive
+257,Quick and easy service,Fast/Quick/Speedy/Timely,0.4404,Positive
+258,Jerome Holbrook always gets my vehicle in and out fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+259,Ease of service,Convenient,0.3612,Positive
+260,Quick in and out service,Fast/Quick/Speedy/Timely,0.0,Neutral
+261,"Quick, friendly service",Friendly,0.4939,Positive
+262,it's always quick and easy and I like how they check the fluids and do a quick clean up,Fast/Quick/Speedy/Timely,0.7964,Very Positive
+263,"Staff was courteous,  professional and knowledgable",Friendly,0.5106,Very Positive
+264,Tiempo de espera,Friendly,0.0,Neutral
+265,In and out quick,Fast/Quick/Speedy/Timely,0.0,Neutral
+266,Christopher and all the guys that work there are sweethearts they take the time to talk to you to get to know you personally and to assure you that your car will be done properly,Friendly,0.7351,Very Positive
+267,It is quick and easy,Fast/Quick/Speedy/Timely,0.4404,Positive
+268,Pleased with the service,Good customer service,0.4404,Positive
+269,Good service,Good customer service,0.4404,Positive
+270,Friendly and knowledgeable staff,Friendly,0.4939,Positive
+271,Chris assisted me from starting to end,Responsible,0.0,Neutral
+272,Great job keep up the good work,Good customer service,0.7906,Very Positive
+273,"The staff was knowledgeable, helpful, and friendly, and did a great job",Knowledgeable employees,0.8779,Very Positive
+274,"The guys give nice service they check your car and tell you what need to do , good customer service ",Fast/Quick/Speedy/Timely,0.6908,Very Positive
+275,Very quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+276,Always friendly and fast!,Friendly,0.5411,Very Positive
+277,Polite and quick service; records of the maintenance on my car,Fast/Quick/Speedy/Timely,0.0,Neutral
+278,The manager oversaw my vehicle and the technicians that where working on it,Responsible,0.0,Neutral
+279,The oil change was done fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+280,"Quick, courteous, friendly service every time I go",Friendly,0.7579,Very Positive
+281,"Fast, efficient, hours that work with my schedule, folks are polite",Fast/Quick/Speedy/Timely,0.4215,Positive
+282,"Close, convenient and the guys were super courteous and professional",Convenient,0.802,Very Positive
+283,The service is outstanding!,Fast/Quick/Speedy/Timely,0.6476,Very Positive
+284,the ease of the service,Convenient,0.3612,Positive
+285,"Very courteous, and efficient crew",Friendly,0.7688,Very Positive
+286,I've been having my oil changed at this Jiffy Lube for a couple of years now and every time I feel like a valued customer,Good customer service,0.6597,Very Positive
+287,Fast quality service,Fast/Quick/Speedy/Timely,0.0,Neutral
+288,Efficient and business like,Fast/Quick/Speedy/Timely,0.6486,Very Positive
+289,Friendly helpful staff,Friendly,0.7184,Very Positive
+290,Convenient and quick,Convenient,0.0,Neutral
+291,They made me feel very comfortable,Friendly,0.5563,Very Positive
+292,The guys were great,Friendly,0.6249,Very Positive
+293,"been using location for a few years and they are always quick, courteous and provide good service",Friendly,0.7351,Very Positive
+294,this is the best location in my area,Good customer service,0.6369,Very Positive
+295,"I received fast (within 20 minutes), thorough and very courteous service",Fast/Quick/Speedy/Timely,0.5563,Very Positive
+296,"l like the service, the quickness and the honesty with which the work is done",Fast/Quick/Speedy/Timely,0.6908,Very Positive
+297,"Friendly, prompt reception by tech when pulled up to door",Friendly,0.4939,Positive
+298,Great service,Good customer service,0.6249,Very Positive
+299,Good quick quality service,Good customer service,0.4404,Positive
+300,Fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+301,"Fast and effective, unsure about price comparison",Fast/Quick/Speedy/Timely,0.2732,Positive
+302,Convenience,Convenient,0.0,Neutral
+303,The fat blonde guy at the 29 Charlottesville jiffy lube has fucking awesome customer service skills,Good customer service,0.659,Very Positive
+304,The staff,Other,0.0,Neutral
+305,Specifically I will go to this location because of trust service and friendliness,Friendly,0.743,Very Positive
+306,Very friendly and fun people to deal with!??,Friendly,0.8275,Very Positive
+307,A great experience! Brandon was wonderful to work with!,Good customer service,0.855,Very Positive
+308,It is convenient to my Saturday routine,Convenient,0.0,Neutral
+309,"Efficient, proffesional, no high pressure sales",Professional,-0.1531,Negative
+310,Fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+311,Treat you nice and they are quick,Friendly,0.6705,Very Positive
+312,The staff was professional efficient honest and helpful,Professional,0.836,Very Positive
+313,Wonderful customer services,Good customer service,0.5719,Very Positive
+314,The staff is amazing ! However this facility needs to be remodeled asap ,Friendly,0.6239,Very Positive
+315,Shprt wait time,Good customer service,0.0,Neutral
+316,They did a great job and did it fast,Fast/Quick/Speedy/Timely,0.6249,Very Positive
+317,I have started going to the same store for every oil change and am greeted by name,Good customer service,0.2732,Positive
+318,No complaints,Good customer service,-0.5994,Very Negative
+319,Great  service,Good customer service,0.6249,Very Positive
+320,The guy that took care of me was very point on he knew what he was doing talking about new his computer screen,Knowledgeable employees,0.4939,Positive
+321,"Got a great oil change, but the tire rotation was a mess",Good customer service,-0.1779,Negative
+322,The service was fast and the technician offered me other relevant options without pressuring me to buy anything,Fast/Quick/Speedy/Timely,0.2584,Positive
+323,Good service,Good customer service,0.4404,Positive
+324,Efficient,Good customer service,0.4215,Positive
+325,Quick and efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+326,They had very friendly and fast service,Friendly,0.5413,Very Positive
+327,The quality of service,Good customer service,0.0,Neutral
+328,Helpful and very polite,Friendly,0.4215,Positive
+329,The speed of service,Fast/Quick/Speedy/Timely,0.0,Neutral
+330,Good service,Good customer service,0.4404,Positive
+331,They are consistently fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+332,Quick,Fast/Quick/Speedy/Timely,0.0,Neutral
+333,Definitly would return,Good customer service,0.0,Neutral
+334,You get in and out within 15 minutes,Fast/Quick/Speedy/Timely,0.0,Neutral
+335,Good service,Good customer service,0.4404,Positive
+336,Customer service was excellent,Good customer service,0.5719,Very Positive
+337,I like the staff,Friendly,0.3612,Positive
+338,Service was decent,Good customer service,0.0,Neutral
+339,The manager Yuri have such great customer service,Good customer service,0.6249,Very Positive
+340,The oil change is good but the service is minimal,Good customer service,0.2382,Positive
+341,GREAT FRIENDLY SERVICE BUT NOT CLOSE TO ME,Friendly,0.5647,Very Positive
+342,Yes,Good customer service,0.4019,Positive
+343,always satisfied with the service,Good customer service,0.4215,Positive
+344,Great customer service,Good customer service,0.6249,Very Positive
+345,Prompt and courteous service every time I am there,Good customer service,0.5106,Very Positive
+346,Fast quick efficient service,Good customer service,0.4215,Positive
+347,The crew were so polite and I was in and out in 10 minutes,Friendly,0.0,Neutral
+348,Everyone very nice,Friendly,0.4754,Positive
+349,fast and courteous,Fast/Quick/Speedy/Timely,0.5106,Very Positive
+350,"Fast, courteous, polite",Fast/Quick/Speedy/Timely,0.5106,Very Positive
+351,Fast and quality service,Fast/Quick/Speedy/Timely,0.0,Neutral
+352,Care used to replace my oil filter,Good customer service,0.4939,Positive
+353,Fast and efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+354,the great customer service from the employees,Good customer service,0.6249,Very Positive
+355,The two guys there were extremely nice and did not try to sell me anything else other than the standard oil change,Friendly,0.4754,Positive
+356,Great customer service!,Good customer service,0.6588,Very Positive
+357,I was greeted very warmly,Friendly,0.624,Very Positive
+358,So far nothing has gone wrong and the time it took to complete was within my lunch break at work,Good customer service,0.3724,Positive
+359,People we friendly and service was great,Friendly,0.8074,Very Positive
+360,excellent service all around,Good customer service,0.5719,Very Positive
+361,Customer service,Good customer service,0.0,Neutral
+362,Employees very pleasant and explain what was done and completed in a short time,Friendly,0.5563,Very Positive
+363,How nice and helpful  the employees were,Friendly,0.6808,Very Positive
+364,THE SERVICE WAS SWIFT AND THE EMPLOYEES HELPFUL,Responsible,0.5574,Very Positive
+365,"Good service, top off service",Good customer service,0.5719,Very Positive
+366,Not sure what other maintenance jiffy lube does,Friendly,-0.2411,Negative
+367,"Friendly, thorough and convenient plus coupons",Friendly,0.4939,Positive
+368,Fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+369,I have always received prompt and courteous service,Fast/Quick/Speedy/Timely,0.5106,Very Positive
+370,I find that my visits to Jiffy Lube are always pleasant,Friendly,0.5106,Very Positive
+371,fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+372,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+373,I feel the dealer ship does a better inspection of the overall car,Good customer service,0.4404,Positive
+374,The workers take great care of my car and they are very professional,Professional,0.8074,Very Positive
+375,The staff did a great job,Good customer service,0.6249,Very Positive
+376,Service is great and very efficient,Good customer service,0.8016,Very Positive
+377,Did not wait long and people were friendly,Friendly,0.4939,Positive
+378,The servicemen were respectable and polite,Friendly,0.4404,Positive
+379,"Friendly, courteous, and quick service!",Friendly,0.7777,Very Positive
+380,Everyone was so nice and efficiant,Friendly,0.5598,Very Positive
+381,Good service,Good customer service,0.4404,Positive
+382,Friendly staff and efficient service,Friendly,0.7184,Very Positive
+383,I really like the tracking of all services performed on my car in one place,Good customer service,0.4201,Positive
+384,Love the service and the people are very courtious,Friendly,0.6369,Very Positive
+385,Price,Fair price,0.0,Neutral
+386,less on the up sale,Good customer service,0.0,Neutral
+387,"FriendLyn, courteous staff",Friendly,0.5106,Very Positive
+388,speed,Fast/Quick/Speedy/Timely,0.0,Neutral
+389,Quick service at good value,Good customer service,0.6486,Very Positive
+390,Excellent,Good customer service,0.5719,Very Positive
+391,I usually get plenty of coupons via mail and email and I faithfully use them for each visit,Convenient,0.4215,Positive
+392,The professional service given not only to me but others that came after me,Professional,0.0,Neutral
+393,The staff,Friendly,0.0,Neutral
+394,Fast service and professional ,Fast/Quick/Speedy/Timely,0.0,Neutral
+395,"Nice men, close to my job, easy location",Friendly,0.6908,Very Positive
+396,It's very convenient to my work and the service has been quick and efficient both times I've been there,Convenient,0.4215,Positive
+397,I have a regular service shop for mechanical work,Convenient,0.0,Neutral
+398,Timing to complete service,Fast/Quick/Speedy/Timely,0.0,Neutral
+399,Great Service,Good customer service,0.6249,Very Positive
+400,I like the top off plan,Convenient,0.5106,Very Positive
+401,"After checking my lights they never switched the lights back to ""auto""",Good customer service,0.0,Neutral
+402,Fast and friendly service,Fast/Quick/Speedy/Timely,0.4939,Positive
+403,Eddie was great!!!,Friendly,0.7163,Very Positive
+404,Everyone was so nice and kept me informed with the issues on my car as well as very fast,Friendly,0.6924,Very Positive
+405,It's always open which is very convenient,Convenient,0.0,Neutral
+406,Prompt service,Fast/Quick/Speedy/Timely,0.0,Neutral
+407,"Experience was good,but have problem with my car start next day because battery cable was not tite so we have to call trpel A for jump start very dies appoints about",Good customer service,-0.4019,Negative
+408,"Friendly, efficient staff",Friendly,0.7184,Very Positive
+409,Great employees,Knowledgeable employees,0.6249,Very Positive
+410,Quick oil change,Fast/Quick/Speedy/Timely,0.0,Neutral
+411,Ease of use,Convenient,0.3612,Positive
+412,oil change was fine,Good customer service,0.2023,Positive
+413,Great personal touch,Friendly,0.6249,Very Positive
+414,The guys were professional,Professional,0.0,Neutral
+415,The service was quick and the staff was polite and courteous,Friendly,0.5106,Very Positive
+416,Price is too expensive!,Fair price,0.0,Neutral
+417,Fast curteous service,Fast/Quick/Speedy/Timely,0.0,Neutral
+418,The staff remembered my name & information from calling earlier that morning,Friendly,0.0,Neutral
+419,"Fast, friendly, reasonably priced",Fast/Quick/Speedy/Timely,0.4939,Positive
+420,I have gone to this particular Jiffy Lube location for over 10 years,Convenient,0.0,Neutral
+421,I always get great service and everyone is alway courteous,Good customer service,0.8126,Very Positive
+422,i get to stay in my car,Convenient,0.0,Neutral
+423,Fast and courteous service,Fast/Quick/Speedy/Timely,0.5106,Very Positive
+424,Good service however wait time was much longer than usual,Good customer service,0.4404,Positive
+425,Price,Fair price,0.0,Neutral
+426,I just LOVE the customer seevice,Good customer service,0.7125,Very Positive
+427,Very thorough and very friendly,Friendly,0.5413,Very Positive
+428,Used to work there and know the quality of work performed,Good customer service,0.0,Neutral
+429,The price of ur service,Fair price,0.0,Neutral
+430,Excellent service,Good customer service,0.5719,Very Positive
+431,Convenient,Convenient,0.0,Neutral
+432,Convenient,Convenient,0.0,Neutral
+433,The manager is always very understanding and listens well,Friendly,0.2732,Positive
+434,Good service,Good customer service,0.4404,Positive
+435,Convenient location,Convenient,0.0,Neutral
+436,They were one of the few places that don't have a two hour wait,Fast/Quick/Speedy/Timely,0.0,Neutral
+437,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+438,Always get the job done in a timely matter,Fast/Quick/Speedy/Timely,0.0258,Positive
+439,Fast great,Fast/Quick/Speedy/Timely,0.6249,Very Positive
+440,Hours of operation meet my busy schedule,Convenient,0.0,Neutral
+441,"Although other maintenance items were suggested, there was no hard sell",Other,-0.3818,Negative
+442,Professional and caring for my vehicle,Professional,0.4939,Positive
+443,Quick and efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+444,Quickness,Fast/Quick/Speedy/Timely,0.0,Neutral
+445,Great customer service,Good customer service,0.6249,Very Positive
+446,customer service on point,Good customer service,0.0,Neutral
+447,Other than required for my car to be taken care of its clean inside,Value,0.7096,Very Positive
+448,"Superior, efficient, friendly service",Friendly,0.8591,Very Positive
+449,Both mechanics were very knowledgeable and very efficient,Knowledgeable employees,0.4754,Positive
+450,speed of service,Fast/Quick/Speedy/Timely,0.0,Neutral
+451,Speed,Fast/Quick/Speedy/Timely,0.0,Neutral
+452,It was very quick and easy,Fast/Quick/Speedy/Timely,0.4877,Positive
+453,"I will return beside I like the price, but I felt I waiting to long",Fair price,0.1901,Positive
+454,Great customer service,Good customer service,0.6249,Very Positive
+455,"The service was good and although we waited longer than expected, it wasn't too long",Good customer service,0.4404,Positive
+456,Great customer service,Good customer service,0.6249,Very Positive
+457,Friendly and kind workers,Friendly,0.765,Very Positive
+458,"First time, was greeted by the manager and showed how it all works",Courtesy,0.2732,Positive
+459,It was relatively quick,Fast/Quick/Speedy/Timely,0.0,Neutral
+460,Good customer service,Good customer service,0.4404,Positive
+461,Good service,Good customer service,0.4404,Positive
+462,Overall great service! Top kitch,Good customer service,0.7345,Very Positive
+463,Our technician Jaison was really great,Professional,0.659,Very Positive
+464,Professional techs,Professional,0.0,Neutral
+465,Cause there fast service is the best,Fast/Quick/Speedy/Timely,0.6369,Very Positive
+466,Every time I brought my vehicle there it has been a very quick and easy process and they make me aware of anything that they find,Fast/Quick/Speedy/Timely,0.4877,Positive
+467,Pleased with the  quick service,Fast/Quick/Speedy/Timely,0.4404,Positive
+468,Good service,Good customer service,0.4404,Positive
+469,"My reason for ""definitely will return"" is the way Jiffy Lube operates",Good customer service,0.4019,Positive
+470,Fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+471,The service was fast and also I was informed about what specials were being offered,Fast/Quick/Speedy/Timely,0.0,Neutral
+472,The service  was perfect,Good customer service,0.5719,Very Positive
+473,The customer service was excellent!,Good customer service,0.6114,Very Positive
+474,Courteous service workers,Courtesy,0.5106,Very Positive
+475,"Very friendly,  car  looks great after",Friendly,0.8221,Very Positive
+476,Prompt and efficient service,Fast/Quick/Speedy/Timely,0.4215,Positive
+477,People who work there were really friendly and nice,Friendly,0.762,Very Positive
+478,customer service,Good customer service,0.0,Neutral
+479,"Usually get my oil changed at JL so, I probably will return",Good customer service,0.0,Neutral
+480,I always choose jiffy lube 99th,Good customer service,0.0,Neutral
+481,I love that anytime it will be done -no appointment is needed,Convenient,0.4588,Positive
+482,It was quick,Fast/Quick/Speedy/Timely,0.0,Neutral
+483,Everyone was  polite and throughly explained services needed and recommended,Friendly,0.2023,Positive
+484,Excellent customer service,Good customer service,0.5719,Very Positive
+485,The entire experience was excellent c,Good customer service,0.5719,Very Positive
+486,"Friendly, efficient staff",Friendly,0.7184,Very Positive
+487,They were friendly and easy to work with,Friendly,0.7269,Very Positive
+488,I really appreciated this efficente service,Good customer service,0.5563,Very Positive
+489,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+490,Have been using Jiffy Lube for many years with no problems or issues to speak of,Good customer service,-0.5994,Very Negative
+491,Seemed to be very organized,Good customer service,0.0,Neutral
+492,I had awesome service and the techs cared,Good customer service,0.7845,Very Positive
+493,productive,Good customer service,0.0,Neutral
+494,Samantha was friendly and offered the many services jiffy has,Friendly,0.4939,Positive
+495,"They waited on me right away very pleasant and the office lady was,very pleasant, helpful and friendly",Friendly,0.9214,Very Positive
+496,Speedy work done,Fast/Quick/Speedy/Timely,0.0,Neutral
+497,"I like their convenience, but if I have my vehicle in to our mechanic at the time an oil",Convenient,0.1901,Positive
+498,"The team at Jiffy Lube in Quakertown, PA are excellent",Professional,0.5719,Very Positive
+499,Convienence,Convenient,0.0,Neutral
+500,Very friendly and thorough,Friendly,0.5413,Very Positive
+501,Very fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+502,Speed of service,Fast/Quick/Speedy/Timely,0.0,Neutral
+503,Professional service that was efficient,Professional,0.4215,Positive
+504,The overall cost for the oil change,Cost,0.0,Neutral
+505,Fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+506,"I have always had a great experience with your Quakertown,PA location",Good customer service,0.6249,Very Positive
+507,Professional staff,Professional,0.0,Neutral
+508,Fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+509,Because of all the extras with your signature deal,Value,0.0,Neutral
+510,Great customer service,Good customer service,0.6249,Very Positive
+511,It's easy,Convenient,0.4404,Positive
+512,Nice people,Friendly,0.4215,Positive
+513,Just like t service,Good customer service,0.3612,Positive
+514,The employees did an excellent job,Professional,0.5719,Very Positive
+515,Excellent customer service at this location,Good customer service,0.5719,Very Positive
+516,I would say that I would definitely return to the Jiffy lube on Elston,Good customer service,0.4019,Positive
+517,The crew members are very nice,Friendly,0.4754,Positive
+518,Very friendly staff,Friendly,0.5413,Very Positive
+519,The facility was clean and the staff was helpful,Good customer service,0.6705,Very Positive
+520,Excellent Service,Good customer service,0.5719,Very Positive
+521,It was the most efficient use of time I had that entire day,Fast/Quick/Speedy/Timely,0.4754,Positive
+522,Great and easy experience,Good customer service,0.7906,Very Positive
+523,Super quick,Fast/Quick/Speedy/Timely,0.5994,Very Positive
+524,Very good friendly service,Friendly,0.7698,Very Positive
+525,Courtesy,Courtesy,0.3612,Positive
+526,the overall service provide,Good customer service,0.0,Neutral
+527,Always get excellent service,Good customer service,0.5719,Very Positive
+528,This Jiffy Lube is near my work but I live far away,Convenient,0.0,Neutral
+529,"the knowledge that your staff has at the Castro Valley, CA location",Knowledgeable employees,0.0,Neutral
+530,All of your employees were very professional,Professional,0.0,Neutral
+531,Well trained staff,Knowledgeable employees,0.2732,Positive
+532,good service,Good customer service,0.4404,Positive
+533,The quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+534,Have been going to Jiffy Lube for years,Good customer service,0.0,Neutral
+535,Attentive service,Good customer service,0.0,Neutral
+536,Great,Good customer service,0.6249,Very Positive
+537,They were efficient and the wait wasn't long,Fast/Quick/Speedy/Timely,0.4215,Positive
+538,Customer service was excellent,Good customer service,0.5719,Very Positive
+539,It was very smooth & in & out,Fast/Quick/Speedy/Timely,0.0,Neutral
+540,Fast and efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+541,The job was done quickly and I appreciate the window cleaning,Fast/Quick/Speedy/Timely,0.4019,Positive
+542,well handled,Good customer service,0.2732,Positive
+543,Good customer service,Good customer service,0.4404,Positive
+544,Have been going to San Mateo Jiffy Lube and have always had a great experience,Good customer service,0.6249,Very Positive
+545,Staff is friendly and efficient your store is clean,Friendly,0.8271,Very Positive
+546,I definitely will return,Good customer service,0.4019,Positive
+547,Good service,Good customer service,0.4404,Positive
+548,I like the staff,Friendly,0.3612,Positive
+549,This is the only place ive hotten my oil changes,Good customer service,0.0,Neutral
+550,Customer service,Good customer service,0.0,Neutral
+551,Prices,Fair price,0.0,Neutral
+552,The fast speedy service,Fast/Quick/Speedy/Timely,0.0,Neutral
+553,I appreciated the quality of the service and the service itself,Good customer service,0.5106,Very Positive
+554,I was pleasantly greeted as soon as I pulled up,Courtesy,0.6369,Very Positive
+555,Quick,Fast/Quick/Speedy/Timely,0.0,Neutral
+556,Have always had good sevice,Good customer service,0.4404,Positive
+557,Everyone is so courteous and inform you of any changes to your vehicle,Courtesy,0.6418,Very Positive
+558,The service was very efficient,Good customer service,0.4754,Positive
+559,Always seem so thorough and professional,Professional,0.0,Neutral
+560,The crew at the Pat Booker location is fantastic,Professional,0.5574,Very Positive
+561,Quick and great detail,Fast/Quick/Speedy/Timely,0.6249,Very Positive
+562,Speed of service,Fast/Quick/Speedy/Timely,0.0,Neutral
+563,Your service reps are friendly and know their products and only look to service what your vehicle needs,Friendly,0.4939,Positive
+564,Very nice people,Friendly,0.4754,Positive
+565,Every time I go to jiffy lube I always get good service,Good customer service,0.4404,Positive
+566,"Every Jiffy Lube I've ever been to has a friendly, dedicated, thorough staff",Friendly,0.7351,Very Positive
+567,Pronpt service,Fast/Quick/Speedy/Timely,0.0,Neutral
+568,"Quick service, easy in and out",Fast/Quick/Speedy/Timely,0.4404,Positive
+569,"I've been to this location many times and I've always gotten good service, and it's always been a pleasant experience",Good customer service,0.7351,Very Positive
+570,Service is fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+571,Will return,Good customer service,0.0,Neutral
+572,fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+573,Really cares for the customer,Good customer service,0.5095,Very Positive
+574,quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+575,The service was amazing,Good customer service,0.5859,Very Positive
+576,Friendly staff,Friendly,0.4939,Positive
+577,Service was very quick and efficient,Fast/Quick/Speedy/Timely,0.4703,Positive
+578,The express and super courteous service I receive every to I visit keeps me coming back!,Courtesy,0.8172,Very Positive
+579,They were so courteous and helpful,Courtesy,0.8077,Very Positive
+580,The customer service was outstanding,Good customer service,0.6124,Very Positive
+581,Fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+582,Quick and efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+583,The work was done well,Good customer service,0.2732,Positive
+584,Price was right,Fair price,0.0,Neutral
+585,Great service,Good customer service,0.6249,Very Positive
+586,If it was a little cheaper in price,Fair price,0.0,Neutral
+587,The Lean style service allows me to get fast service so that I can carry on with my busy schedule,Fast/Quick/Speedy/Timely,0.0,Neutral
+588,Convenience,Convenient,0.0,Neutral
+589,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+590,Convenient,Convenient,0.0,Neutral
+591,Service,Good customer service,0.0,Neutral
+592,"the way the service tech gets right to the point, advises on what needs to be done and allows me to answer the question and make an informed decision",Good customer service,0.0,Neutral
+593,"The upfront honest information about what my vehicle needed, and fair prices without the ""upsell"" will have me back",Fair price,0.6808,Very Positive
+594,It's where we typically bring the car when the 'change oil' light comes on,Other,0.0,Neutral
+595,easy and fast,Fast/Quick/Speedy/Timely,0.4404,Positive
+596,I have been a customer for years and the service is quick and good,Fast/Quick/Speedy/Timely,0.4404,Positive
+597,Great personalized service ,Good customer service,0.6249,Very Positive
+598,Great people,Friendly,0.6249,Very Positive
+599,Very fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+600,Usually very fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+601,Depends on schedule and where I am,Convenient,0.0,Neutral
+602,Good service,Good customer service,0.4404,Positive
+603,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+604,No appointment needed,Convenient,-0.296,Negative
+605,Quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+606,Conveniently located,Convenient,0.0,Neutral
+607,Staff was very professional and efficient ,Professional,0.4703,Positive
+608,Service person was friendly and helpful not pushy or overwhelming,Friendly,0.7791,Very Positive
+609,"Their prices are competitive with coupons, more convenient that the dealership and they also provide fluid top off and vacuuming of the front interior",Fair price,0.3612,Positive
+610,Fast and efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+611,They did a good job and give me great Service,Good customer service,0.7906,Very Positive
+612,Great people,Friendly,0.6249,Very Positive
+613,Good service nice workers,Good customer service,0.6908,Very Positive
+614,Service was great!,Good customer service,0.6588,Very Positive
+615,"Safety, neatness, great customer service",Good customer service,0.8481,Very Positive
+616,Very informative,Knowledgeable employees,0.0,Neutral
+617,Just excellent overall service,Good customer service,0.5719,Very Positive
+618,Excellent service,Good customer service,0.5719,Very Positive
+619,"Friendliness, and engagement with the customers",Friendly,0.7184,Very Positive
+620,The service was fast,Fast/Quick/Speedy/Timely,0.0,Neutral
+621,I've been using Jiffy Lube for year,Good customer service,0.0,Neutral
+622,This Jiffy Lube and the staff provide better service than the other Jiffy Lubes in my area,Good customer service,0.4404,Positive
+623,Keep good records about my car and I like the service provided,Good customer service,0.6597,Very Positive
+624,The service is great,Good customer service,0.6249,Very Positive
+625,It was convenient and easy,Convenient,0.4404,Positive
+626,Convenience,Convenient,0.0,Neutral
+627,Service,Good customer service,0.0,Neutral
+628,I've been a repeat customer for years at the catonsville shop,Good customer service,0.0,Neutral
+629,Prompt service,Fast/Quick/Speedy/Timely,0.0,Neutral
+630,THEY HAD COFFE,Value,0.0,Neutral
+631,Just great,Good customer service,0.6249,Very Positive
+632,"Friendly, helpful staff",Friendly,0.7184,Very Positive
+633,Very friendly,Friendly,0.5413,Very Positive
+634,Tech tech,Knowledgeable employees,0.0,Neutral
+635,They were very helpful ,Friendly,0.4754,Positive
+636,Staff is courteous and efficient,Courtesy,0.7269,Very Positive
+637,Nice men,Friendly,0.4215,Positive
+638,Clint and his team do a great job,Good customer service,0.6249,Very Positive
+639,"I treated with good manors , and all was explained to me",Good customer service,0.4404,Positive
+640,Great advice from the staff on what I did or did not need done at that visit,Knowledgeable employees,0.6249,Very Positive
+641,Great job,Good customer service,0.6249,Very Positive
+642,quick service,Fast/Quick/Speedy/Timely,0.0,Neutral
+643,I've been a loyal customer for years,Good customer service,0.4767,Positive
+644,Fast and good service,Fast/Quick/Speedy/Timely,0.4404,Positive
+645,very thorough,Good customer service,0.0,Neutral
+646,They were nice and friendly,Friendly,0.7184,Very Positive
+647,"Brakes , a/ c",Value,0.0,Neutral
+648,I have been going for several years,Good customer service,0.0,Neutral
+649,if am in the area,Convenient,0.0,Neutral
+650,Very profecional,Professional,0.0,Neutral
+651,The fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+652,"Consistent, fast service",Fast/Quick/Speedy/Timely,0.0,Neutral
+653,Great service!,Good customer service,0.6588,Very Positive
+654,The men working there were excellent,Professional,0.5719,Very Positive
+655,I was in and out in under 20 minutes,Fast/Quick/Speedy/Timely,0.0,Neutral
+656,fast service,Fast/Quick/Speedy/Timely,0.0,Neutral
+657,Quick and efficient,Fast/Quick/Speedy/Timely,0.4215,Positive
+658,"They noticed extra things that needed attention, so like how the guys double check for more than what you ask",Professional,0.5009,Very Positive
+659,Great customer service,Good customer service,0.6249,Very Positive
+660,Always do a good job,Good customer service,0.4404,Positive
+661,Customer service (Rob and Paris),Good customer service,0.0,Neutral
+662,Friendly staff,Friendly,0.4939,Positive
+663,Easy,Convenient,0.4404,Positive
+664,Great service,Good customer service,0.6249,Very Positive
+665,The crew that works there are awesome,Friendly,0.6249,Very Positive
+666,Explanation of services they provide,Knowledgeable employees,0.0,Neutral
+667,In two words; The staff,Professional,0.0,Neutral
+668,Great service,Good customer service,0.6249,Very Positive
+669,Good service,Good customer service,0.4404,Positive
+670,Close to home,Convenient,0.0,Neutral
+671,I am always treated well and the service provided is  good,Good customer service,0.6124,Very Positive
+672,Friendly people,Friendly,0.4939,Positive
+673,speed - efficiency,Fast/Quick/Speedy/Timely,0.3612,Positive
+674,All the guys are very nice and friendly,Friendly,0.762,Very Positive
+675,Service was fast and easy,Fast/Quick/Speedy/Timely,0.4404,Positive
+676,I love how helpful and kind everyone is!,Friendly,0.8932,Very Positive
+677,"I have been getting my oil change at this location for more than 5 years, I don't like ""change"" and like to have vehicle serviced by the same company",Good customer service,-0.4973,Negative
+678,"I have a high mileage car, and the top off policy is very helpful",Value,0.5984,Very Positive
+679,Fast service without having to make an appointment,Fast/Quick/Speedy/Timely,0.0,Neutral
+680,Like the service,Good customer service,0.3612,Positive
+681,yes,Good customer service,0.4019,Positive
+682,Good Service and communication with customers,Good customer service,0.4404,Positive
+683,Good customer service,Good customer service,0.4404,Positive
+684,Good service,Good customer service,0.4404,Positive
+685,I had an excellent experience,Good customer service,0.5719,Very Positive
+686,The employees are extremely nice and helpful,Friendly,0.7316,Very Positive
+687,I've been there twice and I've loved the service both times,Good customer service,0.5994,Very Positive
+688,Everyone was very helpful and friendly,Friendly,0.762,Very Positive
+689,Didn't have wait to long and told you it something was wrong with your car,Fast/Quick/Speedy/Timely,-0.4767,Negative
+690,Very friendly staff and went over everything in detail - pointing out what was needed abs what may be needed on my next visit,Friendly,0.5413,Very Positive
+691,Courteous respectful staff,Courtesy,0.743,Very Positive
+692,Customer service was great,Good customer service,0.6249,Very Positive
+693,All of the staff had superior customer service skills! I have found my favorite place to get my oil changed! Great job!!,Good customer service,0.9147,Very Positive
+694,"Excellent customer service, I only take my car to Jiffy Lube",Good customer service,0.5719,Very Positive
+695,I been using them for years,Good customer service,0.0,Neutral
+696,Very polite and no bullshit,Friendly,-0.7402,Very Negative
+697,The guys were very helpful with suggestions and needs for my vehicle,Friendly,0.4754,Positive

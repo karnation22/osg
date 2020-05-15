@@ -1,0 +1,809 @@
+,review,review header,sentiments,sentiment label
+0,I checked some stuff that they said they checked and they said full but not full like liquid for radiator like liquid for windshield like they made all the motor dirt they spoiled oil everywhere they did not clean it when they was changing oil for me the problem that I'm member with jiffylube ,Other service issues,-0.948,Very Negative
+1,I paid for a tire rotation that was NOT done properly!! I scuffed my rim w/ red paint and it was on the same rim prior to the visit,Tire rotation service issue,0.0,Neutral
+2,Too expensive,Price too high,0.0,Neutral
+3,It cost $61 for a filter and oil change which was approximately $20 more than our previous visit,Price too high,0.0,Neutral
+4,I have my own mechanic,Competition-prefer local mechanic,0.0,Neutral
+5,Before I went to get my oil change my car was running fine but on the way home my car started acting weird and like it wanted to die,Other service issues,-0.5789,Very Negative
+6,My experience was great until checkout,Other issues,0.6249,Very Positive
+7,"I have a mechanic that does most repairs, but I use Jiffy lube to do my oil changes",Competition-prefer local mechanic,0.0,Neutral
+8,My car was running fine when I brought it into Jiffy Lube,Other service issues,0.2023,Positive
+9,"All I wanted was an oil change, and being young I feel like Your workers started pulling apart my car to get more money out of me",Customer felt threatened,0.3612,Positive
+10,They over charge,Overcharged - charged more than was agreed on,0.0,Neutral
+11,Air filter replacement cost $50 for a $10 part,Price too high,0.0,Neutral
+12,"Because I was told one thing at the counter by a Mechanic , and when I went to pay it was totally different ,",Overcharged - charged more than was agreed on,-0.1027,Negative
+13,"I only do oil changes there, I leave everything else to my mechanic",Competition-prefer local mechanic,-0.0516,Negative
+14,To much up sell,Overselling-Pressure to buy,0.0,Neutral
+15,"During the tire rotation process, the maintenance person had me look at my brake pads and rotars on both the front and the back",Tire rotation service issue,0.0,Neutral
+16,I will not return to this location,Other service issues,0.0,Neutral
+17,"Deceptive practices, high prices and a lobby that looks like a dump",Price too high,0.0,Neutral
+18,use a dealership,Competition-prefer other car care chain,0.0,Neutral
+19,Oil was spilled when filter was removed improperly,Oil filter issue,0.0,Neutral
+20,"Service tech offered air filter at $10, still charged me $35",Overcharged - charged more than was agreed on,-0.2023,Negative
+21,Didn't change oil like suppose to,Oil or filter not actually replaced,-0.2755,Negative
+22,Person filling crankcase with oil spilled the oil from the spout all over the engine block several times,Other service issues,-0.4404,Negative
+23,Car doesn't run right,Other service issues,0.0,Neutral
+24,Too expensive for just an oil change,Price too high,0.0,Neutral
+25,Another company handles most of my automotive needs,Competition-prefer other car care chain,0.0,Neutral
+26,Would not accept coupon that was not expired and didn't specify location of coupon,Discount/coupon issue,-0.2924,Negative
+27,Would rather go to a full service shop for other maintenance,Competition-prefer other car care chain,0.0,Neutral
+28,I have a friend that is my mechanic for anything beyond an oil change,Competition-prefer local mechanic,0.4939,Positive
+29,"I have a trusted garage that I usually visit, they were not open the day I needed my oil changed",Competition-prefer local mechanic,0.4767,Positive
+30,There was oil all over my engine,Other service issues,0.0,Neutral
+31,You guys almost caught my car on fire,Other service issues,-0.34,Negative
+32,"I go to Jiffy Kube for oil changes only, and I hate it when they try to sell me other services",Overselling-Pressure to buy,-0.5719,Very Negative
+33,Because I take my truck to  my mechanic for mechanical work,Competition-prefer local mechanic,0.0,Neutral
+34,I have a regular mechanic,Competition-prefer local mechanic,0.0,Neutral
+35,Upon arrival I was quoted 30 minutes for a brake pad change-out (front only),Service took too long,0.0,Neutral
+36,Did not have part,Item out of stock,0.0,Neutral
+37,I received a coupon from jiffy lube via email and the manager would not accept it,Discount/coupon issue,-0.2924,Negative
+38,i will go for a oil change but not other service,Other service issues,0.0,Neutral
+39,I was quoted $99 and 25-30 minutes to replace 1 belt,Service took too long,0.0,Neutral
+40,the Jiffylube before this put the cabin filter wrong and damage it  so this shop said they could not replace it,Competition-prefer other car care chain,-0.743,Very Negative
+41,Go to Toyota dealer,Competition-prefer other car care chain,0.0,Neutral
+42,A lot of upselling,Overselling-Pressure to buy,0.0,Neutral
+43,New car under full warranty,Competition-prefer other car care chain,0.0,Neutral
+44,"I usually get my car needs, including my oil change from Mr",Competition-prefer other car care chain,0.0,Neutral
+45,I do my own routine maintenance,Competition-prefer local mechanic,0.0,Neutral
+46,Service people destroyed several things on my car the last time I was there,Interior/Exterior car damage,-0.4939,Negative
+47,I have a regular mechanic that does regular maintenance,Competition-prefer local mechanic,0.0,Neutral
+48,It was a random stop and the experience was nothing like the experience i had at another location in New Jersey,Other issues,-0.5122,Very Negative
+49,Use other shops,Competition-prefer local mechanic,0.0,Neutral
+50,Very poor service,Other service issues,-0.5256,Very Negative
+51,I will use the Subaru dealer,Competition-prefer other car care chain,0.0,Neutral
+52,"I was asked to purchase a number of due maintainence services to which I declined, except a fuel injector cleaner",Overselling-Pressure to buy,0.25,Positive
+53,Price,Price too high,0.0,Neutral
+54,I have maintenance performed by the Ford Dealer,Competition-prefer other car care chain,0.0,Neutral
+55,Too expensive - I could have gotten two oil changes for what I paid at Midas,Price too high,0.0,Neutral
+56,Expensive,Price too high,0.0,Neutral
+57,Prices are too high,Price too high,0.0,Neutral
+58,It took an hour to change my oil and the shop wasn't even very busy,Service took too long,0.0,Neutral
+59,For othe rmaintenance I take my car to my local mechanic,Competition-prefer local mechanic,0.0,Neutral
+60,THEY GAVE NO INDICATION THAT I WOULD NEED TO WAIT OVER 45 MONIUTES FOR A TIRE ROTATION,Tire rotation service issue,-0.4466,Negative
+61,I have a regular mechanic,Competition-prefer local mechanic,0.0,Neutral
+62,WAY overpriced,Price too high,0.0,Neutral
+63,price,Price too high,0.0,Neutral
+64,Basically they told me a price for the air filter change and then when I went to pay the told me it was $15 bucks more,Price too high,-0.1027,Negative
+65,Differing opinions from mechanic and friends about necessity of maintenance offered,Competition-prefer local mechanic,0.4767,Positive
+66,nothing i just like to use my mechanic,Competition-prefer local mechanic,-0.2755,Negative
+67,Oil change was over $90.00 and I was not told until after the reps already started my oil change,Overcharged - charged more than was agreed on,0.0,Neutral
+68,"I had a scratch on my right side passenger door I know it  wasn't there when I left my house because I was going out of town, and I put my bags in my car and I would have saw when I went home and came back to my car to go out of town that's when I saw the scratch",Interior/Exterior car damage,0.0,Neutral
+69,I go elsewhere for routine maintenance besides oil changes so I don't get ripped off,Competition-prefer other car care chain,0.0,Neutral
+70,Was told the dip stick was stuck and could not be removed to check oil level prior to service,Other service issues,-0.25,Negative
+71,"I will continue to go to the Owings Mills, the location I usually go to because I was not very happy with the Columbia location",Competition-prefer other car care chain,-0.4964,Negative
+72,we have a mechanic who works on our cars for other repairs,Competition-prefer local mechanic,0.0,Neutral
+73,The men working on my car did not install my headlights correctly,Other service issues,0.0,Neutral
+74,Just didn't feel like a valued customer,Poor customer service,-0.5448,Very Negative
+75,Have a mechanic in the family,Competition-prefer local mechanic,0.0,Neutral
+76,Changing your prices from 40$ for an oil change to 75$ is a complete rip off,Price too high,0.0,Neutral
+77,Unprofessional staff discussing sex and curing at each other,Unprofessional employees,-0.5106,Very Negative
+78,Maintenance is done by Ford under warranty maintenance done by Ford,Competition-prefer other car care chain,0.0,Neutral
+79,Didn't realize how expensive an oil change is 75 for a regular oil change  with high milage,Price too high,0.0,Neutral
+80,It took 90 minutes for the service,Service took too long,0.0,Neutral
+81,"I use my car dealership for repairs, service other than oil changes",Competition-prefer other car care chain,0.0,Neutral
+82,I got a battery replaced here and left with my entire car shaking,Interior/Exterior car damage,-0.1779,Negative
+83,After 6 days of driving  I had to get another oil change after the light in my vehicle indicated that my oil needed to be changed,Oil filter issue,0.0,Neutral
+84,I have a trusted mechanic,Competition-prefer local mechanic,0.4767,Positive
+85,I go to the dealership for more extensive maintence,Competition-prefer other car care chain,0.0,Neutral
+86,There was no other car in the shop but mine and 4 guys managed to mess up my oil change,Oil filter issue,-0.5927,Very Negative
+87,They almost lost my registration card! Spent about 15-20 minutes looking for it--oops,Item missing/stolen,-0.318,Negative
+88,Pricing,Price too high,0.0,Neutral
+89,Bolt holding oil pan stripped previous visit  $314,Overcharged - charged more than was agreed on,0.0,Neutral
+90,I go elsewhere for maintenance or do it myself,Competition-prefer local mechanic,0.0,Neutral
+91,Staff seems inexperienced,Employees not knowledgeable,0.0,Neutral
+92,I had asked them to look at a fuse - and they said they did not do that,Other service issues,0.0,Neutral
+93,I have a private mechanic who works on my cars,Competition-prefer local mechanic,0.0,Neutral
+94,"Other than oil changes, jiffy doesn't offer too many repair services",Other service issues,0.0,Neutral
+95,After my initial service was completed my battery appeared to be weak and drained to the point that I could not start my car,Alignment or Battery service issues,-0.6597,Very Negative
+96,Didn't think they did much more then oil changes,Other service issues,0.0,Neutral
+97,I feel I was duped into buying oil that I had never used and did not want,Misinformation about car/service needs given to customer,-0.4628,Negative
+98,They did the oil change wrong and oil leaked all in my engine no one called back,Incorrect oil level/quantity,-0.765,Very Negative
+99,I get my other services done at a mechanic,Competition-prefer local mechanic,0.0,Neutral
+100,The oil change and small repairs were done well but the man at the service window was VERY misogynistic,Unprofessional employees,0.1406,Positive
+101,"When I returned straight home, went back out to my card had a very flat tire, I took the tore off took it to Firestone they said the value stem had been loosen",Interior/Exterior car damage,0.5106,Very Positive
+102,"Well, I felt very pressured to buy/add on things that I deemed unnecessary for my vehicle at the time",Overselling-Pressure to buy,-0.024,Negative
+103,Car is relatively new and still under warranty - any further items that need attention will be completed at the dealership,Competition-prefer other car care chain,0.0,Neutral
+104,I cna do it myself,Competition-prefer local mechanic,0.0,Neutral
+105,Not that great,Other service issues,-0.5096,Very Negative
+106,have my own mechanic for that,Competition-prefer local mechanic,0.0,Neutral
+107,Too expensive for the quality,Price too high,0.0,Neutral
+108,I was displeased with the service I received I was in the shop for an hour just for a oil change and I was the only vehicle  there the technician indicated that they didn't have the necessary tools to take the oil filter off and I had to wait for it to be delivered,Service took too long,-0.4404,Negative
+109,Because I simply had an oil change and had to return 2 times to get my unresolved issue taken care of,Oil filter issue,0.4939,Positive
+110,The price,Price too high,0.0,Neutral
+111,Window cleaning only half done,Other service issues,0.0,Neutral
+112,Only because I have a regular service station I use but didn't have the time yesterday,Competition-prefer other car care chain,0.0,Neutral
+113,I do not believe your staff has the expertise to do more sophisticated repairs,Employees not knowledgeable,0.5984,Very Positive
+114,Had a 15% off coupon that I received through email from prior visit that was not honored,Discount/coupon issue,-0.4717,Negative
+115,I don't take my cars to Jiffy Lube for anything other than oil changes,Competition-prefer other car care chain,0.0,Neutral
+116,The staff was nice but it took 1 hour from when the car was pulled into the service area to when it was pulled out for a basic oil change,Service took too long,0.2263,Positive
+117,Expensive,Price too high,0.0,Neutral
+118,"Dirty handprints on fender, armrest and windshield",Other service issues,-0.4404,Negative
+119,"Stop the hard sell of accessories, I change my own air filter, and other than my oil changes all maintenance work is done by my Ford dealership",Competition-prefer other car care chain,-0.3818,Negative
+120,Not sure if Jiffy Lube has BMW parts and trained technicians,Item out of stock,-0.2411,Negative
+121,Way too expensive!,Price too high,0.0,Neutral
+122,I have a car mechanic I go to for other services and maintenance,Competition-prefer local mechanic,0.0,Neutral
+123,Have another shop that takes care of vehicle,Competition-prefer other car care chain,0.4939,Positive
+124,Did not get good service,Poor customer service,-0.3412,Negative
+125,I was disappointed in the fact they said they vacuumed by car and cleaned the outside of my windows when it was obvious they did neither,Other service issues,-0.4767,Negative
+126,Rude inexperienced crew,Unprofessional employees,-0.4588,Negative
+127,When I got home my car was leaking oil and a gasket had been broken on the old change,Interior/Exterior car damage,-0.4767,Negative
+128,I HAVE A REPAIR SHOP FOR ALL MY OTHER REPAIR NEEDS,Competition-prefer other car care chain,0.0,Neutral
+129,I have a mechanic for all my other car needs but I usually come in for oil changes,Competition-prefer local mechanic,0.0,Neutral
+130,I waited over an hour to get a quote for brakes and the amount was outrageous,Service took too long,-0.4588,Negative
+131,I have heard negative stories about Jiffy Lube in the past,Other issues,-0.5719,Very Negative
+132,Jiffy Lube is great for oil changes because they are fast and reliable but I would likely take my car to the Midas across the street for other service or repairs because they are a full service mechanic,Competition-prefer local mechanic,0.3716,Positive
+133,Can get it done cheaper and with less pressure to upgrade to more services,Competition-prefer other car care chain,-0.228,Negative
+134,"Came in for routine oil change prior to leaving for trip,  carpet vacuum and window cleaning are said to be done during this service",Other service issues,0.0,Neutral
+135,Was forced into hugging one of the mechanics,Competition-prefer local mechanic,-0.0516,Negative
+136,"They didn't vacume my car barley during my oil change, and they always try to get more money out of you for even basic oil changes",Vacuuming not done propertly,0.0,Neutral
+137,The on board computer systems were not updated to reflect an oil change happened,Oil filter issue,0.0,Neutral
+138,"Workers lied and told me things that I really didn't need at the moment, and expected me to pay for services checking them off without even asking me",Misinformation about car/service needs given to customer,-0.4588,Negative
+139,I felt there was no leadership in the store,Poor customer service,-0.296,Negative
+140,The service team got my vehicle and another vehicle mixed up,Other issues,0.0,Neutral
+141,Price,Price too high,0.0,Neutral
+142,I was treated horribly,Poor customer service,-0.5267,Very Negative
+143,They have things listed down on my bill that havent been done,Overcharged - charged more than was agreed on,0.0,Neutral
+144,I have same mechanic for over 20 years,Competition-prefer local mechanic,0.0,Neutral
+145,HAVE OTHER MECHANIC,Competition-prefer local mechanic,0.0,Neutral
+146,Have two mechanics in family,Competition-prefer local mechanic,0.0,Neutral
+147,Have other mechanic,Competition-prefer local mechanic,0.0,Neutral
+148,"father is a mechanic, but i don't bother him with oil changes",Competition-prefer local mechanic,0.3724,Positive
+149,Have a great mechanic already,Competition-prefer local mechanic,0.6249,Very Positive
+150,I have a mechanic that I have perform all other maintenance,Competition-prefer local mechanic,0.0,Neutral
+151,"The prices are higher here than the jiffy lube in Albany, NY",Price too high,0.0,Neutral
+152,I opened my glove compartment today and it slammed open,Interior/Exterior car damage,0.0,Neutral
+153,I do all my major maintenance at the dealership,Competition-prefer other car care chain,0.0,Neutral
+154,My tires were not inflated to the proper pressure,Other service issues,-0.296,Negative
+155,Employees were unkept and rude,Unprofessional employees,-0.4588,Negative
+156,Pretty grim group at this location,Unprofessional employees,-0.128,Negative
+157,I have used various JL's over 3 decades and this may ne the last time I do,Other issues,0.0,Neutral
+158,I use my dealer for repairs,Competition-prefer other car care chain,0.0,Neutral
+159,I have a garage that I go to for other work,Competition-prefer other car care chain,0.0,Neutral
+160,i don't usually go to Jiffy Lube for service,Competition-prefer other car care chain,0.0,Neutral
+161,take to my mechaninc,Competition-prefer local mechanic,0.0,Neutral
+162,Teach the people who to check tire pressure and how to tighten the oil plug lol,Employees not knowledgeable,0.1531,Positive
+163,Have a mechanic I trust,Competition-prefer local mechanic,0.5106,Very Positive
+164,anything beyond an oil change I get my son-in-law's father's shop to do,Competition-prefer local mechanic,0.0,Neutral
+165,A family mechanic takes care of other maintenance or work needed,Competition-prefer local mechanic,0.4939,Positive
+166,It goes to the Dealership manufacturer,Competition-prefer other car care chain,0.0,Neutral
+167,The opaque pricing process leads to miscommunication and suspicion,Communication,-0.3818,Negative
+168,(1) I have a mechanic that I use for all maintenance,Competition-prefer local mechanic,0.0,Neutral
+169,I went there for an inspection and i failed because supposedly my struts were loose and a lug nut couldnt be taken off,Other issues,-0.6808,Very Negative
+170,They charged for items after the fact,Overcharged - charged more than was agreed on,-0.2023,Negative
+171,Have a regular garage we use for most things,Competition-prefer other car care chain,0.0,Neutral
+172,"I go to a mechanic for that, but to Jiffy Lube for oil changes",Competition-prefer local mechanic,0.0,Neutral
+173,Dealer service and parts,Competition-prefer other car care chain,0.0,Neutral
+174,Have a personal mechanic,Competition-prefer local mechanic,0.0,Neutral
+175,"I don't have a Jiffy Lube in my hometown (Canton, GA) and use a auto shop for my regular maintenance",Location,0.0,Neutral
+176,My 1990 Saab was nearly destroyed by a service man who didn't know how to drive stick shift,Interior/Exterior car damage,-0.4939,Negative
+177,Don't trust jiffy lube to do anything else besides oil changes,Untrustworthy\Mistrust,-0.4023,Negative
+178,because the oil change was more then the last two times I was there also the next morning when I went to start up my car it wouldn't start,Oil filter issue,0.0,Neutral
+179,was there for over an hour,Service took too long,0.0,Neutral
+180,They added services without my consent! Period!,Didn't get customer prior approval to authorize work/expense,-0.3071,Negative
+181,"During service, the tech broke the air inlet from the air filter to the throttle body and didn't tell me",Interior/Exterior car damage,-0.4215,Negative
+182,Already have places for the other things,Competition-prefer other car care chain,0.0,Neutral
+183,because we have used the same mechanic for years and completely trust them and they know our cars,Competition-prefer local mechanic,0.5563,Very Positive
+184,I would take it to the dealership,Competition-prefer other car care chain,0.0,Neutral
+185,I have an excellent mechanic where I prefer to take my car,Competition-prefer local mechanic,0.5719,Very Positive
+186,The staff upcharges,Overcharged - charged more than was agreed on,0.0,Neutral
+187,Service was slow,Service took too long,0.0,Neutral
+188,Prices,Price too high,0.0,Neutral
+189,We have a mechanic we have used for years,Competition-prefer local mechanic,0.0,Neutral
+190,I have a mechanic that does other work,Competition-prefer local mechanic,0.0,Neutral
+191,The oil and filter were changed and no thing else,Other issues,-0.296,Negative
+192,I felt that their customer service delivery was very poor,Poor customer service,-0.5256,Very Negative
+193,I have a mechanic I use,Competition-prefer local mechanic,0.0,Neutral
+194,Staff was unprofessional,Unprofessional employees,-0.5106,Very Negative
+195,I have a brand new vehicle and will return to the dealership for any additional services,Competition-prefer other car care chain,0.0,Neutral
+196,Ploy ease or unprofessional and disorganized,Unprofessional employees,-0.4588,Negative
+197,I bring my Honda Pilot to the dealer for larger services - as it is at 355K miles,Competition-prefer other car care chain,0.0,Neutral
+198,Have mechanic that does all maintenance and repair on my car,Competition-prefer local mechanic,0.0,Neutral
+199,Awful customer service experience,Poor customer service,-0.4588,Negative
+200,I waited 90 minutes for an oil change,Service took too long,0.0,Neutral
+201,I was told that several of my fluids were low but I told the people I would take care of them,Other issues,0.5789,Very Positive
+202,I would go to the dealer for serious maintenance to the car,Competition-prefer other car care chain,-0.0772,Negative
+203,Maintenance gets completed at the dealership,Competition-prefer other car care chain,0.0,Neutral
+204,"Pricing just seemed very high, even to get a filter changed out",Price too high,0.0,Neutral
+205,Not confident about services other than Oil and inspection,Untrustworthy\Mistrust,-0.3875,Negative
+206,I'm not sure what they did on my car!,Other service issues,-0.308,Negative
+207,Can't afford,Price too high,0.0,Neutral
+208,"well, my check engine light came on after the coolant flushing and oil change",Oil service light not reset ,0.2732,Positive
+209,Too expensive,Price too high,0.0,Neutral
+210,Too expensive,Price too high,0.0,Neutral
+211,HAVE FAMILY SHOP,Competition-prefer local mechanic,0.0,Neutral
+212,Tire light was on when I arrived and was still on when I left,Oil service light not reset ,0.0,Neutral
+213,"Under Warranty, oil changes for record",Competition-prefer local mechanic,0.0,Neutral
+214,For a $50! oil change ( I only received the generic oil for that price) the service was rude and my car was only partially vacuumed,Price too high,-0.5093,Very Negative
+215,"Sign read ""open bay, no wait"" but it took over an hour for an oil change",Service took too long,-0.1531,Negative
+216,Mechanic at home,Competition-prefer local mechanic,0.0,Neutral
+217,"There wasn't much communication, I believe there was a preconceived idea about me, I learned along time ago not to do that when I was in customer service",Communication,0.0,Neutral
+218,Because I can find a cheaper price somewhere else or do it on my own,Price too high,0.0,Neutral
+219,I went in for an oil change and was told that both my alternator and my battery were shot and needed to be replaced for $400+,Price too high,0.0,Neutral
+220,"Way too expensive $ 99 dollars for an oil change, $48 for an air filter, I can't imagine what would be to do anything else, no way never",Price too high,-0.296,Negative
+221,They don't do full service,Employees not knowledgeable,0.0,Neutral
+222,It was my 1st time at this location and they didn't top off or add any fluids,"Fluids not topped off (ie engine coolant, washer fluid)",-0.1511,Negative
+223,My car is under warranty at the place I bought it so all major service there is free,Competition-prefer other car care chain,0.5106,Very Positive
+224,have a regular mechanic,Competition-prefer local mechanic,0.0,Neutral
+225,Employees are extremely pushy about performing service that you are not there to get done,Overselling-Pressure to buy,-0.3384,Negative
+226,Expensive and slow service,Price too high,0.0,Neutral
+227,I get my routine maintenance with someone else who I've been going to for several years,Competition-prefer local mechanic,0.0,Neutral
+228,"Car was not vacuumed, Windows not cleaned, so what else did they not do that I paid for",Other service issues,0.0,Neutral
+229,"It took entirely to long when I got there the lady told me I had four cars in front of me about 15 min each car, I went in for an oil change and took over 2 hrs to get to my car once they finally had my car the guy servicing had my car tilted in the bay and he wasn't sure what was being done to my car the manager told him to figure it out, to me that's horrible service I had my son with me and if I knew it was going to take that long I would have went somewhere else or came back later",Service took too long,-0.6664,Very Negative
+230,Cost,Price too high,0.0,Neutral
+231,They don't have a device to reset the oil light on my VW,Oil service light not reset ,0.0,Neutral
+232,I take my vehicle to the dealer for maintenance other than oil changes,Competition-prefer other car care chain,0.0,Neutral
+233,"I do not trust the ""salesman"" named Sebastian",Untrustworthy\Mistrust,-0.4023,Negative
+234,A service tech broke my oil dipstick and didn't even say anything about it,Interior/Exterior car damage,-0.4215,Negative
+235,I have a mechanic I use for maintenance beyond what I can do,Competition-prefer local mechanic,0.0,Neutral
+236,They were extremely slow - took nearly an hour for an oil change,Service took too long,0.0,Neutral
+237,"Nothing, I prefer the dealer for services besides oil change",Competition-prefer other car care chain,0.0,Neutral
+238,Horrible customer service and all around laziness of the staff,Poor customer service,-0.5423,Very Negative
+239,Price,Price too high,0.0,Neutral
+240,I often do my own maintenance other than the oil change,Competition-prefer local mechanic,0.0,Neutral
+241,Price too expensive,Price too high,0.0,Neutral
+242,I am a single mother and I can not afford 70 for a oil change,Price too high,0.0,Neutral
+243,"They didn't clean my windows nor did they vacuume the car I asked for them to check my tire pressure and I saw the man bend over and squeeze one tire with his hand as if that's checking my tires pressure , was very annoyed with the full service oil change , should be called the good enough oil change",Other service issues,-0.3508,Negative
+244,I don't have any indication that Jiffy Lube's employees are up to the task,Employees not knowledgeable,0.0,Neutral
+245,They stripped my oil pan,Interior/Exterior car damage,0.0,Neutral
+246,JL services outside of oil changes are grossly overpriced and I doubt the capability of the technicians to perform them,Price too high,-0.5267,Very Negative
+247,I went to get a oil change and transmission service it should of cost 110 then I was told it would be slightly more expensive and at the end I found out it was 220 to do it,Price too high,0.0,Neutral
+248,When they took out my cabin filter it was not properly put back,Interior/Exterior car damage,0.0,Neutral
+249,"The ""protective fender mats"" were covered in oil and covered both front fenders and hood with oil",Other service issues,0.0,Neutral
+250,Too expensive!!!! 92$ for an oil change is crazy,Price too high,-0.5526,Very Negative
+251,I don't trust Jiffy Lube for anything beyond an oil change,Untrustworthy\Mistrust,-0.4023,Negative
+252,"Although convenient, products and services are very expensive",Price too high,0.0,Neutral
+253,Pushy service as well as the unintelligible and hot-tempered desk clerk,Overselling-Pressure to buy,0.0,Neutral
+254,"Primarily the location, not close to any Jiffy Lube locations",Location,0.0,Neutral
+255,Too costly,Price too high,-0.1027,Negative
+256,Other local business services my vehicles for any other needs,Competition-prefer local mechanic,0.0,Neutral
+257,I can find someone to do the work cheaper than Jiffy Lube,Competition-prefer local mechanic,0.0,Neutral
+258,"I purchased a windshield wiper, which was overpriced to begin with, I drove away and got about five miles down the road and went to use the wiper and it flew off",Price too high,0.0,Neutral
+259,The cost was almost $100 for an oil change,Price too high,0.0,Neutral
+260,I use the dearler for maintenance,Competition-prefer other car care chain,0.0,Neutral
+261,I have a mechanic,Competition-prefer local mechanic,0.0,Neutral
+262,"The last two times I have gotten my oil changed at Jiffy Lube, the next day, my oil light began coming on",Oil service light not reset ,0.0,Neutral
+263,Would rather take my vehicle to my mechanic,Competition-prefer local mechanic,0.0,Neutral
+264,I do my own repairs,Competition-prefer local mechanic,0.0,Neutral
+265,"I was from out of state, needed an oil change, went to Jiffy Lube and was charged $91 for oil change",Overcharged - charged more than was agreed on,-0.2023,Negative
+266,The technician that was looking at my car didn't do a very thorough job,Other service issues,0.0,Neutral
+267,One of the mechanics cut their finger in my car and left blood on a shopping bag I had inside my car,Competition-prefer local mechanic,-0.2732,Negative
+268,They didn't do half of what was on the recipe,Overcharged - charged more than was agreed on,0.0,Neutral
+269,It's too expencive,Price too high,0.0,Neutral
+270,I leave the more complicated maintenance issues to my mechanic,Competition-prefer local mechanic,-0.0516,Negative
+271,I can do it myself,Competition-prefer local mechanic,0.0,Neutral
+272,caused my oil get more leak,Oil filter issue,-0.4005,Negative
+273,My son works on my car when there is something other than an oil change,Competition-prefer local mechanic,0.0,Neutral
+274,All other services are over priced,Price too high,0.0,Neutral
+275,Manager at the location I went to was a total Jerk,Unprofessional employees,-0.34,Negative
+276,When I was cashing out the technician said they could not accept my Jiffy Lube Car Care One credit card,Discount/coupon issue,0.5597,Very Positive
+277,Cause I don't like the welcome and the service seem wasn't complete in timely fashion,Poor customer service,-0.5559,Very Negative
+278,I had cash and my USB cord that hooks from my iPhone to my car stolen,Item missing/stolen,-0.4939,Negative
+279,"My glovebox was off the hinge, the windows were not washed and the floors weren't vacuumed",Vacuuming not done propertly,0.0,Neutral
+280,Constant hard upselling,Overselling-Pressure to buy,-0.1027,Negative
+281,"Unfortunately, my wife requested Synthetic Oil instead of the regular stuff, so we ended up paying $72.99 instead of $26",Price too high,-0.34,Negative
+282,I usually work on my own vehicle,Competition-prefer local mechanic,0.0,Neutral
+283,"I have a person who knows my car and he knows it well, so I always go to him",Competition-prefer local mechanic,0.2732,Positive
+284,Past experiences and the fact that I do my own maintenance on my vehicle,Competition-prefer local mechanic,0.0,Neutral
+285,High prices and poor diagnosis on my vehicles,Price too high,-0.4767,Negative
+286,Too much time spent telling technician I didn't want extra things,Service took too long,-0.0572,Negative
+287,I have a new car with warranty,Competition-prefer other car care chain,0.0,Neutral
+288,I have a mechanic who handles my other car needs,Competition-prefer local mechanic,0.0,Neutral
+289,My tires were not inflated,Tire rotation service issue,0.0,Neutral
+290,I can get it done just as well for cheaper at different places,Competition-prefer local mechanic,0.2732,Positive
+291,I work  for an auto parts warehouse and do the work myself,Competition-prefer local mechanic,0.0,Neutral
+292,Prices,Price too high,0.0,Neutral
+293,Not confident,Employees not knowledgeable,-0.3875,Negative
+294,I have a mechanic that I trust and use for routine maintenance,Competition-prefer local mechanic,0.5106,Very Positive
+295,Have a local mechanic,Competition-prefer local mechanic,0.0,Neutral
+296,Services are just a little on the pricey side,Price too high,0.0,Neutral
+297,I have a mechanic,Competition-prefer local mechanic,0.0,Neutral
+298,Past history,Other service issues,0.0,Neutral
+299,Your maintainence is too expensive & nothing I can't do myself,Price too high,0.0,Neutral
+300,I have a service contract on my car for repairs and problems,Competition-prefer other car care chain,-0.4019,Negative
+301,Have a mechanic I trust,Competition-prefer local mechanic,0.5106,Very Positive
+302,"It took an hour and a half for an oil change, tire rotation, and inspection",Tire rotation service issue,0.0,Neutral
+303,Total disregard for my time,Service took too long,-0.2732,Negative
+304,"Nothing with the Team, I'm in the automotive business and will use my facility first",Competition-prefer other car care chain,0.0,Neutral
+305,it seems like you force services that are not needed,Overselling-Pressure to buy,0.3612,Positive
+306,I perform all my other services such as brake work and the such!,Competition-prefer local mechanic,0.0,Neutral
+307,They are unable to lift my truck,Employees not knowledgeable,0.0,Neutral
+308,Will go to dealer,Competition-prefer other car care chain,0.0,Neutral
+309,I asked them to refill my windshield washer fluid and they said they did but it was empty when I checked later that day,"Fluids not topped off (ie engine coolant, washer fluid)",-0.296,Negative
+310,High prices and employees seem shifty and up to no good,Price too high,0.1779,Positive
+311,I have a local mechanic that I use for other maintenance issues,Competition-prefer local mechanic,0.0,Neutral
+312,"left car , was told I would be called when finished, no one called",Poor customer service,-0.296,Negative
+313,"Well yesterday, cars that were in the back of me got pushed in front of me",Later-arriving customers served ahead of me,0.2732,Positive
+314,"Told me I had a bad oil leak, I don't because I never have to add oil between changes",Misinformation about car/service needs given to customer,-0.7096,Very Negative
+315,It was suggested that I replace my transfer case & differential fluids,Other service issues,0.0,Neutral
+316,Customer service is thr worst,Poor customer service,-0.6249,Very Negative
+317,"I dropped off my truck and asked to be called when done, that was not done",Poor customer service,0.0,Neutral
+318,Probably will take care of this at my car repair place (trust them more),Untrustworthy\Mistrust,0.4939,Positive
+319,I use a garage mechanic for maintenance and repair,Competition-prefer local mechanic,0.0,Neutral
+320,you did a tire rotation and broke one of the screws that holds the tire in place,Tire rotation service issue,-0.5859,Very Negative
+321,Inexperienced techs,Employees not knowledgeable,0.0,Neutral
+322,Don't have faith in techs beyond oil change,Untrustworthy\Mistrust,-0.3252,Negative
+323,I have a personal mechanic I use for those services,Competition-prefer local mechanic,0.0,Neutral
+324,The cost of the service is completely ridiculous,Price too high,-0.4201,Negative
+325,The Bedford location has been getting a little aggressive with their upsale tactics,Overselling-Pressure to buy,-0.079,Negative
+326,Usually use my regular mechanic for anything major,Competition-prefer local mechanic,0.0,Neutral
+327,Mechanic continue to up-sale on unnecessary vehicle needs,Competition-prefer local mechanic,0.0,Neutral
+328,On my last visit for an oil change I was told I needed transmission flush and fill and was told it was $120,Price too high,0.0,Neutral
+329,everytime i go to jiffy lube I feel the technicians are pushy,Overselling-Pressure to buy,-0.2732,Negative
+330,"The man in the reception, I think his name is David, was rude disrespectful & condescending",Unprofessional employees,-0.4588,Negative
+331,My husband's company has a mechanic who services all of our vehicles,Competition-prefer local mechanic,0.0,Neutral
+332,The agent was not very pleasant,Unprofessional employees,-0.4439,Negative
+333,"I paid for the signature change that includes a tire rotation, car vacuum and exterior window cleaning and none of those were done",Tire rotation service issue,0.0,Neutral
+334,Poor floor management resulted in excessive waiting time,Service took too long,-0.4767,Negative
+335,I already have a repair shop,Competition-prefer local mechanic,0.0,Neutral
+336,"I use a regular mechanic, and other resources for most of my regular maintenance",Competition-prefer local mechanic,0.0,Neutral
+337,"Over priced, straight mineral oil not offered nor available",Price too high,0.2263,Positive
+338,They didn't call me when my car was finished like they asked,Poor customer service,0.3612,Positive
+339,I feel like every time I go for an oil change I am told there is something else that needs to be prepared,Misinformation about car/service needs given to customer,0.5267,Very Positive
+340,I was told 30 minute wait and so I walked down the street to eat breakfast not really concerned with the time,Service took too long,0.0,Neutral
+341,Customer service was awful asking questions about my car no one had answers,Poor customer service,-0.6369,Very Negative
+342,Over priced for very little necessary work,Price too high,0.0,Neutral
+343,Have a hybrid car & issues can require certain training,Employees not knowledgeable,0.2732,Positive
+344,$96.00 for an oil change,Price too high,0.0,Neutral
+345,The services that are included in oil change price were not performed,Price too high,0.0,Neutral
+346,The jiffy lube I went to has gone way down hill,Other service issues,0.0,Neutral
+347,I use another mechanic for things beyond oil changes,Competition-prefer local mechanic,0.0,Neutral
+348,we have our own mechanic,Competition-prefer local mechanic,0.0,Neutral
+349,"I take my car to my mechanic for things that you don't work on, ie: O2 sensor issues, etc",Competition-prefer local mechanic,0.0,Neutral
+350,Costly,Price too high,-0.1027,Negative
+351,Exterior windows were not cleaned and tire pressure was not checked,Other service issues,-0.296,Negative
+352,"We live in Elkton, FL",Location,0.0,Neutral
+353,I am more comfortable with the mechanic we've been using for years,Competition-prefer local mechanic,0.5563,Very Positive
+354,Misled by a coupon,Discount/coupon issue,0.0,Neutral
+355,Jiffy Lube was unable to replace the headlight bulb I needed,Other service issues,0.0,Neutral
+356,I do not use jiffy lube for maintenance,Competition-prefer local mechanic,0.0,Neutral
+357,"I usually perform the services myself, today's visit was due to lack of time",Competition-prefer local mechanic,-0.3182,Negative
+358,I have a regular mechanic who does other work,Competition-prefer local mechanic,0.0,Neutral
+359,When the tech checked my cabin filter he left his rag in it when he put it back in place and when I turned my A/C fan on it made a horiffic noise,Interior/Exterior car damage,0.3182,Positive
+360,Price for the level of service,Price too high,0.0,Neutral
+361,"Nothing about my experience, I go to someone else for maintenace",Competition-prefer local mechanic,0.0,Neutral
+362,Nothing about experience - just prefer dealer since car is still under warantee,Competition-prefer other car care chain,0.0,Neutral
+363,I use a trusted mechanic for services beyond oil changes,Competition-prefer local mechanic,0.4767,Positive
+364,The lack of sincerity and honesty from the associates,Untrustworthy\Mistrust,0.2263,Positive
+365,most major repairs and maintenance I go to the dealer,Competition-prefer other car care chain,0.0,Neutral
+366,The customer service was very poor,Poor customer service,-0.5256,Very Negative
+367,I do other things myself,Competition-prefer local mechanic,0.0,Neutral
+368,Took forever even though when I arrived there was no one else there,Service took too long,-0.296,Negative
+369,I was being charged for something I didn't need,Overcharged - charged more than was agreed on,-0.2023,Negative
+370,I prefer to go to my regular mechanic for any other work,Competition-prefer local mechanic,0.0,Neutral
+371,"While replacing wiper blades, the tech cracked my windshield",Interior/Exterior car damage,0.0,Neutral
+372,I don't believe in adding things to a bill that is not requested,Overcharged - charged more than was agreed on,0.0,Neutral
+373,My car ran perfect when I brought it in,Other issues,0.5719,Very Positive
+374,I have a mechanic,Competition-prefer local mechanic,0.0,Neutral
+375,"They checked off that they did things and they did not vacuum, wash wondows,  power steering level low as was antifreeze",Overcharged - charged more than was agreed on,-0.2732,Negative
+376,Led to believe car needed synthetic oil when it only requires conventional,Misinformation about car/service needs given to customer,0.0,Neutral
+377,Untrustworthy,Untrustworthy\Mistrust,0.0,Neutral
+378,I have my vehicle serviced elsewhere,Competition-prefer local mechanic,0.0,Neutral
+379,I have a mechanic,Competition-prefer local mechanic,0.0,Neutral
+380,I always feel pressured to purchase additional services when all I want is an oil change,Overselling-Pressure to buy,-0.1531,Negative
+381,Your prices are not competitive w/several other repair shops that have demonstrated proficiency,Price too high,-0.1326,Negative
+382,I take my vehicle to the dealer for work that I don't do myself,Competition-prefer other car care chain,0.0,Neutral
+383,I have regular service performed at an auto mechanic shop I have patronized for years and they know me and my car very well,Competition-prefer local mechanic,0.3384,Positive
+384,They tried to sell me services I didn't need,Overselling-Pressure to buy,0.0,Neutral
+385,"It was very expensive, the price of the oil change outrageous",Price too high,-0.4588,Negative
+386,I typically get my vehicle service at the dealership,Competition-prefer other car care chain,0.0,Neutral
+387,Prices seemed a bit high,Price too high,0.0,Neutral
+388,Vehicle Warranty does not permit additional maintenance by other shops,Competition-prefer other car care chain,0.0,Neutral
+389,I go to another full service garage for needs beyond a oil change,Competition-prefer other car care chain,0.0,Neutral
+390,"The fact that we have been a customer for many years, on the last visit I was not asked about anything that needed to be done on the vehicle and then they simply checked off declined for vacuuming and washing the windows",Didn't get customer prior approval to authorize work/expense,0.0,Neutral
+391,Had some coins stolen out of the dash during my vehicle inspection,Item missing/stolen,-0.4939,Negative
+392,The prices for parts are outrageous,Price too high,-0.4588,Negative
+393,Mechanic,Competition-prefer local mechanic,0.0,Neutral
+394,I have my own trusted mechanic that does my repairs,Competition-prefer local mechanic,0.4767,Positive
+395,The service man behaved in an arrogant manner never answered my questions clearly,Misinformation about car/service needs given to customer,-0.128,Negative
+396,Everything was a little disorganized,Unprofessional employees,-0.228,Negative
+397,I have issues trusting anything other than oil change,Untrustworthy\Mistrust,0.4019,Positive
+398,Poorly treated by Phil when I presented a coupon,Poor customer service,0.0,Neutral
+399,Feel undo pressure to pay for additional services,Overselling-Pressure to buy,-0.3818,Negative
+400,You are overpriced and the staff is very inexperienced,Price too high,0.0,Neutral
+401,Dealer prices are lower,Price too high,-0.296,Negative
+402,The store is very understaffed,Other issues,0.0,Neutral
+403,Have own service agent,Competition-prefer local mechanic,0.0,Neutral
+404,"They tried to say hi needed a cabin filter when they were showi,g it to me, it wasn't even dirty",Competition-prefer local mechanic,0.3412,Positive
+405,I have a trusted mechanic I have do all my other work,Competition-prefer local mechanic,0.4767,Positive
+406,Tried to sell me a battery I don't need,Overselling-Pressure to buy,0.0,Neutral
+407,"When I got in my car to leave after I had paid for my service, my glove box was open and hanging down and all my papers were on the seat",Interior/Exterior car damage,-0.0516,Negative
+408,I have a very good mechanic in my neighborhood,Competition-prefer local mechanic,0.4927,Positive
+409,They broke pieces on my car  and denied it did not put clamps back down on hoses have to do any flash,Interior/Exterior car damage,-0.6908,Very Negative
+410,Nothing to do with location,Location,0.0,Neutral
+411,We get most maintenance done at dealership,Competition-prefer other car care chain,0.0,Neutral
+412,"The computers were down  which is understandable then I asked my tire pressure to be checked but they said the machine was broken but usually you can do it with a handheld device, why did they need to use the machine? Also the man that brought around my car was very large and sweaty and when I went to sit in my car my seat was soaking wet I almost vomited ",Employees not knowledgeable,-0.6956,Very Negative
+413,I believe the services are overpriced,Price too high,0.0,Neutral
+414,My car was pulled out of the bay for approximately 15 minutes before anyone approached to share what was happening,Service took too long,0.296,Positive
+415,One of the lug nuts which was perfectly fine before bringing the car in for service was noted as seized after the service was done,Interior/Exterior car damage,0.5719,Very Positive
+416,car leaking oil,Oil filter issue,0.0,Neutral
+417,The price is too high,Price too high,0.0,Neutral
+418,They let the guy underneath changing the oil walk up the stairs and drive the vehicle out covered in oil,Oil filter issue,0.0,Neutral
+419,The mechanic damaged my car by not reattaching the skid plate,Competition-prefer local mechanic,-0.4404,Negative
+420,I will do it myself,Competition-prefer local mechanic,0.0,Neutral
+421,They tried to bamboozle me on the service on my car,Overselling-Pressure to buy,-0.3612,Negative
+422,"This was with a doubt, the most unprofessional, rude, and humiliating experience I have EVER experienced at an automotive franchise",Unprofessional employees,-0.8903,Very Negative
+423,Pushy on sales all I need was an oil change,Overselling-Pressure to buy,-0.2732,Negative
+424,i have a great mechanic,Competition-prefer local mechanic,0.6249,Very Positive
+425,I waited 2 hours to get service! I have never waited this long for an oil change even in the busy afternoon,Service took too long,0.0,Neutral
+426,Service was EXTREMELY slow,Service took too long,0.0,Neutral
+427,I have it done somewhere else,Competition-prefer local mechanic,0.0,Neutral
+428,Left car with oil stains inside and out,Interior/Exterior car damage,0.0,Neutral
+429,I prefer to have that done at the dealer,Competition-prefer other car care chain,0.0,Neutral
+430,Had a bad experience with the manager on duty regarding getting over charged,Overcharged - charged more than was agreed on,-0.6486,Very Negative
+431,We use Stadium Nissan for regular service other than an oil change,Competition-prefer other car care chain,0.0,Neutral
+432,A spring popped out of the bypass when they removed my oil filter and now I have to pay to have that replaced,Oil filter issue,-0.1027,Negative
+433,your employees are way too pushy and your prices are outrageous,Price too high,-0.6249,Very Negative
+434,Cost of a synthetic oil change was almost 3 times the dealer's cost,Competition-prefer other car care chain,0.0,Neutral
+435,they are clueless mechanics,Competition-prefer local mechanic,-0.3612,Negative
+436,Normally the service is good but this time the service was poor,Other service issues,-0.4939,Negative
+437,We have a mechanic that does all our maintenance beyond an oil change,Competition-prefer local mechanic,0.0,Neutral
+438,Very high price for an oil change and the technician spilled oil on the front of my car and engine compartment,Price too high,0.0,Neutral
+439,Third time your workers tried to cheat me in a row,Untrustworthy\Mistrust,-0.4588,Negative
+440,My husband works on our cars,Competition-prefer local mechanic,0.0,Neutral
+441,I had an oil change and the oil filter was not included,Oil filter issue,0.0,Neutral
+442,You tried to get me to have a number of services done to my vehicle which were not needed,Overselling-Pressure to buy,0.0772,Positive
+443,Had a groupon and it was refused,Discount/coupon issue,-0.296,Negative
+444,I'm not confident in Jiffy Lube's employees' skill level nor customer service abilities,Unprofessional employees,-0.5216,Very Negative
+445,They broke stuff on my truck and would not do anything to fix,Interior/Exterior car damage,-0.4215,Negative
+446,"it took too long, and I found the practice of pushing customers for so many extra services offensive",Service took too long,-0.4588,Negative
+447,Los Alamitos location needs HELP!,Other issues,0.5754,Very Positive
+448,My sales person was adamant about my serpentine belt needing to be replaced ASAP,Overselling-Pressure to buy,0.0,Neutral
+449,Drained my oil before disclosing ridiculous price,Price too high,-0.6124,Very Negative
+450,High priced,Price too high,0.0,Neutral
+451,Very rude staff through every step of the process,Unprofessional employees,-0.5095,Very Negative
+452,The people there were very rude and unprofessional,Unprofessional employees,-0.7818,Very Negative
+453,"I issued a complaint via the online form but there was a complete disregard of my requests, they reset the mileage counter for services not received and vandalized my car",Unprofessional employees,-0.5023,Very Negative
+454,I would most likely go to dealership,Competition-prefer other car care chain,0.0,Neutral
+455,Hour and a half wait with job completion took almost 4 hours,Service took too long,0.0,Neutral
+456,I found that the tire pressures  on my two passenger side tires were extraordinarily high,Other service issues,-0.3182,Negative
+457,Warranty,Competition-prefer other car care chain,0.0,Neutral
+458,IService people were in a hurry to get out of my car but then too busy to wait on me,Poor customer service,0.0,Neutral
+459,too expensive,Price too high,0.0,Neutral
+460,I have a mechanic in PA who has extensive work for me in the past,Competition-prefer local mechanic,0.0,Neutral
+461,Cashier did not greet me then said my coupon was rejected in the system but she would override it for me,Discount/coupon issue,-0.3881,Negative
+462,Will continue regular service and maintenance at dealer,Competition-prefer other car care chain,0.0,Neutral
+463,Way to expensive and everything was an upsell,Price too high,0.0,Neutral
+464,I usually go to the Toyota dealership for service,Competition-prefer other car care chain,0.0,Neutral
+465,Incompetence of employees,Employees not knowledgeable,-0.5106,Very Negative
+466,I do most of my own vehicle maintenance,Competition-prefer local mechanic,0.0,Neutral
+467,I do most of my own maintenance,Competition-prefer local mechanic,0.0,Neutral
+468,Was lied to about the plug to my oil pan,Misinformation about car/service needs given to customer,-0.3818,Negative
+469,Use dealer for major maintenance,Competition-prefer other car care chain,0.0,Neutral
+470,Expense,Price too high,0.0,Neutral
+471,"When I got my vehicle inspection, the tech failed to report to state, etc",Employees not knowledgeable,-0.5106,Very Negative
+472,Low tire pressure after an oil change,Other service issues,-0.5106,Very Negative
+473,Price,Price too high,0.0,Neutral
+474,An access panel was opened and the bolts were not put in afterwards,Interior/Exterior car damage,0.0,Neutral
+475,I can get it done cheaper elsewhere,Competition-prefer local mechanic,0.0,Neutral
+476,There have been two incidents involving my neighborhood jiffy lube,Other issues,0.0,Neutral
+477,They did not clean my windows isn't that part of the service?,Other service issues,-0.3089,Negative
+478,"Usually I get excellent customer service, however I felt like I was more of an annoyance to the person behind the counter",Unprofessional employees,0.5627,Very Positive
+479,The employee who drove my car into the bay brought his OPEN coffee cup with him into my car,Unprofessional employees,0.0,Neutral
+480,I will not return because the service was not worth the amount I paid for my oil change,Price too high,-0.1695,Negative
+481,I do the additional maintenance myself,Competition-prefer local mechanic,0.0,Neutral
+482,I have never used any other service at jiffy lube,Competition-prefer local mechanic,0.0,Neutral
+483,Too many attempts to sell services creates impression of significant dishonesty,Untrustworthy\Mistrust,0.5859,Very Positive
+484,"The 5'8"" black bearded ""manager"" who said that he gets paid to up sell customers on other services",Overselling-Pressure to buy,0.0,Neutral
+485,The price of the oil change was a lot higher than most competitors,Price too high,0.0,Neutral
+486,"I had 2 coupons for Jiffy Lube with NO exclusions on them in the fine print, and my local (Draper, UT) Jiffy Lube refused them saying they were for ""other regions""",Discount/coupon issue,-0.516,Very Negative
+487,I have a dedicated service company that works on my vehicle,Competition-prefer other car care chain,0.4588,Positive
+488,"Not economical, compared with competitors on Groupon",Price too high,0.0,Neutral
+489,I don't believe that Jiffy Lube's service or prices are competitive with other service or prices in the area,Price too high,0.1779,Positive
+490,My 16 year old son got taken advantage of and paid $130,Customer felt threatened,0.25,Positive
+491,I perform my own maintenance on other items,Competition-prefer local mechanic,0.0,Neutral
+492,I don't feel like they are always honest,Untrustworthy\Mistrust,0.2937,Positive
+493,Prices are way too high for the service received,Price too high,0.0,Neutral
+494,Only one car in front of me getting an oil change and the entire process took over 90 minutes,Service took too long,0.0,Neutral
+495,I was given no information as to why my car failed the safety inspection,Misinformation about car/service needs given to customer,-0.4019,Negative
+496,I do my own maintainance,Competition-prefer local mechanic,0.0,Neutral
+497,Did not complete all of the specified items on the signature oil change,Incorrect invoice/vehicle info,0.0,Neutral
+498,The man that was in charge of my payment and information about my car was so abrasive,Overcharged - charged more than was agreed on,0.0,Neutral
+499,Large amount of oil spilled on my driveway,Oil filter issue,0.0,Neutral
+500,The techs were not attentive to which car needed what,Unprofessional employees,0.0,Neutral
+501,Have found much better pricing elsewhere since,Price too high,0.4404,Positive
+502,"So I pulled up and opened my door and the first thing I said is my drivers window is broken do not bring it down, he said we can use the passenger one",Interior/Exterior car damage,-0.4767,Negative
+503,"Your prices for an oil change are high, the only reason i used jiffy lube this time was because it was close and I figured it would not matter if i took it to Jiffy Lube rather than the other place i take it",Price too high,-0.0191,Negative
+504,"Other than oil changes, windshield chip repair, emissions and inspections done at Jiffy Lube, I have my cars serviced and repaired elsewhere",Competition-prefer local mechanic,0.0,Neutral
+505,I have a mechanic who does all other maintenance of my vehicle,Competition-prefer local mechanic,0.0,Neutral
+506,Because I have mechanic friends,Competition-prefer local mechanic,0.4767,Positive
+507,I was told my tires were inflated- they were not,Overcharged - charged more than was agreed on,0.0,Neutral
+508,I know I'm being oversold,Overselling-Pressure to buy,0.0,Neutral
+509,"The mechanics stated they washed my windows, put air in my tires, and vacuumed my truck",Competition-prefer local mechanic,0.0,Neutral
+510,I have a mechanic that takes care of my vehicles,Competition-prefer local mechanic,0.4939,Positive
+511,I usually get my oil changed for a decent price every time I go to Jiffy lube but for some reason I went in this time and they over priced it like crazy and when I asked him why so high he said they are different from other jiffy lubes and I have been to that location before and it was never high like that,Price too high,0.5267,Very Positive
+512,This was one of the worst experiences with my car I've ever had,Other service issues,-0.6249,Very Negative
+513,I do not normally service my vehicle at Jiffy Lube,Competition-prefer local mechanic,0.0,Neutral
+514,Fabric seats were left black and dirty by employees,Other service issues,-0.4404,Negative
+515,Your technicians are pushy and wanted to go through our insurance to do a repair on our windshield that they had already repaired the last time we went there,Overselling-Pressure to buy,-0.2732,Negative
+516,There were only two employees,Other issues,0.0,Neutral
+517,Technician spoke too quickly without explaining when trying to push other services,Overselling-Pressure to buy,0.0,Neutral
+518,They always try and sell you things that you don't need and tell you things that are literally brand-new are going out or need replaced they always try to upsell you and fleece the consumer,Overselling-Pressure to buy,0.0,Neutral
+519,Not ASE certified,Other issues,0.0,Neutral
+520,too much money,Price too high,0.0,Neutral
+521,They left a pool of oil in my skid plate,Other issues,0.0,Neutral
+522,Did not credit me the $10 off,Discount/coupon issue,-0.2924,Negative
+523,Price,Price too high,0.0,Neutral
+524,The price of service,Price too high,0.0,Neutral
+525,"I am constantly disappointed that - when I get back in my car, there are greasy fingerprints on the door, the steering wheel, etc",Other service issues,-0.4767,Negative
+526,Because I generally do routine maintenance,Competition-prefer local mechanic,0.0,Neutral
+527,Employees were smoking,Unprofessional employees,0.0,Neutral
+528,"It took 45 minutes for my car's oil to be changed, even though there was no line in front of me",Service took too long,-0.296,Negative
+529,I requested the cheapest oil change and still ended up paying $50,Price too high,0.0,Neutral
+530,Price,Price too high,0.0,Neutral
+531,Expensive than the showroom service price,Price too high,0.0,Neutral
+532,Oil was dripped on the side of the vehicle,Other service issues,0.0,Neutral
+533,The price of the oil change was about $15 more than the price I pay for the same service at a Havoline Store less than 2 miles away,Price too high,-0.1027,Negative
+534,I usually go to my dealership,Competition-prefer other car care chain,0.0,Neutral
+535,price value and I was not pleased with the fact I was being charged an upcharge for a filter I did not request nor require,Overcharged - charged more than was agreed on,-0.2037,Negative
+536,Location is far from my residence and inconvenient for many services,Location,-0.34,Negative
+537,Price!!!!!  Last service at Chevy dealer was less and inc tire rotation,Price too high,0.0,Neutral
+538,Paid for coolant to be filled and I left with it empty,Overcharged - charged more than was agreed on,-0.2023,Negative
+539,I paid for signature service and my car was not vacuumed or Windows cleaned,Other service issues,0.0,Neutral
+540,Did not top fluids or vacuum,"Fluids not topped off (ie engine coolant, washer fluid)",-0.1511,Negative
+541,I do my own maintaince on my car,Competition-prefer local mechanic,0.0,Neutral
+542,"My husband can do a lot of the work that jiffy lube offers, himself",Competition-prefer local mechanic,0.0,Neutral
+543,"My iPhone holder (attached) to my car vent, which held my iPhone and gave me directions to the Jiffy Lube, was missing when I left",Item missing/stolen,-0.296,Negative
+544,"due to them using an oily rag to dry my windshield,  I had trouble removing the oil residue and I had to use dawn to remove the grease from my windshield",Other service issues,-0.4019,Negative
+545,Cost of service was too high,Price too high,0.0,Neutral
+546,I have a mechanic,Competition-prefer local mechanic,0.0,Neutral
+547,I already know a good mechanic that I have been to before and trust,Competition-prefer local mechanic,0.7351,Very Positive
+548,Not convinced they have the talent or equipment to do job,,0.1386,Positive
+549,too expensive,Price too high,0.0,Neutral
+550,I asked about an oil change for my car and was told signature service was $45,Price too high,0.0,Neutral
+551,I have always had my cars serviced at Jiffy Lube and have had the best service but my last visit did not go well,Poor customer service,0.0974,Positive
+552,"The ""mechanics"" forgot to add oil back to our vehicle!  After a few unsuccessful attempts by the manager to ""clear"" what he thought was a ""change oil"" light, despite my telling him it was an ""oil level"" idiot light, he rev'd the engine a few times, the light flickered out & back on again, and he said the battery needed to be replaced!  We drove off & by the grace of God and my intuition we stopped at a AutoZone parts store ~2miles away",Incorrect oil level/quantity,-0.5242,Very Negative
+553,For one they messed up my tire pressure sensor for two I asked them to check my spark plugs and they didn't and instead of admitting they forgot they blew me off,Overcharged - charged more than was agreed on,-0.4019,Negative
+554,I was scheduled to have a oil change on my 2003 Crown Victoria  so I want to a automotive shop (Christian Brothers in Sandy Springs Ga,Competition-prefer other car care chain,0.188,Positive
+555,I do my own maintenance,Competition-prefer local mechanic,0.0,Neutral
+556,Prices way too high for shitty service,Price too high,-0.5574,Very Negative
+557,Too expensive,Price too high,0.0,Neutral
+558,Cost of service for oil change is too high ,Price too high,0.0,Neutral
+559,Have regular mechanic that does other routine maintenance,Competition-prefer local mechanic,0.0,Neutral
+560,"It won't be ""Jiffy""",Service took too long,0.0,Neutral
+561,Only trust them with oil changes,Untrustworthy\Mistrust,0.5106,Very Positive
+562,The skill sets at my regular maintenance provider are better in my opinion,Competition-prefer local mechanic,0.4404,Positive
+563,"Pretty sure I was ""upsold""",Overselling-Pressure to buy,0.6705,Very Positive
+564,Better satisfied at another place,Competition-prefer local mechanic,0.6908,Very Positive
+565,Lied about cleaning windows and vacuuming which i really didnt need done in the first place but why lie about doing it? Suggested i buy services for the vehicle that were not needed,Other service issues,-0.2023,Negative
+566,I felt like the initial prices quoted to me were inflated because I am female,Price too high,0.3612,Positive
+567,"I got an oil change and when I received my final paperwork it showed that my fluids were topped, Windows cleand, car vacuumed",Other service issues,0.0,Neutral
+568,To expensive,Price too high,0.0,Neutral
+569,The cost,Price too high,0.0,Neutral
+570,I have an excellent shop for other maintenance,Competition-prefer local mechanic,0.5719,Very Positive
+571,They got oil on my white seats for the second time and then made me feel uncomfortable and like he wasn't gonna take no for an answer when he told me that I needed transmission fluid and I told him I was gonna wait because I didn't have much time that I was on my lunch break,Service took too long,0.1994,Positive
+572,Too expensive,Price too high,0.0,Neutral
+573,Car still under warranty so will return to dealer for other maintenance,Competition-prefer other car care chain,0.0,Neutral
+574,Don't live here and always go to my dealer ,Competition-prefer other car care chain,0.0,Neutral
+575,Too expensive,Price too high,0.0,Neutral
+576,"Though the staff was very courteous, I  did not receive the signature service I was expecting",Other issues,0.5563,Very Positive
+577,Because we have a mechanic who does all other maintenance on our autos,Competition-prefer local mechanic,0.0,Neutral
+578,We had to wait over 40 minutes to get serviced,Service took too long,0.0,Neutral
+579,It took an hour and a half and then as I was leaving they had to pull my truck back in to drain some oil out because two different guys worked on it and both added oil,Service took too long,0.0,Neutral
+580,Employees standing around and talking while there is a line of cars waiting,Service took too long,0.0,Neutral
+581,I really don't like feeling like I'm constantly having additional services and products pushed on me,Overselling-Pressure to buy,-0.6609,Very Negative
+582,I am not certain they will understand how to work on my specific model/make/year of my vehicle(s),Employees not knowledgeable,-0.2057,Negative
+583,the Prius is a very specialized vehicle,Other issues,0.0,Neutral
+584,Prices,Price too high,0.0,Neutral
+585,I feel that I was being tricked in to overpaying for my oil change,Price too high,-0.1531,Negative
+586,"beyond regular oil and filter changes, all my auto maintenace cares are done at the car dealership",Competition-prefer other car care chain,0.4588,Positive
+587,It took a long time to get a cabin filter and then about 40 more minutes to out it in,Service took too long,0.0,Neutral
+588,I have a mechanic,Competition-prefer local mechanic,0.0,Neutral
+589,It ended up costing me a lot of money,Price too high,0.0,Neutral
+590,Overpriced compared to others in the area,Price too high,0.0,Neutral
+591,Too expensive,Price too high,0.0,Neutral
+592,The cost was much higher than I have payed at other places,Price too high,0.0,Neutral
+593,They broke a part on my car while trying to rotate my tires,Interior/Exterior car damage,-0.4215,Negative
+594,I don't trust Jiffy Lube with maintenance other than Oil change,Untrustworthy\Mistrust,-0.4023,Negative
+595,I only use jiffy lube for oil changes and tire rotations if it is something bigger than that I prefer that the dealership looks at it,Competition-prefer other car care chain,0.0,Neutral
+596,I take my Mini to BMW dealer for all but oil changes,Competition-prefer other car care chain,0.0,Neutral
+597,"Had 4 power steering pumps installed, and none of them fixed my steering",Other issues,0.0,Neutral
+598,Too expensive!,Price too high,0.0,Neutral
+599,They tried to overcharge me,Overcharged - charged more than was agreed on,0.0,Neutral
+600,"I go other places for things like tires, etc",Competition-prefer local mechanic,0.3612,Positive
+601,I do other maintenance myself,Competition-prefer local mechanic,0.0,Neutral
+602,My wheel and key were full of dirty oil after the oil change,Other service issues,-0.4404,Negative
+603,Go to dealership,Competition-prefer other car care chain,0.0,Neutral
+604,I don't go to jiffy lube for that,Competition-prefer local mechanic,0.0,Neutral
+605,I go to a VW specialist for anything beyond a simple oil change,Competition-prefer other car care chain,0.0,Neutral
+606,I have another mechanic I usually use but Jiffy Lube is more convenient for oil changes,Competition-prefer local mechanic,0.0,Neutral
+607,"was told needed wiper blades and didn't want them to get replaced ,they were just replaced and it started to rain as leaving and bolt fell out and had to go back in for them to fix  the bolt on the wiper blades",Overselling-Pressure to buy,-0.0572,Negative
+608,Take forever to be done,Service took too long,0.0,Neutral
+609,I went in for an oil change and check my air cabin filters and forgot to put them back and then I called they Lost the trays and i had to make a second trip for them to find them accidental i know but there was no compensation or anything for the 20-minute wait while they looked around for it,Item missing/stolen,-0.5574,Very Negative
+610,Not replacing clamp and hose that was taken off,Interior/Exterior car damage,0.0,Neutral
+611,The worker there broke the inside handle on my driver's side door,Interior/Exterior car damage,-0.4215,Negative
+612,I have a machamic,Competition-prefer local mechanic,0.0,Neutral
+613,As a single mom I had no choice but to bring my daughters with me,Other issues,-0.1531,Negative
+614,I have to say that I will definitely not return to that specific Jiffy Lube,Other issues,0.4019,Positive
+615,Wanted fuelfilter changed got home and checked still had old filter new one was not installed and was charged $10 more than what the computer showed was the right price,Price too high,-0.2023,Negative
+616,Normally I have always had a good experience at jiffy lube ,Other issues,0.4404,Positive
+617,I have a very good mechanic for the other things I need done and I feel that the techs at Jiffy lube will say anything to make some other kind of sale,Competition-prefer local mechanic,0.4927,Positive
+618,"I have t mentally prepare myself for a visit to Jiffy Lube for just an oil change, since I have always found your high-pressure sales pitch for things beyond the oil change hard to handle",Overselling-Pressure to buy,-0.1027,Negative
+619,The technician spilled a lot of old when removing my oil filter,Other issues,0.0,Neutral
+620,Oil changes are far too expensive there anymore,Price too high,0.0,Neutral
+621,I hate getting asked if I want an extra $500 worth of services when I came in for only an oil change,Overselling-Pressure to buy,-0.3612,Negative
+622,Prefer to use other shops for non-oil change maintenance,Competition-prefer other car care chain,0.0,Neutral
+623,We have a regular mechanic who takes care of other issues,Competition-prefer local mechanic,0.4939,Positive
+624,I have a good relationship w/ my dealership that services and knows my car inside and out,Competition-prefer other car care chain,0.4404,Positive
+625,I left and as I was driving to work the next morning (first time I had driven my car other then taking it home) my tire pressure light came on,Other service issues,-0.296,Negative
+626,The management is poor and is not professional,Unprofessional employees,-0.4767,Negative
+627,To expensive,Price too high,0.0,Neutral
+628,My what use to be a quick oil change has turned into a 35 minute oil change,Service took too long,0.0,Neutral
+629,They honestly lied to me about my oil,Untrustworthy\Mistrust,0.1027,Positive
+630,I have a family mechanic that will do the work,Competition-prefer local mechanic,0.0,Neutral
+631,They did not reset the maintenance required light on my car again,Oil service light not reset ,0.0,Neutral
+632,"I feel I was over charged, and the charges on the invoice are to hard to understand",Overcharged - charged more than was agreed on,-0.5106,Very Negative
+633,"Brother owns a Ford Dealership and handles such items at a price (""free"") that Jiffy Lube would be unlikely to match ",Price too high,0.0,Neutral
+634,The price,Price too high,0.0,Neutral
+635,"First, it is always different people working there",Other issues,0.0,Neutral
+636,Your prices are outrageous,Price too high,-0.4588,Negative
+637,"Didn't put an updated next oil change sticker in the window, plus your just too expensive !!! I can get synthetic oil for the price you charge",Overcharged - charged more than was agreed on,0.0,Neutral
+638,I believe that Jiffy Lube tries to sell you unnecessary services to boost their bottom line,Overselling-Pressure to buy,0.4019,Positive
+639,Too expensive,Price too high,0.0,Neutral
+640,On the high side on price for an oil change,Price too high,0.0,Neutral
+641,Expensive,Price too high,0.0,Neutral
+642,The tech that I wouldn't trust,Untrustworthy\Mistrust,-0.4023,Negative
+643,I asked for cheapest oil change and was told I needed this expensive oil which I had on idea,Price too high,0.0,Neutral
+644,They serviced someone else's car before mine,Later-arriving customers served ahead of me,0.0,Neutral
+645,"The time before this last oil change, they didn't secure a panel or whatever it was and I had to go to the Hyundai dealership to have it fixed/secured",Competition-prefer other car care chain,-0.2584,Negative
+646,I would plan on going to a dealer for anything more complicated,Competition-prefer other car care chain,0.0,Neutral
+647,I am used to clean vehicle and fluids checked and topped off,Other service issues,0.4019,Positive
+648,95% positive that my car window was scratched,Interior/Exterior car damage,0.5574,Very Positive
+649,"After taking my car to get the oil changed, something proceeded to fall off of my car as I was driving on the highway",Interior/Exterior car damage,0.0,Neutral
+650,I have a personal mechanic that handles all my needs for my vehicle,Competition-prefer local mechanic,0.0,Neutral
+651,Asked for a basic oil change and was upgraded without asking me and was charged more for it,Overcharged - charged more than was agreed on,-0.2023,Negative
+652,"I was the only vehicle in the bays  5 kids working, only 1 kid (avery) was actually working",Service took too long,0.0,Neutral
+653,Recommended and charged for services with over the top prices,Overcharged - charged more than was agreed on,0.2023,Positive
+654,Husband performs all routine maintenance on our cars,Competition-prefer local mechanic,0.0,Neutral
+655,Have my Corvett serviced at local Chevy dealer with a specialist tech,Competition-prefer other car care chain,0.0,Neutral
+656,I asked for a tire rotation and they did not do one,Tire rotation service issue,0.0,Neutral
+657,Oil filter installed improperly,Oil filter issue,0.0,Neutral
+658,Too expensive,Price too high,0.0,Neutral
+659,Too expensive,Price too high,0.0,Neutral
+660,"Service rep offered my 2016 vehicle high mileage oil, made me feel like they weren't aware of what they were selling me",Misinformation about car/service needs given to customer,0.3612,Positive
+661,I had multiple additional charges for bringing my Volvo in for an oil change compared to when I previously brought in my Acura,Overcharged - charged more than was agreed on,-0.2732,Negative
+662,Time,Service took too long,0.0,Neutral
+663,I take it elsewhere for service other than oil changes,Competition-prefer other car care chain,0.0,Neutral
+664,I usually use someone else for other repairs,Competition-prefer local mechanic,0.0,Neutral
+665,"well first I have a brand new car I'm also the first and only owner and have less the 20k miles on my vehicle they told me, my break fluid tested 4 percent and that I would need a break flush which cost $99.99",Price too high,0.2732,Positive
+666,"I have been to many different places for an oil change but have never paid so much, even for synthetic oil",Price too high,0.0,Neutral
+667,Usually service with jiffy lube is fine,,0.2023,Positive
+668,I asked for the cheapest oil change and he charged me $40 when they had a guy standing outside with a sign for $22.99,Overcharged - charged more than was agreed on,-0.2023,Negative
+669,"They forgot to use my Groupon, told me to try to sell it to a coworker or come back in a few months for another oil change",Discount/coupon issue,0.0,Neutral
+670,"After passing an employee holding a sign advertising a good price for an oil change, I was not asked what level of service I wanted when my information was taken",Price too high,0.4404,Positive
+671,$20 CHARGE FOR A SIGNAL LIGHT,Overcharged - charged more than was agreed on,0.0,Neutral
+672,I felt as if I was overcharged,Overcharged - charged more than was agreed on,0.0,Neutral
+673,Too expensive comparitvely,Price too high,0.0,Neutral
+674,I have a regular mechanic I take the car to whenever it needs routine maintenance,Competition-prefer local mechanic,0.0,Neutral
+675,Over priced and lied to,Price too high,-0.3818,Negative
+676,DO NOT like the constant pressure of store personnel to buy air filters or discuss services that I didn't come in to get,Overselling-Pressure to buy,-0.5122,Very Negative
+677,Sometimes the staff is not very friendly,Unprofessional employees,-0.43,Negative
+678,The price of the oil change is way too high,Price too high,0.0,Neutral
+679,I can do most other matainence myself,Competition-prefer local mechanic,0.0,Neutral
+680,A lot of grease on outside of my driver door and on drivers seat and door interior,Other service issues,0.0,Neutral
+681,Have warranty on everything else or easy to do myself,Overcharged - charged more than was agreed on,0.4404,Positive
+682,"Vacuum was not completed, although invoice says it was",Vacuuming not done propertly,0.0,Neutral
+683,"Price of synthetic oil doubled, What the Hell! Oil prices are down",Price too high,-0.7088,Very Negative
+684,Do most myself,Competition-prefer local mechanic,0.0,Neutral
+685,"Mostly cost, prices are extremely to high for a lube change",Price too high,0.0,Neutral
+686,I had to bring my car right back after having an oil change due to my car smoking,Oil filter issue,0.0,Neutral
+687,The female associate (Iracely I believe that was her name) was extremely rude,Unprofessional employees,-0.5095,Very Negative
+688,They began service on my car then tried to charge me $75 for a routine oil change that at every other location cost less than $40,Overcharged - charged more than was agreed on,0.0,Neutral
+689,I have heard too many stories about sales people recommending things that customers don't really need,Overselling-Pressure to buy,0.0,Neutral
+690,An employee was wearing marijuana socks with shorts so it was completely visible by other customers and myself,Unprofessional employees,0.0,Neutral
+691,My car is a Mercedes Benz and not everyone can work on these cars,Employees not knowledgeable,0.0,Neutral
+692,You're guy told me I needed a part changed and that it was a driving hazard,Overselling-Pressure to buy,0.0,Neutral
+693,"Customer service was poor - the assistant manager who I was working with during the entire transaction was not friendly, did not speak clearly to me and was generally unhelpful as I was visiting this location for the first time and giving my business to a Jiffy Lube for the first time in 6 years",Service took too long,-0.6794,Very Negative
+694,They broke my AC one time,Interior/Exterior car damage,-0.4215,Negative
+695,I thought that in the signature oil change service that you got interior vacuuming and also windshield fluid check and fill and neither were done,Vacuuming not done propertly,0.0,Neutral
+696,Not a place for other services,,0.0,Neutral
+697,have my own mechanic,Competition-prefer local mechanic,0.0,Neutral
+698,I don't use Jiffy Lube for any other service besides oil changes,Competition-prefer other car care chain,0.0,Neutral
+699,There is a chronic problem with either striping the screws that hold on the undercarriage or losing the screw this has happened on three cars now,Interior/Exterior car damage,-0.7717,Very Negative
+700,"For one, I was shocked at the price of the oil change",Price too high,-0.3182,Negative
+701,Did not have the oil that I normally use,Item out of stock,0.0,Neutral
+702,"I have a mechanic who does other work but I like to have my oil changed at Jiffy Lube, quick & easy",Competition-prefer local mechanic,0.7964,Very Positive
+703,I would rather have a reputable certified auto mechanic perform other routine maintenance on my vehicle,Competition-prefer local mechanic,0.0,Neutral
+704,I usually only go to Jiffy Lube if I can't go to my primary mechanic,Competition-prefer local mechanic,0.0,Neutral
+705,This is second time i was about to leave after my oil change an items marked completed were not done,Other service issues,-0.0516,Negative
+706,Maintenance is done by a family friend,Competition-prefer local mechanic,0.4939,Positive
+707,They don't pay attention to notes on your computer,Poor customer service,0.0762,Positive
+708,Depends what is needed done but would go to local small business machanic,Competition-prefer other car care chain,0.0,Neutral
+709,husband does repairs,Competition-prefer local mechanic,0.0,Neutral
+710,Less expensive at other places,Price too high,0.0,Neutral
+711,i do this myself,Price too high,0.0,Neutral
+712,I asked the man to only give me the oil included in the signature service and he still uncharged me,Overcharged - charged more than was agreed on,0.0,Neutral
+713,Very poor service,Poor customer service,-0.5256,Very Negative
+714,They lied to me told me the brake fluid was so low they could not check it,Misinformation about car/service needs given to customer,-0.6532,Very Negative
+715,I have major service maintainance done at my car dealer,Competition-prefer other car care chain,0.0,Neutral
+716,To expensive for a oil change,Price too high,0.0,Neutral
+717,I am upset that the $29.99 special has been discontinued,Other issues,0.0258,Positive
+718,The oilstick got  broken by one of the guys that work there,Interior/Exterior car damage,-0.4767,Negative
+719,Have somewhere else I use for other things,Competition-prefer other car care chain,0.0,Neutral
+720,Too expensive,Price too high,0.0,Neutral
+721,I use a local garage has experienced technicians,Competition-prefer local mechanic,0.0,Neutral
+722,Charged me $20.00 more than I have ever paid for the same oil change at the same place,Overcharged - charged more than was agreed on,-0.2023,Negative
+723,The woman that handled my information was very rude,Unprofessional employees,-0.5095,Very Negative
+724,I use the dealer for all maintenance work,Competition-prefer other car care chain,0.0,Neutral
+725,This is the first time I've had an experience that wasn't great,Poor customer service,-0.5096,Very Negative
+726,I will go to my dealership for warranty upkeep purposes,Competition-prefer other car care chain,0.0,Neutral
+727,They did not vacuum my floors like they said,Vacuuming not done propertly,0.3612,Positive
+728,Cost - much more expensive than other places for an oil change,Price too high,0.0,Neutral
+729,Your prices are outrageous,Price too high,-0.4588,Negative
+730,Took almost 45 min,Service took too long,0.0,Neutral
+731,I was in the lobby 36 minutes before anyone said anything to me,Service took too long,0.0258,Positive
+732,"Had to wait at ""Not So Jiffy Lube"" 25 freaking minutes to get an oil change",Service took too long,-0.4215,Negative
+733,The person that helped me had no idea what car I was even driving,Employees not knowledgeable,-0.296,Negative
+734,My Ford mechanic does all the maintenance on this car,Competition-prefer local mechanic,0.0,Neutral
+735,They were suppose to check all fluids and the next day I needed power steering fluid so they didn't check all fluids like I asked so it makes me think they didn't do the rest of the stuff that I asked,Overcharged - charged more than was agreed on,0.3612,Positive
+736,I arrived at 8:11am and the shop was suppose to open at 8am,Unprofessional employees,0.0,Neutral
+737,They indicated that they cleaned the carpets and windows on my receipt,Other service issues,0.0,Neutral
+738,the checklist on my recipt wasnt done,Overcharged - charged more than was agreed on,0.0,Neutral
+739,They broke my light switch that control my head lights,Interior/Exterior car damage,-0.4215,Negative
+740,$88 for an oil change? WHAT A JOKE!,Price too high,0.4981,Positive
+741,I was very disappointed with the service,Other service issues,-0.5256,Very Negative
+742,I go to a mechanic and not a lube tech for needed repairs,Competition-prefer local mechanic,0.0,Neutral
+743,"they did not top off all the fluids,  spilt oil on front of car and did not clean it up, tried to get me to buy things for my car that i did not need wiper blades and rad  cap",Other service issues,-0.431,Negative
+744,"It's nothing about my experience, just that I am comfortable taking my car to Jiffy Lube for an oil change, but if it needs other work done, I will take it to a shop",Competition-prefer other car care chain,0.2846,Positive
+745,Have another mechanic I take the car,Competition-prefer local mechanic,0.0,Neutral
+746,The mechanic tried way too hard to sell me stuff that does not need to be serviced,Competition-prefer local mechanic,-0.1027,Negative
+747,"Other than oil changes, I prefer to go to my dealer",Competition-prefer other car care chain,0.0,Neutral
+748,I have a good mechanic already,Competition-prefer local mechanic,0.4404,Positive
+749,I'm not convinced the staff knows anything more than how to change fluids & filters,Employees not knowledgeable,-0.3089,Negative
+750,My vehicle is still under the manufacturers warranty,Competition-prefer other car care chain,0.0,Neutral
+751,I feel like I am being taken advantage of & always have to choose the more expensive services,Price too high,0.5423,Very Positive
+752,Have been satisfied with other shops for other maintenance needs,Competition-prefer local mechanic,0.4215,Positive
+753,Other mechanics have better pricing,Competition-prefer local mechanic,0.4404,Positive
+754,Bad services over charges and didn't even take coupons,Overcharged - charged more than was agreed on,-0.6808,Very Negative
+755,I usually do routine maintenance at my mechanic,Competition-prefer local mechanic,0.0,Neutral
+756,I do most of the other services myself,Competition-prefer local mechanic,0.0,Neutral
+757,"I had an oil change done and a battery replaced, service was quick but when I checked under the hood when I got home there were tools, trash, and even loose parts from my car were left under there",Unprofessional employees,-0.4497,Negative
+758,"I will only receive an oil change because I have been going to the same location for years and it is convenient, however one employee was very unprofessional and was trying to ask me out",Unprofessional employees,-0.5563,Very Negative
+759,"Prices were to high but we are leaving on vacation next week and didn't have time to look around for discounts, or specials!",Price too high,0.0,Neutral
+760,The manager? (Had on white shirt)was a weirdo made me feel uncomfortable,Unprofessional employees,-0.6597,Very Negative
+761,"If you stop bringing the air filter to me and offer a new one, I'll consider",Overselling-Pressure to buy,-0.296,Negative
+762,I was charged $475 for for a wheel bearing and $ 30 for a light bulb and on top of that they left my air filter out,Overcharged - charged more than was agreed on,0.0,Neutral
+763,The employees at Jiffy Lube try to get me to buy everything while I'm there and tell me my vehicle needs all sorts of things done to it when I only came in for an oil change and that was all that I wanted,Overselling-Pressure to buy,0.0,Neutral
+764,I felt it was a bit over priced for the services I received,Price too high,0.0,Neutral
+765,When they changed my oil the did not reset the maintenance required light so I will probably just go to the dealer from now on to be sure that everything is actually done right,Oil service light not reset ,0.3182,Positive
+766,$130.00 to change oil in sons car is bullshit and way to expensive,Price too high,-0.5859,Very Negative
+767,They tried to sell high perf oil air filter and cab filter for an extra $150,Overselling-Pressure to buy,0.0,Neutral
+768,They replaced my windshield wipers and they blew off while driving on the freeway during a rainstorm!,Interior/Exterior car damage,0.126,Positive
+769,I think my local mechanic is more capable of taking care of those issues,Competition-prefer local mechanic,0.7264,Very Positive
+770,Have an auto mechanic that I use,Competition-prefer local mechanic,0.0,Neutral
+771,Watched 3 disatisfied customers voice their opinions while i waited 1.5 hours for my oil change that i was told would take 30 minutes,Service took too long,0.0,Neutral
+772,"Technician told me that Subaru specified that my car should have the brake fluid replaced and the differential fluid changed, which would have cost me over $150",Price too high,0.0,Neutral
+773,go to dealer,Competition-prefer other car care chain,0.0,Neutral
+774,Items seem to be overpriced,Price too high,0.0,Neutral
+775,No attempt was made to reconcile the frustration from having to get a window rolled up that was carelessly rolled down in spite of having window-lock on,Interior/Exterior car damage,-0.8658,Very Negative
+776,My son is an auto mechanic,Competition-prefer local mechanic,0.0,Neutral
+777,I have a mechanic I use for,Competition-prefer local mechanic,0.0,Neutral
+778,They got oil all over my floor mats AGAIN,Interior/Exterior car damage,0.0,Neutral
+779,The staff are really rude not helpful,Unprofessional employees,-0.7085,Very Negative
+780,I go to a longtime auto shop that I've used for years,Service took too long,0.0,Neutral
+781,Took 5 hours when I was told it should only take 2,Service took too long,0.0,Neutral
+782,"Every time I go to a jiffy lube, the service gentleman would always give me a quote, before they touch your vehicle",Service took too long,0.0,Neutral
+783,I have a warranty with jeep,Competition-prefer other car care chain,0.0,Neutral
+784,lack of trust based on incompetent inspector,Untrustworthy\Mistrust,-0.2732,Negative
+785,"My air filter was not inspected, I went in knowing I had a front right single light out and that was over looked by this jiffy lube location",Unprofessional employees,0.0,Neutral
+786,"I feel like the some technicians are completely not knowledgeable in regards to transmission flushes, rotating tires",Employees not knowledgeable,0.3612,Positive
+787,I can receive the same services with better customer service at a competitor,Poor customer service,0.4404,Positive
+788,I had a tire rotation done at the mesquite location and they charged me $10 then I had another done at the Forney location and they charged me $29,Tire rotation service issue,-0.3818,Negative
+789,It was WAY TOO EXPENSIVE,Price too high,0.0,Neutral
+790,I prefer other service done at a car dealer,Competition-prefer other car care chain,0.0,Neutral
+791,Do not look to jiffy lube for service beyond oil changes,Competition-prefer other car care chain,0.0,Neutral
+792,The Jiffy Lube was understaffed and notattentive to the service I needed done the service was extremely slow I spent all afternoon for a simple oil change,Unprofessional employees,0.0,Neutral
+793,Customer service is pushy and recommends things that aren't needed and prices are above average,Price too high,-0.0516,Negative
+794,They did not check the battery and the next day it died and I was stranded,Alignment or Battery service issues,-0.5574,Very Negative
+795,I felt like they were asking to do a lot of extra work on the carto increase their profit,Overselling-Pressure to buy,0.7717,Very Positive
+796,Not happy with past service and way employees presented themselves,Unprofessional employees,-0.4585,Negative
+797,The interactions I had with employees were not very friendly and their overall demeanor suggested a lack of interest in their job,Unprofessional employees,-0.2835,Negative
+798,Work with my original dealer,Competition-prefer other car care chain,0.3182,Positive
+799,I was almost certainly overcharged,Overcharged - charged more than was agreed on,0.2748,Positive
+800,I have another person servicing my car,Competition-prefer local mechanic,0.0,Neutral
+801,The lube was done in about 15 minutes so it left me uneasy that they checked everything,Other issues,-0.3818,Negative
+802,Your manager was pushing items and not listening to what I needed,Overselling-Pressure to buy,0.0,Neutral
+803,My dealership gives me free oils changes and other maintenance checks,Competition-prefer other car care chain,0.5106,Very Positive
+804,One worker there was willing to let me choose an oil that could invalidate my car warranty,Untrustworthy\Mistrust,0.0,Neutral
+805,"Ac was no longer working after visit little air flow, cabin air filter was not properly installed after being take",Interior/Exterior car damage,-0.296,Negative
+806,Price is way too high,Price too high,0.0,Neutral
+807,Well I did love jiffy but this visit did me in the heat said manager Billy talked me out of getting my tires rotated the way I wanted then I said well I want the front moved to the back he said best where they are no need to waste money I said can't believe you just said that then I wanted a price on brakes and wanted to get my rear seal replaced had priced it on my last oil change he said well it will take to long today OMG! It was 3 pm and they weren't busy so I'm mad so they change oil only then said I'm done and I had to ask and wait on a brake quote while checking out and  when I was there in the past friendly staff quick quotes so I could get it done  and red carpet this time nothing talked me out of repairs  so I went right down rd and got my tires rotated no prob,Price too high,0.7411,Very Positive
