@@ -5,9 +5,6 @@ from gensim.corpora.dictionary import Dictionary
 from gensim.parsing.preprocessing import preprocess_string
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 
-
-
-
 #for each dataframe, output the misclassified data...
 def output_csv_files(output_dfs, output_df_strs):
 	assert(len(output_dfs)==len(output_df_strs))
@@ -32,7 +29,6 @@ def output_csv_files(output_dfs, output_df_strs):
 		misclassified_df.to_csv(f_name)
 	return
 
-
 #Main shell that accrues all of the dataframes from the .csv files
 def main_shell():
 	BS_Oil_Non_Return_27June2017=pd.read_csv('BS_Oil_Non_Return_27June2017.csv',header=None,error_bad_lines=False)
@@ -48,9 +44,9 @@ def main_shell():
 	Core_RM_Non_Return_27June2017=pd.read_csv('Core_RM_Non_Return_27June2017.csv',header=None,error_bad_lines=False)
 	Core_RM_Non_Return_27June2017=Core_RM_Non_Return_27June2017[[0,1]] #just first two columns
 	output_dfs = [BS_Oil_Non_Return_27June2017,BS_Oil_Return_27June2017,BS_RM_Non_Return_27June2017,
-				Core_Oil_Non_Return_27June2017,Core_Oil_Return_27June2017,Core_RM_Non_Return_27June2017]
+			Core_Oil_Non_Return_27June2017,Core_Oil_Return_27June2017,Core_RM_Non_Return_27June2017]
 	output_df_strs = ['BS_Oil_Non_Return_27June2017','BS_Oil_Return_27June2017','BS_RM_Non_Return_27June2017',
-				'Core_Oil_Non_Return_27June2017','Core_Oil_Return_27June2017','Core_RM_Non_Return_27June2017']
+			  'Core_Oil_Non_Return_27June2017','Core_Oil_Return_27June2017','Core_RM_Non_Return_27June2017']
 	output_csv_files(output_dfs, output_df_strs)
 
 main_shell()
