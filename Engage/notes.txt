@@ -1,5 +1,5 @@
-sentiment analysis code
-club same users into the same list
-preprocess data completely (list of preprocesed data)
-list of sentiments
-visual display of everything
+Sentiment Analysis Code:
+-- 1. Group users .
+-- 2. Preprocess data .
+-- 3. List of sentiments .
+-- 4. Visually display everything .
