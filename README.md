@@ -1,1 +1,1 @@
-# osg
+# Optimial Strategix Group
