@@ -1,1 +1,1 @@
-# Optimial Strategix Group
+# Optimal Strategix Group
